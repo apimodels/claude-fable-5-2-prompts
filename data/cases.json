@@ -1497,9 +1497,9 @@
     "likes": 18,
     "statsAsOf": "2026-11-11",
     "promptStatus": "full",
-    "prompt": "make a 15 second animated video that says final goodbye to Opus 5.5 as Fable 5.2 is here and I switched to it\n\n(第二条) make the video like it's your showreel",
+    "prompt": "make a 15 second animated video that says final goodbye to Opus 5.5 as Fable 5.2 is here and I switched to it\n\n[second prompt] make the video like it's your showreel",
     "promptSource": "https://x.com/kaif9998/status/2119904086288118219",
-    "promptCharacters": 155,
+    "promptCharacters": 165,
     "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/057-15-second-farewell-to-opus-5-5-as-fable-5-2-arrives.md"
   },
   {

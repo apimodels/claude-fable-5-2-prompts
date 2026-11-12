@@ -14,7 +14,7 @@ By [@kaif9998](https://x.com/kaif9998) · [original post](https://x.com/kaif9998
 ```text
 make a 15 second animated video that says final goodbye to Opus 5.5 as Fable 5.2 is here and I switched to it
 
-(第二条) make the video like it's your showreel
+[second prompt] make the video like it's your showreel
 ```
 
 To make one like it: the [Three.js starter](../../starter/threejs) turns a page with renderAt(t) into an MP4 (tested), and our [Claude Fable 5.2 prompting guide](https://apimodels.app/claude-fable-5-2-prompting-guide) has six brief templates.
