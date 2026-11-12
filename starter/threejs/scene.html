@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>renderAt demo</title>
+<style>html,body{margin:0;background:#0b0d12;overflow:hidden}canvas{display:block}</style>
+<script type="importmap">
+{ "imports": { "three": "https://unpkg.com/three@0.160.0/build/three.module.js" } }
+</script>
+</head>
+<body>
+<script type="module">
+import * as THREE from 'three';
+
+const W = 1280, H = 720, DURATION = 4; // seconds
+const renderer = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
+renderer.setPixelRatio(1);
+renderer.setSize(W, H);
+document.body.appendChild(renderer.domElement);
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x0b0d12);
+const camera = new THREE.PerspectiveCamera(40, W / H, 0.1, 100);
+
+scene.add(new THREE.HemisphereLight(0xbfd4ff, 0x20140a, 0.6));
+const sun = new THREE.DirectionalLight(0xffe2b8, 2.2);
+sun.position.set(4, 6, 3);
+scene.add(sun);
+
+const ground = new THREE.Mesh(new THREE.CircleGeometry(6, 64), new THREE.MeshStandardMaterial({ color: 0x1c2230, roughness: 0.9 }));
+ground.rotation.x = -Math.PI / 2;
+scene.add(ground);
+
+const gem = new THREE.Mesh(new THREE.IcosahedronGeometry(1, 0), new THREE.MeshStandardMaterial({ color: 0x6fd3ff, metalness: 0.3, roughness: 0.25, flatShading: true }));
+gem.position.y = 1.4;
+scene.add(gem);
+
+// Everything that moves is a pure function of t: no clock, no Math.random, no accumulated state.
+function renderAt(t) {
+  const a = (t / DURATION) * Math.PI * 2;
+  gem.rotation.set(a * 0.5, a, 0);
+  gem.position.y = 1.4 + Math.sin(a * 2) * 0.2;
+  camera.position.set(Math.cos(a * 0.25) * 6, 2.5, Math.sin(a * 0.25) * 6);
+  camera.lookAt(0, 1.2, 0);
+  renderer.render(scene, camera);
+}
+window.renderAt = renderAt;
+window.DURATION = DURATION;
+
+// Live preview only when not being captured.
+if (!new URLSearchParams(location.search).has('capture')) {
+  const start = performance.now();
+  renderer.setAnimationLoop(() => renderAt(((performance.now() - start) / 1000) % DURATION));
+} else {
+  renderAt(0);
+}
+</script>
+</body>
+</html>

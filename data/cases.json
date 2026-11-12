@@ -1,0 +1,3759 @@
+[
+  {
+    "id": 1,
+    "category": "blender",
+    "creator": "@techfren",
+    "post": "https://x.com/techfren/status/2119924958134702276",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Photoreal 3D pelican riding a bicycle, driven from Claude Code",
+      "zh": "写实 3D 鹈鹕骑自行车短片"
+    },
+    "summary": {
+      "en": "A photoreal short of a 3D pelican riding a bicycle. Fable 5.2 drove Blender 5.2.3 headlessly from Claude Code, writing about 4,800 lines of Python for a 21-bone rig, feathers and a drivetrain that actually turns, and Cycles OptiX rendered the 444 frames on an RTX 5080 in 56 minutes (technical details in the author's reply, x.com/techfren/status/2119926681716834440).",
+      "zh": "3D 鹈鹕骑自行车写实短片。Fable 5.2 在 Claude Code 里无界面驱动 Blender 5.2.3，写约 4,800 行 Python：21 骨骼绑定、羽毛、可转动的传动系统，Cycles OptiX 在 RTX 5080 上渲 444 帧共 56 分钟（技术细节见作者回复 x.com/techfren/status/2119926681716834440）。"
+    },
+    "note": {
+      "en": "The prompt comes from the full session trace the author published as a Hugging Face dataset; a block of runtime-environment constraints that follows it is not included here. The author also posted a \"receipts\" post: x.com/techfren/status/2120203574483550694.",
+      "zh": "提示词取自作者公开的完整会话轨迹（HF 数据集），其后还有一段运行环境约束未收录；作者另发了\"收据\"帖 x.com/techfren/status/2120203574483550694。"
+    },
+    "media": "Video, 18 s",
+    "views": 163000,
+    "likes": 910,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Make a video of a 3D pelican riding a bicycle, as realistic as you can make it: believable anatomy and feathers, a real bicycle with working drivetrain motion, physically plausible riding animation, real-world lighting and camera. Take the time it needs. Deliver a finished video file.",
+    "promptSource": "https://huggingface.co/datasets/techfren/pelican-fable-trace",
+    "promptCharacters": 285,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/001-photoreal-3d-pelican-riding-a-bicycle-driven-from-claude.md"
+  },
+  {
+    "id": 2,
+    "category": "blender",
+    "creator": "@jeremyberman",
+    "post": "https://x.com/jeremyberman/status/2119869358679712206",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Prehistoric watering hole with dinosaurs, built in Blender with Python",
+      "zh": "Blender 里的史前恐龙水潭"
+    },
+    "summary": {
+      "en": "\"Welcome Fable 5.2, creator of worlds\": a prehistoric world with dinosaurs gathered at a watering hole. In a reply, the author says it was \"Built from scratch with Fable writing python to control blender\" (x.com/jeremyberman/status/2119870801730245009).",
+      "zh": "\"Welcome Fable 5.2, creator of worlds\"——史前世界/恐龙水潭场景。作者在回复里说是\"Built from scratch with Fable writing python to control blender\"（x.com/jeremyberman/status/2119870801730245009）。"
+    },
+    "note": null,
+    "media": "Video, 18 s",
+    "views": 282000,
+    "likes": 1344,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/jeremyberman/status/2119869358679712206",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/002-prehistoric-watering-hole-with-dinosaurs-built-in-blender.md"
+  },
+  {
+    "id": 3,
+    "category": "blender",
+    "creator": "@rileybrown",
+    "post": "https://x.com/rileybrown/status/2119902109709537708",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "13-shot Blender short with a MacBook and Clawd, made on a livestream",
+      "zh": "直播里一次生成的 Blender 短片"
+    },
+    "summary": {
+      "en": "A Blender short generated in one go during a livestream: 13 shots featuring a desk, a MacBook and a little Clawd figure. Rendering it in 4K on 10 GPUs on RunPod took 52 minutes and cost $5.75.",
+      "zh": "直播里一次生成的 Blender 短片：桌面、MacBook、Clawd 小人共 13 个镜头，RunPod 上 10 张 GPU 渲 4K 用了 52 分钟、花费 $5.75。"
+    },
+    "note": {
+      "en": "The post itself does not include the prompt; the \"Full details\" link the author gave is a claude.ai artifact whose content could not be retrieved.",
+      "zh": "帖子正文没写提示词；作者给的\"Full details\"是一个 claude.ai artifact 链接，抓取不到内容。"
+    },
+    "media": "Video, 59 s",
+    "views": 810000,
+    "likes": 6802,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/rileybrown/status/2119902109709537708",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/003-13-shot-blender-short-with-a-macbook-and-clawd-made-on-a.md"
+  },
+  {
+    "id": 4,
+    "category": "blender",
+    "creator": "@0kncn",
+    "post": "https://x.com/0kncn/status/2119901782482543073",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Steam locomotive transforms into a robot in a 2D anime short",
+      "zh": "蒸汽机车变形成机器人的 2D 动画短片"
+    },
+    "summary": {
+      "en": "A 90-second short in the style of 2D Japanese anime, in which a steam locomotive transforms into a robot. Everything was built in Blender with Python and rendered in Eevee with line art, and even the score was written in code, synthesized with numpy oscillators (see x.com/0kncn/status/2120060332194287853).",
+      "zh": "90 秒 2D 日式动画风短片：蒸汽机车变形成机器人。全部在 Blender 里用 Python 搭建，Eevee 渲染加描线；配乐也是代码写的（numpy 振荡器合成，见 x.com/0kncn/status/2120060332194287853）。"
+    },
+    "note": null,
+    "media": "Video, 90 s",
+    "views": 69000,
+    "likes": 410,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "excerpt",
+    "prompt": "Create a 2D anime short. It must look completely like real Japanese anime, as if it were taken directly from a finished theatrical anime film. This is traditional-looking, hand-drawn 2D anime, not a 3D animation, a moving illustration, or a stylized web graphic.\n[…]",
+    "promptSource": "https://x.com/0kncn/status/2119901786060259612",
+    "promptCharacters": 6390,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/004-steam-locomotive-transforms-into-a-robot-in-a-2d-anime-short.md"
+  },
+  {
+    "id": 5,
+    "category": "blender",
+    "creator": "@maxt3chno",
+    "post": "https://x.com/maxt3chno/status/2119896698281467952",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Game-ready 3D zombie war eagle built through Blender MCP",
+      "zh": "Blender MCP 做的游戏级僵尸战鹰"
+    },
+    "summary": {
+      "en": "A game-ready 3D zombie war eagle built through Blender MCP and matched to a reference image part by part.",
+      "zh": "通过 Blender MCP 做出的游戏级 3D 僵尸战鹰，对照参考图逐部位建模。"
+    },
+    "note": null,
+    "media": "Video, 21 s",
+    "views": 21000,
+    "likes": 304,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "excerpt",
+    "prompt": "You are building a game-ready 3D creature in Blender through Blender MCP (execute_blender_code for actions, renders and viewport screenshots to check your work). The attached image is the reference. Goal: an outstanding, realistic, production-quality model that matches the reference as closely as possible.\n[…]",
+    "promptSource": "https://x.com/maxt3chno/status/2119896909062058411",
+    "promptCharacters": 9411,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/005-game-ready-3d-zombie-war-eagle-built-through-blender-mcp.md"
+  },
+  {
+    "id": 6,
+    "category": "blender",
+    "creator": "@kplikethebird",
+    "post": "https://x.com/kplikethebird/status/2119900775727902732",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Jerusalem in the final week of Jesus's life, rebuilt in Blender",
+      "zh": "Blender 重建耶稣最后一周的耶路撒冷"
+    },
+    "summary": {
+      "en": "A 3D fly-through video of Jerusalem as it stood during the last week of Jesus's life, rebuilt in Blender.",
+      "zh": "用 Blender 重建耶稣最后一周时的耶路撒冷，3D 漫游视频。"
+    },
+    "note": null,
+    "media": "Video, 30 s",
+    "views": 10000,
+    "likes": 40,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Build an immersive, historically accurate 3D model of Jerusalem during the week of Jesus's final visit using Blender.",
+    "promptSource": "https://x.com/kplikethebird/status/2119900775727902732",
+    "promptCharacters": 117,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/006-jerusalem-in-the-final-week-of-jesus-s-life-rebuilt-in.md"
+  },
+  {
+    "id": 7,
+    "category": "blender",
+    "creator": "@xikhar",
+    "post": "https://x.com/xikhar/status/2119966147328299284",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Photoreal Bugatti Tourbillon render from one prompt and a reference image",
+      "zh": "布加迪 Tourbillon 写实 3D 渲染"
+    },
+    "summary": {
+      "en": "A short, photoreal 3D render of the Bugatti Tourbillon, made from a single prompt plus a reference image in a run of about 2.5 hours.",
+      "zh": "Bugatti Tourbillon 写实 3D 渲染短片，一条提示词加参考图，跑了约 2.5 小时。"
+    },
+    "note": {
+      "en": "The author only says that one prompt and a reference image were used; the prompt itself has not been made public.",
+      "zh": "作者只说用了一条提示词和参考图，原文没公开。"
+    },
+    "media": "Video, 33 s",
+    "views": 112000,
+    "likes": 1236,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/xikhar/status/2119966147328299284",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/007-photoreal-bugatti-tourbillon-render-from-one-prompt-and-a.md"
+  },
+  {
+    "id": 8,
+    "category": "blender",
+    "creator": "@adityavg13",
+    "post": "https://x.com/adityavg13/status/2119903463735799971",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Star Wars Blender Bench: the First Battle of Geonosis",
+      "zh": "星战 Blender Bench：吉奥诺西斯战役"
+    },
+    "summary": {
+      "en": "A Star Wars \"Blender Bench\" piece: the First Battle of Geonosis in 30 seconds, which took 1.5 hours to make.",
+      "zh": "Star Wars \"Blender Bench\"：第一次吉奥诺西斯战役，30 秒，耗时 1.5 小时。"
+    },
+    "note": null,
+    "media": "Video, 30 s",
+    "views": 44000,
+    "likes": 292,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/adityavg13/status/2119903463735799971",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/008-star-wars-blender-bench-the-first-battle-of-geonosis.md"
+  },
+  {
+    "id": 9,
+    "category": "blender",
+    "creator": "@higgsfield_ai",
+    "post": "https://x.com/higgsfield_ai/status/2119893970897490135",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Rigged cartoon zombie hand that crawls and does a backflip",
+      "zh": "会爬行和后空翻的僵尸手动画"
+    },
+    "summary": {
+      "en": "From Higgsfield: a rigged zombie hand built with Blender Python that crawls and does a backflip, with the keyframes refined in stages.",
+      "zh": "Higgsfield：Blender Python 做出绑定好的僵尸手，会爬行、会后空翻（含关键帧分阶段打磨）。"
+    },
+    "note": {
+      "en": "The prompt is transcribed from a third-party repository, github.com/yihui-dev/awesome-fable5-2-videos, which cites the Higgsfield blog as its source; this page shows only an excerpt.",
+      "zh": "提示词转录自第三方仓库 github.com/yihui-dev/awesome-fable5-2-videos（来源为 Higgsfield 博客），本页只放节选。"
+    },
+    "media": "Video, 19 s",
+    "views": 63000,
+    "likes": 950,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "excerpt",
+    "prompt": "Using Blender's Python API (bpy, bmesh, mathutils), build a complete animation pipeline from scratch and get it right on the first pass:\n\n1. Model an original stylized cartoon zombie hand with stylized wounds, stitches and a severed stump at the wrist.\n2.\n[…]",
+    "promptSource": "https://higgsfield.ai/blog",
+    "promptCharacters": 8138,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/009-rigged-cartoon-zombie-hand-that-crawls-and-does-a-backflip.md"
+  },
+  {
+    "id": 10,
+    "category": "blender",
+    "creator": "@camperaigg",
+    "post": "https://x.com/camperaigg/status/2117914482752299311",
+    "posted": "2026-11-04",
+    "title": {
+      "en": "Transformer truck with an animation of it transforming",
+      "zh": "会变形的汽车人卡车及变形动画"
+    },
+    "summary": {
+      "en": "Part 4 of camperaigg's test series: a transformer truck that can change shape, plus an animation of the transformation, made in Blender.",
+      "zh": "camperaigg 测试系列 Part 4：会变形的汽车人卡车及变形动画（Blender）。"
+    },
+    "note": {
+      "en": "Pre-release test: the post is labeled \"Fable 5.5\" and was published before the official release.",
+      "zh": "预发布测试：帖子标的是 \"Fable 5.5\"，发于正式发布前。"
+    },
+    "media": "Video, 12 s",
+    "views": 3471,
+    "likes": 80,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Make me a transformer truck with animations of its transforming.",
+    "promptSource": "https://x.com/camperaigg/status/2117914482752299311",
+    "promptCharacters": 64,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/010-transformer-truck-with-an-animation-of-it-transforming.md"
+  },
+  {
+    "id": 11,
+    "category": "blender",
+    "creator": "@camperaigg",
+    "post": "https://x.com/camperaigg/status/2117966825048997914",
+    "posted": "2026-11-04",
+    "title": {
+      "en": "Howl's Moving Castle with its internal machinery shown",
+      "zh": "哈尔的移动城堡及内部机械"
+    },
+    "summary": {
+      "en": "Part 5 from camperaigg: Howl's Moving Castle, including a look at the machinery inside it.",
+      "zh": "camperaigg Part 5：哈尔的移动城堡，并展示内部机械结构。"
+    },
+    "note": {
+      "en": "Pre-release test; the post is labeled \"Fable 5.5\".",
+      "zh": "预发布测试，帖子标的是 \"Fable 5.5\"。"
+    },
+    "media": "Video, 35 s",
+    "views": 3019,
+    "likes": 51,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Make me Howl's moving castle and also show its internal machinery.",
+    "promptSource": "https://x.com/camperaigg/status/2117966825048997914",
+    "promptCharacters": 66,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/011-howl-s-moving-castle-with-its-internal-machinery-shown.md"
+  },
+  {
+    "id": 12,
+    "category": "blender",
+    "creator": "@camperaigg",
+    "post": "https://x.com/camperaigg/status/2118002649929056373",
+    "posted": "2026-11-04",
+    "title": {
+      "en": "Mechanical heart with its inner workings revealed in Blender",
+      "zh": "Blender 里做的机械心脏"
+    },
+    "summary": {
+      "en": "Part 6 from camperaigg: a mechanical heart that opens up to show how it is built inside, made in Blender.",
+      "zh": "camperaigg Part 6：机械心脏，展示内部构造（Blender）。"
+    },
+    "note": {
+      "en": "Pre-release test; the post is labeled \"Fable 5.5\".",
+      "zh": "预发布测试，帖子标的是 \"Fable 5.5\"。"
+    },
+    "media": "Video, 30 s",
+    "views": 5836,
+    "likes": 106,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Make a mechanical heart and show its insides, use blender.",
+    "promptSource": "https://x.com/camperaigg/status/2118002649929056373",
+    "promptCharacters": 58,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/012-mechanical-heart-with-its-inner-workings-revealed-in-blender.md"
+  },
+  {
+    "id": 13,
+    "category": "blender",
+    "creator": "@ICO_AIvideo",
+    "post": "https://x.com/ICO_AIvideo/status/2120311646933680355",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Blender 3D animation test from a Japanese creator",
+      "zh": "日本创作者的 Blender 3D 动画测试"
+    },
+    "summary": {
+      "en": "A 21-second Blender 3D animation test by a Japanese creator.",
+      "zh": "日本创作者的 Blender 3D 动画测试，21 秒。"
+    },
+    "note": null,
+    "media": "Video, 21 s",
+    "views": 104000,
+    "likes": 409,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/ICO_AIvideo/status/2120311646933680355",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/013-blender-3d-animation-test-from-a-japanese-creator.md"
+  },
+  {
+    "id": 14,
+    "category": "blender",
+    "creator": "@HyunSeob_",
+    "post": "https://x.com/HyunSeob_/status/2120047614360277090",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Blender short finished with zero human feedback",
+      "zh": "零人工反馈完成的 Blender 短片"
+    },
+    "summary": {
+      "en": "A Blender short completed in 2 hours 50 minutes with zero human feedback, with its music synthesized in numpy.",
+      "zh": "2 小时 50 分钟、零人工反馈做完的 Blender 短片，音乐用 numpy 合成。"
+    },
+    "note": null,
+    "media": "Video, 24 s",
+    "views": 583,
+    "likes": 6,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/HyunSeob_/status/2120047614360277090",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/014-blender-short-finished-with-zero-human-feedback.md"
+  },
+  {
+    "id": 15,
+    "category": "blender",
+    "creator": "@CalebJones800",
+    "post": "https://x.com/CalebJones800/status/2120323685798297982",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Story of Fable's own invention, told as an 18-shot 4K short",
+      "zh": "让 Fable 自编故事的 4K 短片"
+    },
+    "summary": {
+      "en": "Fable was asked to come up with a story of its own, and the result is a 4K short with 18 shots, written in 3,807 lines of code.",
+      "zh": "让 Fable 自编故事：3,807 行代码、18 个镜头的 4K 短片。"
+    },
+    "note": {
+      "en": "The post only contains a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "Video, 59 s",
+    "views": 113,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "told Fable 5.2 to create a story",
+    "promptSource": "https://x.com/CalebJones800/status/2120323685798297982",
+    "promptCharacters": 32,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/015-story-of-fable-s-own-invention-told-as-an-18-shot-4k-short.md"
+  },
+  {
+    "id": 16,
+    "category": "blender",
+    "creator": "@akshar_ai",
+    "post": "https://x.com/akshar_ai/status/2120068584542200251",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Temple of a Thousand Lamps, compared with Opus on the same prompt",
+      "zh": "千灯神殿：与 Opus 同题对比"
+    },
+    "summary": {
+      "en": "\"Temple of a Thousand Lamps\", set against Opus working from the same prompt.",
+      "zh": "\"千灯神殿\"（Temple of a Thousand Lamps），和 Opus 用同一提示词对比。"
+    },
+    "note": null,
+    "media": "Video, 20 s",
+    "views": 1498,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/akshar_ai/status/2120068584542200251",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/016-temple-of-a-thousand-lamps-compared-with-opus-on-the-same.md"
+  },
+  {
+    "id": 17,
+    "category": "blender",
+    "creator": "@WalidBou07",
+    "post": "https://x.com/WalidBou07/status/2120098817949212898",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Airbnb house rebuilt as a 3D walkthrough from 4 screenshots",
+      "zh": "4 张 Airbnb 截图重建的 3D 房屋漫游"
+    },
+    "summary": {
+      "en": "The model was given 4 screenshots of an Airbnb listing and asked to recreate the house as a 3D walkthrough video.",
+      "zh": "给 4 张 Airbnb 房源截图，让它把房子重建成 3D 漫游视频。"
+    },
+    "note": null,
+    "media": "Video, 20 s",
+    "views": 131,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "recreate this house as a 3D video",
+    "promptSource": "https://x.com/WalidBou07/status/2120098817949212898",
+    "promptCharacters": 33,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/017-airbnb-house-rebuilt-as-a-3d-walkthrough-from-4-screenshots.md"
+  },
+  {
+    "id": 18,
+    "category": "blender",
+    "creator": "@lynzhong_growth",
+    "post": "https://x.com/lynzhong_growth/status/2120328284294767093",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Glass house through the four seasons, animated in Blender",
+      "zh": "四季轮换的玻璃屋 Blender 动画"
+    },
+    "summary": {
+      "en": "A Blender animation of a glass house as the four seasons turn around it, made together with Clico.",
+      "zh": "四季轮换的玻璃屋 Blender 动画（结合 Clico）。"
+    },
+    "note": {
+      "en": "The author put the details behind an artifact link, which could not be retrieved.",
+      "zh": "作者把细节放在 artifact 链接里，没能抓取。"
+    },
+    "media": "Video, 25 s",
+    "views": 5214,
+    "likes": 30,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/lynzhong_growth/status/2120328284294767093",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/018-glass-house-through-the-four-seasons-animated-in-blender.md"
+  },
+  {
+    "id": 19,
+    "category": "blender",
+    "creator": "@MakeAI_CEO",
+    "post": "https://x.com/MakeAI_CEO/status/2120357364838900108",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Perpetual calendar clock mechanism animated in Blender",
+      "zh": "Blender 里的万年历时钟机械动画"
+    },
+    "summary": {
+      "en": "A mechanical animation of a perpetual calendar clock, made in Blender.",
+      "zh": "Blender 里做的\"万年历时钟\"机械动画。"
+    },
+    "note": null,
+    "media": "Video, 10 s",
+    "views": 2486,
+    "likes": 19,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/MakeAI_CEO/status/2120357364838900108",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/019-perpetual-calendar-clock-mechanism-animated-in-blender.md"
+  },
+  {
+    "id": 20,
+    "category": "blender",
+    "creator": "@rewind02",
+    "post": "https://x.com/rewind02/status/2120498751773057186",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Low-poly floating island scene made with Blender MCP",
+      "zh": "Blender MCP 做的低多边形浮岛"
+    },
+    "summary": {
+      "en": "A low-poly floating island scene built with Blender MCP.",
+      "zh": "用 Blender MCP 做的低多边形浮岛场景。"
+    },
+    "note": null,
+    "media": "Video, 29 s",
+    "views": 923,
+    "likes": 30,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "create a low poly floating island scene in blender using blender mcp",
+    "promptSource": "https://x.com/rewind02/status/2120498751773057186",
+    "promptCharacters": 68,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/020-low-poly-floating-island-scene-made-with-blender-mcp.md"
+  },
+  {
+    "id": 21,
+    "category": "blender",
+    "creator": "@FreshOutofBeta",
+    "post": "https://x.com/FreshOutofBeta/status/2120281495059525889",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Blender short from 1,110 lines of Python in 16.4 minutes",
+      "zh": "1,110 行代码的 Blender 短片"
+    },
+    "summary": {
+      "en": "A video made from 1,110 lines of Blender Python, finished in 16.4 minutes.",
+      "zh": "1,110 行 Blender Python，16.4 分钟出片。"
+    },
+    "note": null,
+    "media": "Video, 34 s",
+    "views": 63,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/FreshOutofBeta/status/2120281495059525889",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/blender/021-blender-short-from-1-110-lines-of-python-in-16-4-minutes.md"
+  },
+  {
+    "id": 22,
+    "category": "threejs",
+    "creator": "@camperaigg",
+    "post": "https://x.com/camperaigg/status/2120124319187734646",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Mech archer firing an arrow through the ocean",
+      "zh": "three.js 机甲弓箭手一箭射穿大海"
+    },
+    "summary": {
+      "en": "Part 20 of camperaigg's series, titled \"SUNDER\": a short animated film of a mech archer firing an arrow straight through the ocean. It took about 2,000 lines of three.js, 83 minutes and $34.96.",
+      "zh": "camperaigg Part 20 \"SUNDER\"：机甲弓箭手一箭射穿大海的动画短片，three.js 约 2,000 行代码，83 分钟，花费 $34.96。"
+    },
+    "note": {
+      "en": "Requirement as quoted in the post.",
+      "zh": "帖子里引用的需求原话。"
+    },
+    "media": "Video, 30 s",
+    "views": 1111,
+    "likes": 26,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "a robot archer shooting an arrow through the ocean.",
+    "promptSource": "https://x.com/camperaigg/status/2120124319187734646",
+    "promptCharacters": 51,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/022-mech-archer-firing-an-arrow-through-the-ocean.md"
+  },
+  {
+    "id": 23,
+    "category": "threejs",
+    "creator": "@camperaigg",
+    "post": "https://x.com/camperaigg/status/2119429740041732118",
+    "posted": "2026-11-08",
+    "title": {
+      "en": "Falling into a black hole in three.js",
+      "zh": "three.js 带你掉进黑洞"
+    },
+    "summary": {
+      "en": "Part 17 of camperaigg's series drops the viewer into a black hole with three.js, in a run that took 122 minutes. The score was arranged note by note from CC0 samples.",
+      "zh": "camperaigg Part 17：用 three.js 把你\"扔进黑洞\"，跑了 122 分钟；配乐用 CC0 采样逐音符编排。"
+    },
+    "note": {
+      "en": "Pre-release test (the post is labelled \"Fable 5.5\"); the post only gives a summary of the request.",
+      "zh": "预发布测试（帖子标 \"Fable 5.5\"）；帖子里只有需求概述。"
+    },
+    "media": "Video, 30 s",
+    "views": 13000,
+    "likes": 211,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "drop me into a black hole in three.js",
+    "promptSource": "https://x.com/camperaigg/status/2119429740041732118",
+    "promptCharacters": 37,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/023-falling-into-a-black-hole-in-three-js.md"
+  },
+  {
+    "id": 24,
+    "category": "threejs",
+    "creator": "@camperaigg",
+    "post": "https://x.com/camperaigg/status/2118728540976009336",
+    "posted": "2026-11-06",
+    "title": {
+      "en": "Match strike in slow motion, built in three.js",
+      "zh": "three.js 划火柴特写"
+    },
+    "summary": {
+      "en": "Part 12 of camperaigg's series: a close-up of a match being struck and the flame catching, built in three.js.",
+      "zh": "camperaigg Part 12：划火柴的特写，火焰点燃过程（three.js）。"
+    },
+    "note": {
+      "en": "Pre-release test (the post is labelled \"Fable 5.5\"); the post only gives a summary of the request.",
+      "zh": "预发布测试（帖子标 \"Fable 5.5\"）；帖子里只有需求概述。"
+    },
+    "media": "Video, 27 s",
+    "views": 16000,
+    "likes": 256,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "strike a match at 44× slow motion in three.js",
+    "promptSource": "https://x.com/camperaigg/status/2118728540976009336",
+    "promptCharacters": 45,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/024-match-strike-in-slow-motion-built-in-three-js.md"
+  },
+  {
+    "id": 25,
+    "category": "threejs",
+    "creator": "@camperaigg",
+    "post": "https://x.com/camperaigg/status/2118317021935071339",
+    "posted": "2026-11-05",
+    "title": {
+      "en": "Rowing into a 31 m wave in three.js",
+      "zh": "three.js 写的 31 米巨浪"
+    },
+    "summary": {
+      "en": "Part 9 of camperaigg's series: a 31 m wave, built in three.js.",
+      "zh": "camperaigg Part 9：31 米巨浪（three.js）。"
+    },
+    "note": {
+      "en": "Pre-release test (the post is labelled \"Fable 5.5\"); the post only gives a summary of the request.",
+      "zh": "预发布测试（帖子标 \"Fable 5.5\"）；帖子里只有需求概述。"
+    },
+    "media": "Video, 35 s",
+    "views": 19000,
+    "likes": 294,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "row me into a 31 m wave in a lightning storm",
+    "promptSource": "https://x.com/camperaigg/status/2118317021935071339",
+    "promptCharacters": 44,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/025-rowing-into-a-31-m-wave-in-three-js.md"
+  },
+  {
+    "id": 26,
+    "category": "threejs",
+    "creator": "@camperaigg",
+    "post": "https://x.com/camperaigg/status/2119052253982306393",
+    "posted": "2026-11-07",
+    "title": {
+      "en": "Riding a lightning bolt from cloud to ground",
+      "zh": "three.js 闪电：从云层劈到地面"
+    },
+    "summary": {
+      "en": "Part 14 of camperaigg's series: lightning, built in three.js.",
+      "zh": "camperaigg Part 14：闪电（three.js）。"
+    },
+    "note": {
+      "en": "Pre-release test (the post is labelled \"Fable 5.5\"); the post only gives a summary of the request.",
+      "zh": "预发布测试（帖子标 \"Fable 5.5\"）；帖子里只有需求概述。"
+    },
+    "media": "Video, 27 s",
+    "views": 106000,
+    "likes": 2182,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "ride a lightning bolt from cloud to ground",
+    "promptSource": "https://x.com/camperaigg/status/2119052253982306393",
+    "promptCharacters": 42,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/026-riding-a-lightning-bolt-from-cloud-to-ground.md"
+  },
+  {
+    "id": 27,
+    "category": "threejs",
+    "creator": "@noisyb0y1",
+    "post": "https://x.com/noisyb0y1/status/2119900528197218472",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "83-second animated short rendered frame by frame in three.js",
+      "zh": "83 秒 three.js 逐帧动画短片"
+    },
+    "summary": {
+      "en": "An 83-second animated short rendered frame by frame in three.js: 1,992 frames across 39 shots, made by a team of 8 agents.",
+      "zh": "83 秒动画短片：three.js 逐帧渲染 1,992 帧，8 个 agent 团队、39 个镜头。"
+    },
+    "note": null,
+    "media": "Video, 66 s",
+    "views": 12000,
+    "likes": 221,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/noisyb0y1/status/2119900528197218472",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/027-83-second-animated-short-rendered-frame-by-frame-in-three-js.md"
+  },
+  {
+    "id": 28,
+    "category": "threejs",
+    "creator": "@RezAIT00",
+    "post": "https://x.com/RezAIT00/status/2119894257519767656",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Voxel Paris as a 14-second three.js animation",
+      "zh": "体素风巴黎 14 秒 three.js 动画"
+    },
+    "summary": {
+      "en": "Paris in voxel style, animated for 14 seconds on a single three.js page.",
+      "zh": "体素风巴黎，14 秒 three.js 单页动画。"
+    },
+    "note": {
+      "en": "The author credits the prompt to @semichenkko.",
+      "zh": "作者注明提示词来自 @semichenkko。"
+    },
+    "media": "Video, 14 s",
+    "views": 4436,
+    "likes": 41,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "excerpt",
+    "prompt": "Build a single self-contained three.js HTML page that renders a 14-second animation (1280x720, 30fps, deterministic: expose window.renderAt(t) so every frame can be captured).  Scene: a floating voxel diorama island - Paris, 1888, the Eiffel Tower under construction. Everything is already moving on frame 1.  Island:\n[…]",
+    "promptSource": "https://x.com/RezAIT00/status/2119898136894156960",
+    "promptCharacters": 1859,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/028-voxel-paris-as-a-14-second-three-js-animation.md"
+  },
+  {
+    "id": 29,
+    "category": "threejs",
+    "creator": "@evaninfra",
+    "post": "https://x.com/evaninfra/status/2120453048476778687",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Robot night market short film with procedural sound",
+      "zh": "73 秒机器人夜市短片"
+    },
+    "summary": {
+      "en": "A 73-second short film set in a robot night market, built in three.js with procedural sound effects. The run took 3 hours 13 minutes.",
+      "zh": "73 秒机器人夜市短片，three.js 加程序化音效，跑了 3 小时 13 分钟。"
+    },
+    "note": {
+      "en": "The prompt comes from the author's blog; BRIEF.md itself was not published.",
+      "zh": "提示词取自作者博客；BRIEF.md 本身没公开。"
+    },
+    "media": "Video, 79 s",
+    "views": 53,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "excerpt",
+    "prompt": "You are the director of this film. Read BRIEF.md, then make it in this folder.\nPlan each shot before you build it.\n\n- Write SHOTPLAN.md first: framing, camera move, light and the sound cue for each shot.\n- Keep every number (positions, colours, lights) in one file that all shots import.\n[…]",
+    "promptSource": "https://tokenbill.tinhdev.com/2026-11-11-making-before-morning.html",
+    "promptCharacters": 674,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/029-robot-night-market-short-film-with-procedural-sound.md"
+  },
+  {
+    "id": 30,
+    "category": "threejs",
+    "creator": "@MeltTheManual",
+    "post": "https://x.com/MeltTheManual/status/2119926820963532984",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Interactive Stonehenge winter solstice sunrise in three.js",
+      "zh": "巨石阵冬至日出 three.js 交互场景"
+    },
+    "summary": {
+      "en": "An interactive three.js scene of the winter solstice sunrise at Stonehenge, made for $21. A live version is at meltthemanual.github.io/stonehenge-solstice.",
+      "zh": "巨石阵冬至日出，three.js 交互场景，花费 $21；在线版 meltthemanual.github.io/stonehenge-solstice。"
+    },
+    "note": null,
+    "media": "Video, 74 s",
+    "views": 153,
+    "likes": 3,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/MeltTheManual/status/2119926820963532984",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/030-interactive-stonehenge-winter-solstice-sunrise-in-three-js.md"
+  },
+  {
+    "id": 31,
+    "category": "threejs",
+    "creator": "@miki_code",
+    "post": "https://x.com/miki_code/status/2120219010860019977",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "How an ASML EUV lithography machine works, in three.js",
+      "zh": "ASML EUV 光刻机原理可视化"
+    },
+    "summary": {
+      "en": "A three.js visualization of how an ASML EUV lithography machine works.",
+      "zh": "ASML EUV 光刻机工作原理的 three.js 可视化。"
+    },
+    "note": null,
+    "media": "Video, 101 s",
+    "views": 182,
+    "likes": 3,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/miki_code/status/2120219010860019977",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/031-how-an-asml-euv-lithography-machine-works-in-three-js.md"
+  },
+  {
+    "id": 32,
+    "category": "threejs",
+    "creator": "@renoiseai",
+    "post": "https://x.com/renoiseai/status/2119963726329823358",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Cutaway animation of a jet engine in three.js",
+      "zh": "three.js 喷气发动机剖面动画"
+    },
+    "summary": {
+      "en": "A cutaway animation of a jet engine, built in three.js.",
+      "zh": "喷气发动机剖面动画（three.js）。"
+    },
+    "note": null,
+    "media": "Video, 30 s",
+    "views": 820,
+    "likes": 12,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/renoiseai/status/2119963726329823358",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/032-cutaway-animation-of-a-jet-engine-in-three-js.md"
+  },
+  {
+    "id": 33,
+    "category": "threejs",
+    "creator": "@mdjunaidap",
+    "post": "https://x.com/mdjunaidap/status/2119911690552943067",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Particle effect with 320,000 particles in three.js",
+      "zh": "32 万粒子的 three.js 特效"
+    },
+    "summary": {
+      "en": "A three.js visual effect made of 320,000 particles.",
+      "zh": "32 万粒子的 three.js 特效。"
+    },
+    "note": null,
+    "media": "Video, 31 s",
+    "views": 1216,
+    "likes": 5,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/mdjunaidap/status/2119911690552943067",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/033-particle-effect-with-320-000-particles-in-three-js.md"
+  },
+  {
+    "id": 34,
+    "category": "threejs",
+    "creator": "@koss_ai",
+    "post": "https://x.com/koss_ai/status/2120213917167190407",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Mars rover scene in three.js",
+      "zh": "three.js 火星车场景"
+    },
+    "summary": {
+      "en": "A Mars rover scene built in three.js. The author also made a mech (post 2120497358043512942) and a drone (post 2120126781176832425).",
+      "zh": "火星车 three.js 场景（作者还做了机甲 2120497358043512942 和无人机 2120126781176832425）。"
+    },
+    "note": null,
+    "media": "Video, 99 s",
+    "views": 244,
+    "likes": 3,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/koss_ai/status/2120213917167190407",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/034-mars-rover-scene-in-three-js.md"
+  },
+  {
+    "id": 35,
+    "category": "threejs",
+    "creator": "@anstapnever",
+    "post": "https://x.com/anstapnever/status/2120500496850997258",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Capybara-themed animation built in three.js",
+      "zh": "水豚主题 three.js 动画"
+    },
+    "summary": {
+      "en": "A capybara-themed animation built in three.js.",
+      "zh": "水豚主题 three.js 动画。"
+    },
+    "note": {
+      "en": "The prompt sits in a Google Drive file linked from the author's reply (x.com/anstapnever/status/2120500825802068095); the text itself is not on X.",
+      "zh": "提示词放在作者回复里的 Google Drive 文件（x.com/anstapnever/status/2120500825802068095），X 上没有原文。"
+    },
+    "media": "Video, 24 s",
+    "views": 246,
+    "likes": 7,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/anstapnever/status/2120500496850997258",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/035-capybara-themed-animation-built-in-three-js.md"
+  },
+  {
+    "id": 36,
+    "category": "threejs",
+    "creator": "@orcdev",
+    "post": "https://x.com/orcdev/status/2120248774861689199",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "4 Elements: water, fire, wind and earth from each model",
+      "zh": "4 Elements：多模型同题做水火风土"
+    },
+    "summary": {
+      "en": "\"4 Elements\" gives each model the same set of prompts to build water, fire, wind and earth, and the results can be compared live at 4elements.dev.",
+      "zh": "\"4 Elements\"：同一套提示词让各模型做水、火、风、土四元素，在线对比 4elements.dev。"
+    },
+    "note": null,
+    "media": "Video, 29 s",
+    "views": 3592,
+    "likes": 83,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/orcdev/status/2120248774861689199",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/036-4-elements-water-fire-wind-and-earth-from-each-model.md"
+  },
+  {
+    "id": 37,
+    "category": "threejs",
+    "creator": "@chetaslua",
+    "post": "https://x.com/chetaslua/status/2120111159726727321",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Monica's apartment from Friends rebuilt in three.js",
+      "zh": "复刻《老友记》Monica 的公寓"
+    },
+    "summary": {
+      "en": "A three.js recreation of Monica's apartment from Friends.",
+      "zh": "three.js 复刻《老友记》里 Monica 的公寓。"
+    },
+    "note": null,
+    "media": "Video, 32 s",
+    "views": 13000,
+    "likes": 236,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/chetaslua/status/2120111159726727321",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/037-monica-s-apartment-from-friends-rebuilt-in-three-js.md"
+  },
+  {
+    "id": 38,
+    "category": "threejs",
+    "creator": "@QQTeng",
+    "post": "https://x.com/QQTeng/status/2119913518015435103",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Cathedral of ice, run head to head with Opus",
+      "zh": "冰之大教堂：与 Opus 同题对比"
+    },
+    "summary": {
+      "en": "\"Cathedral of Ice\", given to Fable and Opus as the same prompt for a side-by-side comparison. Cost: $81.10.",
+      "zh": "\"冰之大教堂\"，和 Opus 同题对比，花费 $81.10。"
+    },
+    "note": {
+      "en": "The post only gives the topic.",
+      "zh": "帖子只给了题目。"
+    },
+    "media": "Video, 24 s",
+    "views": 76000,
+    "likes": 129,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "冰之大教堂",
+    "promptSource": "https://x.com/QQTeng/status/2119913518015435103",
+    "promptCharacters": 5,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/038-cathedral-of-ice-run-head-to-head-with-opus.md"
+  },
+  {
+    "id": 39,
+    "category": "threejs",
+    "creator": "@KernelChai",
+    "post": "https://x.com/KernelChai/status/2120118687424504255",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Manhattan at night: Fable versus Opus on one prompt",
+      "zh": "夜晚的曼哈顿：Fable 与 Opus 同题对比"
+    },
+    "summary": {
+      "en": "Manhattan at night, given to both Fable and Opus: Fable wrote 1,430 lines and drew fireworks over the East River, while Opus wrote 1,700 lines and drew snow falling on the Brooklyn Bridge.",
+      "zh": "夜晚的曼哈顿，和 Opus 同题对比：Fable 1,430 行，画东河烟花；Opus 1,700 行，画布鲁克林大桥飘雪。"
+    },
+    "note": {
+      "en": "The post only gives the topic.",
+      "zh": "帖子只给了题目。"
+    },
+    "media": "Video, 71 s",
+    "views": 629,
+    "likes": 5,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "Manhattan, New York, at night.",
+    "promptSource": "https://x.com/KernelChai/status/2120118687424504255",
+    "promptCharacters": 30,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/039-manhattan-at-night-fable-versus-opus-on-one-prompt.md"
+  },
+  {
+    "id": 40,
+    "category": "threejs",
+    "creator": "@N1njaCodex",
+    "post": "https://x.com/N1njaCodex/status/2119883560937001387",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Deep Dive Switch: an underwater world inside a slider",
+      "zh": "Deep Dive Switch 海底滑块"
+    },
+    "summary": {
+      "en": "\"Deep Dive Switch\": asked for a volume slider, it built a whole underwater world with sea turtles inside it, for $7.48.",
+      "zh": "\"Deep Dive Switch\"：要一个音量滑块，它在里面做了一整个带海龟的水下世界，花费 $7.48。"
+    },
+    "note": null,
+    "media": "Video, 10 s",
+    "views": 3992,
+    "likes": 108,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "excerpt",
+    "prompt": "Make \"Deep Dive Switch\", No. 063 in a series of web material studies: a depth switch that goes from light to dark, from the sea's surface to the floor of the abyss. Build it as one self-contained page with no libraries: raw WebGL2, Web Audio and a 2D pixel buffer.\n\nPAGE\n- Editorial layout:\n[…]",
+    "promptSource": "https://x.com/N1njaCodex/status/2119884222475522068",
+    "promptCharacters": 6073,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/040-deep-dive-switch-an-underwater-world-inside-a-slider.md"
+  },
+  {
+    "id": 41,
+    "category": "threejs",
+    "creator": "@vib3coded",
+    "post": "https://x.com/vib3coded/status/2119876781700505627",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Daybreak Switch: a cozy room from night to morning",
+      "zh": "Daybreak Switch：从黑夜到天亮"
+    },
+    "summary": {
+      "en": "\"Daybreak Switch\": an addictive volume slider that hides a cozy little room going from night to daybreak. It took 10 minutes and $8.43.",
+      "zh": "\"Daybreak Switch\"：一个让人上瘾的音量滑块，里面藏着从夜晚到天亮的温馨小房间，10 分钟、$8.43。"
+    },
+    "note": {
+      "en": "Prompt transcribed from the awesome-fable5-2-videos repository; it comes from the author's reply 2119877121732419838.",
+      "zh": "提示词转录自 awesome-fable5-2-videos 仓库，出自作者回复 2119877121732419838。"
+    },
+    "media": "Video, 12 s",
+    "views": 94000,
+    "likes": 1113,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "excerpt",
+    "prompt": "Make \"Daybreak Switch\", No. 062 in a series of web material studies: a night-to-morning toggle in its own original style, as a single self-contained page (no libraries; raw WebGL2 + Web Audio + a 2D pixel buffer). Editorial layout: a small \"Material Studies / No.\n[…]",
+    "promptSource": "https://x.com/i/status/2119877121732419838",
+    "promptCharacters": 5996,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/041-daybreak-switch-a-cozy-room-from-night-to-morning.md"
+  },
+  {
+    "id": 42,
+    "category": "threejs",
+    "creator": "@higgsfield_ai",
+    "post": "https://x.com/higgsfield_ai/status/2119910344998912507",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Paris in 1940, built in three.js from Higgsfield references",
+      "zh": "three.js 还原 1940 年的巴黎"
+    },
+    "summary": {
+      "en": "From Higgsfield: Paris in 1940, built in three.js, with reference images generated through the Higgsfield MCP.",
+      "zh": "Higgsfield：1940 年的巴黎（three.js），参考图用 Higgsfield MCP 生成。"
+    },
+    "note": null,
+    "media": "Video, 23 s",
+    "views": 15000,
+    "likes": 204,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/higgsfield_ai/status/2119910344998912507",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/042-paris-in-1940-built-in-three-js-from-higgsfield-references.md"
+  },
+  {
+    "id": 43,
+    "category": "threejs",
+    "creator": "@rohit3a",
+    "post": "https://x.com/rohit3a/status/2119899684999487954",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Lighthouse in a Storm at High effort",
+      "zh": "High 档的风暴灯塔场景"
+    },
+    "summary": {
+      "en": "\"Lighthouse in a Storm\", made at the High effort level.",
+      "zh": "\"Lighthouse in a Storm\"，High 档。"
+    },
+    "note": null,
+    "media": "Video, 30 s",
+    "views": 1857,
+    "likes": 52,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/rohit3a/status/2119899684999487954",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/043-lighthouse-in-a-storm-at-high-effort.md"
+  },
+  {
+    "id": 44,
+    "category": "threejs",
+    "creator": "@viewsfrom02108",
+    "post": "https://x.com/viewsfrom02108/status/2119896345729437907",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Photoreal lighthouse scene from the author's own prompt",
+      "zh": "作者自写提示词的写实灯塔场景"
+    },
+    "summary": {
+      "en": "A photorealistic lighthouse scene, made with the author's own lighthouse prompt.",
+      "zh": "用作者自己的灯塔提示词做的写实灯塔场景。"
+    },
+    "note": {
+      "en": "The author mentions \"my lighthouse prompt\" but did not post the text.",
+      "zh": "作者提到\"my lighthouse prompt\"，但没贴原文。"
+    },
+    "media": "Video, 25 s",
+    "views": 304,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/viewsfrom02108/status/2119896345729437907",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/044-photoreal-lighthouse-scene-from-the-author-s-own-prompt.md"
+  },
+  {
+    "id": 45,
+    "category": "threejs",
+    "creator": "@YinYangYoeshi",
+    "post": "https://x.com/YinYangYoeshi/status/2119897840965001317",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Discovery, a 101-second short film in three.js",
+      "zh": "Discovery：101 秒短片"
+    },
+    "summary": {
+      "en": "\"Discovery\": a short film (101 seconds) made with three.js, Fable 5.2 and Prancer Codex.",
+      "zh": "\"Discovery\"：用 three.js、Fable 5.2 和 Prancer Codex 做的短片（101 秒）。"
+    },
+    "note": null,
+    "media": "Video, 101 s",
+    "views": 449,
+    "likes": 15,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/YinYangYoeshi/status/2119897840965001317",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/threejs/045-discovery-a-101-second-short-film-in-three-js.md"
+  },
+  {
+    "id": 46,
+    "category": "motion-graphics",
+    "creator": "@Khazix0918",
+    "post": "https://x.com/Khazix0918/status/2119902325460590834",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Motion graphics tribute to ChatGPT's fourth anniversary",
+      "zh": "ChatGPT 四周年致敬动效片"
+    },
+    "summary": {
+      "en": "A 58-second motion graphics tribute marking ChatGPT's fourth anniversary. The author confirmed it took \"just one prompt\" (x.com/Khazix0918/status/2119948573853073473).",
+      "zh": "ChatGPT 四周年致敬动效片，58 秒。作者确认\"就一句Prompt\"（x.com/Khazix0918/status/2119948573853073473）。"
+    },
+    "note": {
+      "en": "This prompt was quoted by @bruc3van from a longer article by the author, so it is third-hand; the original article itself could not be retrieved.",
+      "zh": "这条提示词是 @bruc3van 从卡兹克的长文里引用的（第三方转引），原长文没抓到。"
+    },
+    "media": "Video, 58 s",
+    "views": 91000,
+    "likes": 604,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "做一支 40 秒到 1 分钟的 ChatGPT 四周年致敬动效视频（2022.11.30–2026.11.30），16:9 横版，无旁白，配原创音乐。内容自己联网查证，讲这四年的关键版本、里程碑和数字，不得杜撰。动手前先去 OpenAI 官网、博客和近期发布视频里观察他们的视觉风格，提炼后作为这支片子的视觉基调。节奏要快，动效密、画面饱满，随音乐卡点。片子定位是第三方致敬，不要做成 OpenAI 官方出品的样子。",
+    "promptSource": "https://x.com/bruc3van/status/2120398269356364250",
+    "promptCharacters": 208,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/046-motion-graphics-tribute-to-chatgpt-s-fourth-anniversary.md"
+  },
+  {
+    "id": 47,
+    "category": "motion-graphics",
+    "creator": "@Leviwoyun",
+    "post": "https://x.com/Leviwoyun/status/2119955625820258308",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "30-second motion graphics portfolio piece for a résumé",
+      "zh": "30 秒动态图形简历作品集"
+    },
+    "summary": {
+      "en": "A 30-second motion graphics short pitched as a \"résumé portfolio\", with the brief asking it to show off what it can do as a motion designer.",
+      "zh": "30 秒动态图形\"简历作品集\"。"
+    },
+    "note": null,
+    "media": "Video, 30 s",
+    "views": 24000,
+    "likes": 187,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "制作一段 30 秒动态图形短片，展现作为动态设计师出众的实力，就当做用于简历的个人作品集，请尽情发挥",
+    "promptSource": "https://x.com/Leviwoyun/status/2119955625820258308",
+    "promptCharacters": 50,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/047-30-second-motion-graphics-portfolio-piece-for-a-resume.md"
+  },
+  {
+    "id": 48,
+    "category": "motion-graphics",
+    "creator": "@himanshutwtxs",
+    "post": "https://x.com/himanshutwtxs/status/2120017106804900304",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "15-second motion designer showreel",
+      "zh": "15 秒动效 showreel"
+    },
+    "summary": {
+      "en": "A 15-second motion graphics showreel, made as if for a motion designer's résumé, with the instruction to \"go all out\".",
+      "zh": "15 秒动效 showreel。"
+    },
+    "note": null,
+    "media": "Video, 15 s",
+    "views": 1215,
+    "likes": 29,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out",
+    "promptSource": "https://x.com/himanshutwtxs/status/2120017106804900304",
+    "promptCharacters": 150,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/048-15-second-motion-designer-showreel.md"
+  },
+  {
+    "id": 49,
+    "category": "motion-graphics",
+    "creator": "@techfren",
+    "post": "https://x.com/techfren/status/2119945743507058740",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Most impressive motion design video, with a 40,000-bird flock",
+      "zh": "最惊艳动效片，含 4 万只鸟群模拟"
+    },
+    "summary": {
+      "en": "Asked for the \"most impressive motion design video it could make\", it produced a piece that includes a simulated flock of 40,000 birds.",
+      "zh": "\"它能做出的最惊艳的动效片\"，含 4 万只鸟群模拟。"
+    },
+    "note": {
+      "en": "The post only gives a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "Video, 62 s",
+    "views": 1002,
+    "likes": 5,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "most impressive motion design video it could make",
+    "promptSource": "https://x.com/techfren/status/2119945743507058740",
+    "promptCharacters": 49,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/049-most-impressive-motion-design-video-with-a-40-000-bird-flock.md"
+  },
+  {
+    "id": 50,
+    "category": "motion-graphics",
+    "creator": "@MatthewBerman",
+    "post": "https://x.com/MatthewBerman/status/2119868633086378471",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Mograph animation explaining how LLMs work",
+      "zh": "讲解 LLM 工作原理的 mograph 动画"
+    },
+    "summary": {
+      "en": "A mograph (motion graphics) animation that explains how LLMs work.",
+      "zh": "讲解 LLM 工作原理的 mograph 动画。"
+    },
+    "note": {
+      "en": "The post only gives a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "Video, 49 s",
+    "views": 7594,
+    "likes": 100,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "create a mograph to explain how LLMs work",
+    "promptSource": "https://x.com/MatthewBerman/status/2119868633086378471",
+    "promptCharacters": 41,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/050-mograph-animation-explaining-how-llms-work.md"
+  },
+  {
+    "id": 51,
+    "category": "motion-graphics",
+    "creator": "@other__reality",
+    "post": "https://x.com/other__reality/status/2119885430627913784",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Clawd building and releasing Claude Fable 5.2, animated",
+      "zh": "Clawd 小人制作并发布 Fable 5.2"
+    },
+    "summary": {
+      "en": "An animation in which the little Clawd character builds Claude Fable 5.2 and then releases it.",
+      "zh": "Clawd 小人制作并发布 Claude Fable 5.2 的动画。"
+    },
+    "note": null,
+    "media": "Video, 26 s",
+    "views": 13000,
+    "likes": 212,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Create an animated video of clawd creating and releasing Claude Fable 5.2",
+    "promptSource": "https://x.com/other__reality/status/2119885430627913784",
+    "promptCharacters": 73,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/051-clawd-building-and-releasing-claude-fable-5-2-animated.md"
+  },
+  {
+    "id": 52,
+    "category": "motion-graphics",
+    "creator": "@yasu_919",
+    "post": "https://x.com/yasu_919/status/2120046796013764908",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "90-second Fable 5.2 self-promotion video",
+      "zh": "90 秒 Fable 5.2 自我宣传片"
+    },
+    "summary": {
+      "en": "A 90-second self-promotion video for Fable 5.2 that cuts between human subjects, motion graphics and cinematic shots.",
+      "zh": "90 秒 Fable 5.2 自我宣传片，人物、动效和电影感镜头混剪。"
+    },
+    "note": null,
+    "media": "Video, 90 s",
+    "views": 189,
+    "likes": 1,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Create a Fable 5.2 self promotion video to be viral. 90 sec. A mix of human subjects, dynamic motion graphics, and cinematic visuals.",
+    "promptSource": "https://x.com/yasu_919/status/2120046796013764908",
+    "promptCharacters": 133,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/052-90-second-fable-5-2-self-promotion-video.md"
+  },
+  {
+    "id": 53,
+    "category": "motion-graphics",
+    "creator": "@PeetuKupiainen",
+    "post": "https://x.com/PeetuKupiainen/status/2119919801674162539",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Product launch video for an API website",
+      "zh": "API 网站的产品发布视频"
+    },
+    "summary": {
+      "en": "A product launch video for an API website, companyregistryapi.com.",
+      "zh": "给一个 API 网站做产品发布视频。"
+    },
+    "note": null,
+    "media": "Video, 20 s",
+    "views": 242,
+    "likes": 7,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Create a product launch video for https://companyregistryapi.com",
+    "promptSource": "https://x.com/PeetuKupiainen/status/2119919801674162539",
+    "promptCharacters": 64,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/053-product-launch-video-for-an-api-website.md"
+  },
+  {
+    "id": 54,
+    "category": "motion-graphics",
+    "creator": "@rileybrown",
+    "post": "https://x.com/rileybrown/status/2119946022767980985",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "The History of Writing, a photoreal historical time-lapse",
+      "zh": "写实延时摄影风的写作历史短片"
+    },
+    "summary": {
+      "en": "\"The History of Writing\" is a 96-second historical short told in a photoreal time-lapse style.",
+      "zh": "\"The History of Writing\"：写实延时摄影风的历史短片，96 秒。"
+    },
+    "note": {
+      "en": "The prompt comes from the author's v2.video project page. Three follow-up prompts came after it: Make the music beautiful. / 4K / make the foliage really realistic and everything super realistic.",
+      "zh": "提示词取自作者的 v2.video 项目页；之后还追加了三条：Make the music beautiful. / 4K / make the foliage really realistic and everything super realistic."
+    },
+    "media": "Video, 96 s",
+    "views": 47000,
+    "likes": 658,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "excerpt",
+    "prompt": "I want you in a new thread to create a video using the same technique that created this video... But i want it to be historical. Pick a location / building / item in history and show it as a time lapse as it goes from age to age.\n[…]",
+    "promptSource": "https://v2.video/riley/the-history-of-writing/v1",
+    "promptCharacters": 546,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/054-the-history-of-writing-a-photoreal-historical-time-lapse.md"
+  },
+  {
+    "id": 55,
+    "category": "motion-graphics",
+    "creator": "@tankazunori0914",
+    "post": "https://x.com/tankazunori0914/status/2120003528366416032",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Japanese explainer on just how capable Fable 5.2 is",
+      "zh": "日文解说视频：Fable 5.2 有多强"
+    },
+    "summary": {
+      "en": "A high-quality explainer video, in Japanese, that sets out in earnest just how capable Fable 5.2 is.",
+      "zh": "认真讲解 Fable 5.2 有多强的高质量解说视频（日文）。"
+    },
+    "note": null,
+    "media": "Video, 85 s",
+    "views": 1131,
+    "likes": 8,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Fable 5.2がどれくらいすごいのか、本気で5.2について解説する高品質の動画を作成してください。",
+    "promptSource": "https://x.com/tankazunori0914/status/2120003528366416032",
+    "promptCharacters": 51,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/055-japanese-explainer-on-just-how-capable-fable-5-2-is.md"
+  },
+  {
+    "id": 56,
+    "category": "motion-graphics",
+    "creator": "@marcy_sns",
+    "post": "https://x.com/marcy_sns/status/2120449442864304288",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Japanese showcase video of Fable 5.2 at full strength",
+      "zh": "日文 Fable 5.2 最强实力宣传片"
+    },
+    "summary": {
+      "en": "A showcase video, in Japanese, meant to show Fable 5.2 at its very strongest and make the most of what the model can do.",
+      "zh": "展示\"最强实力\"的 Fable 5.2 能力宣传片（日文）。"
+    },
+    "note": null,
+    "media": "Video, 82 s",
+    "views": 983,
+    "likes": 9,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "あなたの最強の実力を見せつけるような、Fable 5.2 の能力を最大限活かす動画を作って。",
+    "promptSource": "https://x.com/marcy_sns/status/2120449442864304288",
+    "promptCharacters": 46,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/056-japanese-showcase-video-of-fable-5-2-at-full-strength.md"
+  },
+  {
+    "id": 57,
+    "category": "motion-graphics",
+    "creator": "@kaif9998",
+    "post": "https://x.com/kaif9998/status/2119903824848761287",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "15-second farewell to Opus 5.5 as Fable 5.2 arrives",
+      "zh": "告别 Opus 5.5 的 15 秒动画"
+    },
+    "summary": {
+      "en": "A 15-second animation that says a final goodbye to Opus 5.5 now that Fable 5.2 is here.",
+      "zh": "15 秒动画：告别 Opus 5.5，迎来 Fable 5.2。"
+    },
+    "note": {
+      "en": "There were two prompts in total.",
+      "zh": "一共两条提示词。"
+    },
+    "media": "Video, 15 s",
+    "views": 1588,
+    "likes": 18,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "make a 15 second animated video that says final goodbye to Opus 5.5 as Fable 5.2 is here and I switched to it\n\n(第二条) make the video like it's your showreel",
+    "promptSource": "https://x.com/kaif9998/status/2119904086288118219",
+    "promptCharacters": 155,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/057-15-second-farewell-to-opus-5-5-as-fable-5-2-arrives.md"
+  },
+  {
+    "id": 58,
+    "category": "motion-graphics",
+    "creator": "@ici_dab",
+    "post": "https://x.com/ici_dab/status/2119901910237098351",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Launch-day animation built to be shared",
+      "zh": "发布日拿来分享的最惊艳动画"
+    },
+    "summary": {
+      "en": "A launch animation made in answer to a request for \"the most impressive thing I can share with people when you launch\".",
+      "zh": "\"发布日能拿出去分享的最惊艳作品\"——发布动画。"
+    },
+    "note": null,
+    "media": "Video, 67 s",
+    "views": 89,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "the prompt: \"I need you to create the most impressive thing I can share with people when you launch. It needs to be embeddable in a post and i can preface it however you like. it needs to have a visceral impact on people to show what you can do and the range of capabilities. It should grab them quickly. Be amazingly clever about this.\"",
+    "promptSource": "https://x.com/ici_dab/status/2119902189271605579",
+    "promptCharacters": 337,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/058-launch-day-animation-built-to-be-shared.md"
+  },
+  {
+    "id": 59,
+    "category": "motion-graphics",
+    "creator": "@grafikcem",
+    "post": "https://x.com/grafikcem/status/2119910525064937806",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "60-second Fable 5.2 launch film made with Opus 5.5 subagents",
+      "zh": "用子 agent 做的 60 秒发布动画"
+    },
+    "summary": {
+      "en": "A 60-second launch animation for Fable 5.2, produced by having Opus 5.5 subagents work together (in Turkish).",
+      "zh": "让 Opus 5.5 子 agent 协作，给 Fable 5.2 做 60 秒发布动画（土耳其语）。"
+    },
+    "note": null,
+    "media": "Video, 60 s",
+    "views": 185,
+    "likes": 1,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Bugün duyurulmana özel Fable 5.2 modeli için opus 5.5 subagentları kullanarak kendine 60 saniyelik bir tanıtım animasyon filmi hazırla.",
+    "promptSource": "https://x.com/grafikcem/status/2119910525064937806",
+    "promptCharacters": 135,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/059-60-second-fable-5-2-launch-film-made-with-opus-5-5-subagents.md"
+  },
+  {
+    "id": 60,
+    "category": "motion-graphics",
+    "creator": "@furkancavlakcom",
+    "post": "https://x.com/furkancavlakcom/status/2119896886345695521",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Its own launch video, made with code only",
+      "zh": "只用代码给自己做的发布视频"
+    },
+    "summary": {
+      "en": "A launch video the model made for itself from a one-line brief: make your own launch video, using only code (in Turkish).",
+      "zh": "\"只用代码，给自己做发布视频\"（土耳其语）。"
+    },
+    "note": null,
+    "media": "Video, 74 s",
+    "views": 36000,
+    "likes": 67,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Kendi lansman videonu yap. Sadece kodla.",
+    "promptSource": "https://x.com/furkancavlakcom/status/2119896886345695521",
+    "promptCharacters": 40,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/060-its-own-launch-video-made-with-code-only.md"
+  },
+  {
+    "id": 61,
+    "category": "motion-graphics",
+    "creator": "@midudev",
+    "post": "https://x.com/midudev/status/2119876297304203273",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Animated social media trailer for an open-source project",
+      "zh": "开源项目的社交媒体动画预告片"
+    },
+    "summary": {
+      "en": "An animated trailer for sharing an open-source project on social media, built with hyperframes and with sound (in Spanish, with effort set to medium).",
+      "zh": "给开源项目做社交媒体动画预告片，用 hyperframes 并带音效（西班牙语，effort 设为中档）。"
+    },
+    "note": null,
+    "media": "Video, 32 s",
+    "views": 97000,
+    "likes": 2300,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "El prompt:  Crea un trailer en video animado para compartir en redes sociales de este proyecto. Quiero que lo vendas de forma espectacular, que tenga sonido y animaciones brutales. Usa hyperframes.\n\nEsfuerzo medio.",
+    "promptSource": "https://x.com/midudev/status/2119876298940051523",
+    "promptCharacters": 214,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/061-animated-social-media-trailer-for-an-open-source-project.md"
+  },
+  {
+    "id": 62,
+    "category": "motion-graphics",
+    "creator": "@talhaXclusively",
+    "post": "https://x.com/talhaXclusively/status/2120396265510867162",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "2D night-time animation of a man entering a lighthouse",
+      "zh": "走进灯塔的 2D 夜景动画"
+    },
+    "summary": {
+      "en": "A 2D animation of a man walking into a lighthouse at night, staged cinematically and with sound effects.",
+      "zh": "2D 灯塔动画：一个人走进灯塔，夜景、电影感、带音效。"
+    },
+    "note": null,
+    "media": "Video, 27 s",
+    "views": 48,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "can you make the best 2D animations like a pro director of a lighthouse and a guy going inside make it dramatic and cinematic and night and with sounds and everything professional.",
+    "promptSource": "https://x.com/talhaXclusively/status/2120396265510867162",
+    "promptCharacters": 180,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/062-2d-night-time-animation-of-a-man-entering-a-lighthouse.md"
+  },
+  {
+    "id": 63,
+    "category": "motion-graphics",
+    "creator": "@The_Alex",
+    "post": "https://x.com/The_Alex/status/2119867570669203554",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "One-pass 9:16 vertical edit with animations and mographs",
+      "zh": "一次完成的 9:16 竖版剪辑"
+    },
+    "summary": {
+      "en": "A vertical 9:16 edit, animations and mographs included, completed in a single pass in about 20 minutes.",
+      "zh": "一次完成的 9:16 竖版剪辑，含动画和 mograph，约 20 分钟。"
+    },
+    "note": {
+      "en": "The quotation marks in the original post are not closed: \"Edit this 9:16\" including all the animations and mographs I ask for in the video\".",
+      "zh": "帖子原文的引号没闭合：\"Edit this 9:16\" including all the animations and mographs I ask for in the video\"。"
+    },
+    "media": "Video, 41 s",
+    "views": 3945,
+    "likes": 39,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "Edit this 9:16",
+    "promptSource": "https://x.com/The_Alex/status/2119867570669203554",
+    "promptCharacters": 14,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/063-one-pass-9-16-vertical-edit-with-animations-and-mographs.md"
+  },
+  {
+    "id": 64,
+    "category": "motion-graphics",
+    "creator": "@Rasmic",
+    "post": "https://x.com/Rasmic/status/2119919466163093768",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Animated product explainer for Convex",
+      "zh": "Convex 产品讲解动画"
+    },
+    "summary": {
+      "en": "A 248-second animated explainer for the Convex product.",
+      "zh": "Convex 产品讲解动画，248 秒。"
+    },
+    "note": null,
+    "media": "Video, 248 s",
+    "views": 12000,
+    "likes": 245,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/Rasmic/status/2119919466163093768",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/064-animated-product-explainer-for-convex.md"
+  },
+  {
+    "id": 65,
+    "category": "motion-graphics",
+    "creator": "@DoctorYev",
+    "post": "https://x.com/DoctorYev/status/2119895951108423801",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Launch promotional video made with Fable 5.2",
+      "zh": "用 Fable 5.2 做的发布宣传片"
+    },
+    "summary": {
+      "en": "A promotional video for a launch.",
+      "zh": "发布宣传片。"
+    },
+    "note": {
+      "en": "The author said the full prompt would be posted in a reply, but it could not be found.",
+      "zh": "作者说完整提示词会发在回复里，但没检索到。"
+    },
+    "media": "Video, 63 s",
+    "views": 1630,
+    "likes": 18,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/DoctorYev/status/2119895951108423801",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/065-launch-promotional-video-made-with-fable-5-2.md"
+  },
+  {
+    "id": 66,
+    "category": "motion-graphics",
+    "creator": "@Btheriot",
+    "post": "https://x.com/Btheriot/status/2120005843764810083",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Animated explainer of the AI 2027 document",
+      "zh": "AI 2027 文档的动画解说"
+    },
+    "summary": {
+      "en": "An animated explainer built from the AI 2027 document.",
+      "zh": "把 AI 2027 文档做成动画解说。"
+    },
+    "note": {
+      "en": "The post says the prompt is below, but it could not be found.",
+      "zh": "帖子说提示词在下方，但没检索到。"
+    },
+    "media": "Video, 642 s",
+    "views": 51,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/Btheriot/status/2120005843764810083",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/motion-graphics/066-animated-explainer-of-the-ai-2027-document.md"
+  },
+  {
+    "id": 67,
+    "category": "games",
+    "creator": "@felixrieseberg",
+    "post": "https://x.com/felixrieseberg/status/2119925633564463609",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Realistic AAA-style FPS level built over 8 hours",
+      "zh": "8 小时做出的 3A 写实风 FPS 关卡"
+    },
+    "summary": {
+      "en": "A small FPS level with a realistic AAA look, built in a run of 8 hours that cost about $550.",
+      "zh": "跑了 8 小时、约 $550 的 3A 写实风 FPS 小关卡。"
+    },
+    "note": null,
+    "media": "Video, 72 s",
+    "views": 3903000,
+    "likes": 13000,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "I'm slowly discovering that the age of prompt engineering is basically over. It's so simple:\n\n\"You know, you should also build me a FPS. Insanely detailed quality pls, something that looks visually like it can keep up with AAA. Make it small in scope (like a tiny level) but otherwise impressive photorealistic graphics\"",
+    "promptSource": "https://x.com/felixrieseberg/status/2119927483994907024",
+    "promptCharacters": 320,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/067-realistic-aaa-style-fps-level-built-over-8-hours.md"
+  },
+  {
+    "id": 68,
+    "category": "games",
+    "creator": "@JaydenDavisNC",
+    "post": "https://x.com/JaydenDavisNC/status/2120306434575392793",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "First-person shooter written in three.js",
+      "zh": "three.js 写的 FPS 游戏"
+    },
+    "summary": {
+      "en": "An FPS written in three.js, shown in a 225-second demo.",
+      "zh": "three.js 写的 FPS，演示 225 秒。"
+    },
+    "note": null,
+    "media": "Video, 225 s",
+    "views": 43000,
+    "likes": 427,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/JaydenDavisNC/status/2120306434575392793",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/068-first-person-shooter-written-in-three-js.md"
+  },
+  {
+    "id": 69,
+    "category": "games",
+    "creator": "@kevin_t_ngo",
+    "post": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Small boat sailing through 8 worlds, with a Fable-made trailer score",
+      "zh": "小船穿越 8 个世界的游戏"
+    },
+    "summary": {
+      "en": "A game in which a small boat travels through 8 worlds; the music for its trailer was also made by Fable (x.com/kevin_t_ngo/status/2119880812254601655).",
+      "zh": "小船穿越 8 个世界的游戏；预告片配乐也是 Fable 做的（x.com/kevin_t_ngo/status/2119880812254601655）。"
+    },
+    "note": null,
+    "media": "Video, 57 s",
+    "views": 462000,
+    "likes": 4124,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/069-small-boat-sailing-through-8-worlds-with-a-fable-made.md"
+  },
+  {
+    "id": 70,
+    "category": "games",
+    "creator": "@kevin_t_ngo",
+    "post": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Gilt & Gutter, a game built with Fable",
+      "zh": "游戏《Gilt & Gutter》"
+    },
+    "summary": {
+      "en": "A game called \"Gilt & Gutter\".",
+      "zh": "\"Gilt & Gutter\"游戏。"
+    },
+    "note": null,
+    "media": "Video, 60 s",
+    "views": 101000,
+    "likes": 318,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/kevin_t_ngo/status/2119900487688622171",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/070-gilt-gutter-a-game-built-with-fable.md"
+  },
+  {
+    "id": 71,
+    "category": "games",
+    "creator": "@higgsfield_ai",
+    "post": "https://x.com/higgsfield_ai/status/2119926932343324795",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Game with an AAA-quality look, made in 4 hours",
+      "zh": "4 小时做出的 3A 质感游戏"
+    },
+    "summary": {
+      "en": "From Higgsfield: a game with an AAA-quality look, made in 4 hours.",
+      "zh": "Higgsfield：4 小时做出的 3A 质感游戏。"
+    },
+    "note": null,
+    "media": "Video, 109 s",
+    "views": 19000,
+    "likes": 179,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/higgsfield_ai/status/2119926932343324795",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/071-game-with-an-aaa-quality-look-made-in-4-hours.md"
+  },
+  {
+    "id": 72,
+    "category": "games",
+    "creator": "@MatthewBerman",
+    "post": "https://x.com/MatthewBerman/status/2119871207206158459",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Gears of War-style game built in Unreal",
+      "zh": "Unreal 里做的《战争机器》风格游戏"
+    },
+    "summary": {
+      "en": "A game in the style of Gears of War, made in Unreal.",
+      "zh": "在 Unreal 里做的《战争机器》风格游戏。"
+    },
+    "note": null,
+    "media": "Video, 67 s",
+    "views": 140000,
+    "likes": 2127,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/MatthewBerman/status/2119871207206158459",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/072-gears-of-war-style-game-built-in-unreal.md"
+  },
+  {
+    "id": 73,
+    "category": "games",
+    "creator": "@mattshumer_",
+    "post": "https://x.com/mattshumer_/status/2119872098306810226",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Harry Potter and Fortnite mashup game",
+      "zh": "哈利波特 × 堡垒之夜混搭游戏"
+    },
+    "summary": {
+      "en": "A game that mashes up Harry Potter and Fortnite.",
+      "zh": "哈利波特 × 堡垒之夜的混搭游戏。"
+    },
+    "note": null,
+    "media": "Video, 62 s",
+    "views": 169000,
+    "likes": 305,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Fable 5.2, create a mashup of Harry Potter and Fortnite",
+    "promptSource": "https://x.com/mattshumer_/status/2119872098306810226",
+    "promptCharacters": 55,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/073-harry-potter-and-fortnite-mashup-game.md"
+  },
+  {
+    "id": 74,
+    "category": "games",
+    "creator": "@mattshumer_",
+    "post": "https://x.com/mattshumer_/status/2120282133503820150",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Open-world game developed over 7 straight days",
+      "zh": "连续开发 7 天的开放世界游戏"
+    },
+    "summary": {
+      "en": "An open-world game developed over 7 consecutive days.",
+      "zh": "连续 7 天开发的开放世界游戏。"
+    },
+    "note": {
+      "en": "The author posted a separate video explaining the techniques, but has not published the prompt.",
+      "zh": "作者另外发了视频讲技巧，没公开提示词原文。"
+    },
+    "media": "Video, 63 s",
+    "views": 815000,
+    "likes": 4147,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/mattshumer_/status/2120282133503820150",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/074-open-world-game-developed-over-7-straight-days.md"
+  },
+  {
+    "id": 75,
+    "category": "games",
+    "creator": "@goncalo_canhoto",
+    "post": "https://x.com/goncalo_canhoto/status/2119932946346094690",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Casual flying game over Lisbon, playable online",
+      "zh": "飞越里斯本的休闲飞行游戏"
+    },
+    "summary": {
+      "en": "A casual flying game set over Lisbon, with a playable version online at cozylisbon.vercel.app.",
+      "zh": "飞越里斯本的休闲飞行游戏，在线版 cozylisbon.vercel.app。"
+    },
+    "note": null,
+    "media": "Video, 30 s",
+    "views": 12000,
+    "likes": 158,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/goncalo_canhoto/status/2119932946346094690",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/075-casual-flying-game-over-lisbon-playable-online.md"
+  },
+  {
+    "id": 76,
+    "category": "games",
+    "creator": "@BlendiByl",
+    "post": "https://x.com/BlendiByl/status/2120341251178594532",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Hand-painted oil-paint game with 1.5 million brush strokes",
+      "zh": "150 万笔刷的手绘油画风游戏"
+    },
+    "summary": {
+      "en": "A game in a hand-painted oil-painting style made of 1.5 million brush strokes, open-sourced at patch.gg/blendi/oil-paint. It could just as well count as a case of painting with code.",
+      "zh": "手绘油画风游戏，150 万笔刷，开源在 patch.gg/blendi/oil-paint（也可以算作\"代码绘画\"案例）。"
+    },
+    "note": null,
+    "media": "Video, 16 s",
+    "views": 162000,
+    "likes": 3325,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/BlendiByl/status/2120341251178594532",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/076-hand-painted-oil-paint-game-with-1-5-million-brush-strokes.md"
+  },
+  {
+    "id": 77,
+    "category": "games",
+    "creator": "@intheworldofai",
+    "post": "https://x.com/intheworldofai/status/2119975670650450426",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Full Minecraft clone running in the browser",
+      "zh": "浏览器里的完整 Minecraft 克隆"
+    },
+    "summary": {
+      "en": "A complete Minecraft clone that runs in the browser.",
+      "zh": "浏览器里的完整 Minecraft 克隆。"
+    },
+    "note": null,
+    "media": "Video, 183 s",
+    "views": 6829,
+    "likes": 169,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Build a full Minecraft Clone in the browser.",
+    "promptSource": "https://x.com/intheworldofai/status/2119975670650450426",
+    "promptCharacters": 44,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/077-full-minecraft-clone-running-in-the-browser.md"
+  },
+  {
+    "id": 78,
+    "category": "games",
+    "creator": "@joshvlc",
+    "post": "https://x.com/joshvlc/status/2119894656221958575",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "One-shot 3D basketball arena game in three.js",
+      "zh": "一次生成的篮球馆游戏"
+    },
+    "summary": {
+      "en": "A basketball arena game generated in a single shot.",
+      "zh": "一次生成的篮球馆游戏。"
+    },
+    "note": null,
+    "media": "Video, 19 s",
+    "views": 109,
+    "likes": 1,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "excerpt",
+    "prompt": "Can you make a 3D basketball game using THREE.js? It should have a player in two different colored uniforms for the two teams and should follow the basic rules of basketball. It should have basic funcionality:\n- dribble (happens automatically when player runs)\n[…]",
+    "promptSource": "https://x.com/joshvlc/status/2119894940595695756",
+    "promptCharacters": 819,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/078-one-shot-3d-basketball-arena-game-in-three-js.md"
+  },
+  {
+    "id": 79,
+    "category": "games",
+    "creator": "@emollick",
+    "post": "https://x.com/emollick/status/2119876449494540554",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Reverse Scooby-Doo mystery game",
+      "zh": "反向史酷比推理游戏"
+    },
+    "summary": {
+      "en": "A \"reverse Scooby-Doo\" mystery game.",
+      "zh": "\"反向史酷比\"推理游戏。"
+    },
+    "note": null,
+    "media": "Video, 60 s",
+    "views": 32000,
+    "likes": 503,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/emollick/status/2119876449494540554",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/079-reverse-scooby-doo-mystery-game.md"
+  },
+  {
+    "id": 80,
+    "category": "games",
+    "creator": "@petergyang",
+    "post": "https://x.com/petergyang/status/2119901658394358005",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Go-kart racing game built with Fable 5.2",
+      "zh": "一款卡丁车竞速游戏"
+    },
+    "summary": {
+      "en": "A go-kart racing game.",
+      "zh": "卡丁车竞速游戏。"
+    },
+    "note": null,
+    "media": "Video, 20 s",
+    "views": 32000,
+    "likes": 136,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/petergyang/status/2119901658394358005",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/080-go-kart-racing-game-built-with-fable-5-2.md"
+  },
+  {
+    "id": 81,
+    "category": "games",
+    "creator": "@alexmichael",
+    "post": "https://x.com/alexmichael/status/2119877772600385949",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Game in the style of Fall Guys",
+      "zh": "糖豆人（Fall Guys）风格游戏"
+    },
+    "summary": {
+      "en": "A game in the style of Fall Guys.",
+      "zh": "糖豆人（Fall Guys）风格游戏。"
+    },
+    "note": null,
+    "media": "Video, 47 s",
+    "views": 2030,
+    "likes": 7,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/alexmichael/status/2119877772600385949",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/081-game-in-the-style-of-fall-guys.md"
+  },
+  {
+    "id": 82,
+    "category": "games",
+    "creator": "@mihawkxxxxx",
+    "post": "https://x.com/mihawkxxxxx/status/2119909865296699749",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Horror game made in Roblox",
+      "zh": "Roblox 恐怖游戏"
+    },
+    "summary": {
+      "en": "A horror game in Roblox.",
+      "zh": "Roblox 恐怖游戏。"
+    },
+    "note": null,
+    "media": "Video, 54 s",
+    "views": 1150,
+    "likes": 11,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/mihawkxxxxx/status/2119909865296699749",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/082-horror-game-made-in-roblox.md"
+  },
+  {
+    "id": 83,
+    "category": "games",
+    "creator": "@winchxyz",
+    "post": "https://x.com/winchxyz/status/2120078399482020160",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Open-source alchemy game on GitHub",
+      "zh": "开源的炼金术游戏"
+    },
+    "summary": {
+      "en": "An alchemy game, open-sourced at github.com/winchxyz/tria-prima.",
+      "zh": "炼金术游戏，开源在 github.com/winchxyz/tria-prima。"
+    },
+    "note": null,
+    "media": "Video, 32 s",
+    "views": 442,
+    "likes": 4,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/winchxyz/status/2120078399482020160",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/083-open-source-alchemy-game-on-github.md"
+  },
+  {
+    "id": 84,
+    "category": "games",
+    "creator": "@flxrnc",
+    "post": "https://x.com/flxrnc/status/2120494277528580110",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Fantasy game built with Fable 5.2",
+      "zh": "一款奇幻风格游戏"
+    },
+    "summary": {
+      "en": "A fantasy game.",
+      "zh": "奇幻游戏。"
+    },
+    "note": {
+      "en": "The prompt is in a Google Drive PDF the author shared; it does not appear on X.",
+      "zh": "提示词放在作者给的 Google Drive PDF 里，X 上没有原文。"
+    },
+    "media": "Video, 45 s",
+    "views": 646,
+    "likes": 24,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/flxrnc/status/2120494277528580110",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/084-fantasy-game-built-with-fable-5-2.md"
+  },
+  {
+    "id": 85,
+    "category": "games",
+    "creator": "@siennatries",
+    "post": "https://x.com/siennatries/status/2119925951761101261",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Playable pelican-on-a-bicycle mini game",
+      "zh": "可玩的鹈鹕骑自行车小游戏"
+    },
+    "summary": {
+      "en": "The \"pelican riding a bicycle\" idea turned into a small playable game, where you can switch between day and night, change the speed and ring the bell.",
+      "zh": "把\"鹈鹕骑自行车\"做成可玩的小游戏，可以切换日夜、调速度、按车铃。"
+    },
+    "note": null,
+    "media": "Video, 29 s",
+    "views": 71,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/siennatries/status/2119925951761101261",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/games/085-playable-pelican-on-a-bicycle-mini-game.md"
+  },
+  {
+    "id": 86,
+    "category": "character-action",
+    "creator": "@DanielZambrini",
+    "post": "https://x.com/DanielZambrini/status/2119893834276507954",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Stick-figure fight with slow motion and an Opus cost comparison",
+      "zh": "火柴人慢动作打斗，对比 Opus 成本"
+    },
+    "summary": {
+      "en": "A stick-figure fight with slow-motion beats, posted with a cost comparison against Opus ($40.36 vs $18.88).",
+      "zh": "火柴人打斗加慢动作，并和 Opus 对比成本（$40.36 vs $18.88）。"
+    },
+    "note": null,
+    "media": "Video, 15 s",
+    "views": 33000,
+    "likes": 184,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/DanielZambrini/status/2119893834276507954",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/086-stick-figure-fight-with-slow-motion-and-an-opus-cost.md"
+  },
+  {
+    "id": 87,
+    "category": "character-action",
+    "creator": "@DanielZambrini",
+    "post": "https://x.com/DanielZambrini/status/2120225154613801451",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "The same stick-figure fight test: Gemini 4 Carbon vs Fable 5.2",
+      "zh": "火柴人打斗对比 Gemini 4 Carbon"
+    },
+    "summary": {
+      "en": "The same stick-figure fight test run again, this time putting Gemini 4 Carbon up against Fable 5.2.",
+      "zh": "同一个火柴人打斗测试，Gemini 4 Carbon 对比 Fable 5.2。"
+    },
+    "note": null,
+    "media": "Video, 15 s",
+    "views": 21000,
+    "likes": 123,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/DanielZambrini/status/2120225154613801451",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/087-the-same-stick-figure-fight-test-gemini-4-carbon-vs-fable-5.md"
+  },
+  {
+    "id": 88,
+    "category": "character-action",
+    "creator": "@leo114119",
+    "post": "https://x.com/leo114119/status/2119925803828047952",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Stick-figure fight animation, compared with an earlier Fable 5.5 test",
+      "zh": "火柴人打斗，对比 Fable 5.5 灰度版"
+    },
+    "summary": {
+      "en": "A stick-figure fight animation that the author finds more impressive than the version from the earlier Fable 5.5 pre-release test. It cost about $40.",
+      "zh": "火柴人打斗动画，作者说比之前 Fable 5.5 灰度测试的版本更惊艳，成本约 $40。"
+    },
+    "note": null,
+    "media": "Video, 15 s",
+    "views": 1384,
+    "likes": 11,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/leo114119/status/2119925803828047952",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/088-stick-figure-fight-animation-compared-with-an-earlier-fable.md"
+  },
+  {
+    "id": 89,
+    "category": "character-action",
+    "creator": "@RJasonHA",
+    "post": "https://x.com/RJasonHA/status/2120041766363574444",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Stick-figure fight billed as cinematic, with effects",
+      "zh": "号称电影级的火柴人打斗与特效"
+    },
+    "summary": {
+      "en": "A stick-figure fight scene with visual effects, described as \"cinematic\".",
+      "zh": "\"电影级\"火柴人打斗和特效。"
+    },
+    "note": null,
+    "media": "Video, 15 s",
+    "views": 635,
+    "likes": 15,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/RJasonHA/status/2120041766363574444",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/089-stick-figure-fight-billed-as-cinematic-with-effects.md"
+  },
+  {
+    "id": 90,
+    "category": "character-action",
+    "creator": "@jiangjiangling",
+    "post": "https://x.com/jiangjiangling/status/2120163479789437298",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "15-second stick-figure lightsaber duel, compared with Opus 5.5",
+      "zh": "15 秒火柴人光剑对决，对比 Opus 5.5"
+    },
+    "summary": {
+      "en": "A 15-second stick-figure lightsaber duel, set side by side with Opus 5.5. Fable's estimated cost came to 2.14 times that of Opus.",
+      "zh": "15 秒火柴人光剑对决，和 Opus 5.5 对比（Fable 估算成本是 Opus 的 2.14 倍）。"
+    },
+    "note": null,
+    "media": "Video, 15 s",
+    "views": 383,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/jiangjiangling/status/2120163479789437298",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/090-15-second-stick-figure-lightsaber-duel-compared-with-opus-5.md"
+  },
+  {
+    "id": 91,
+    "category": "character-action",
+    "creator": "@ChengYi3629",
+    "post": "https://x.com/ChengYi3629/status/2120439278450938007",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Diablo IV recreation in Blender with a rigged fighting character",
+      "zh": "Blender 里复刻《暗黑破坏神 IV》"
+    },
+    "summary": {
+      "en": "A recreation of Diablo IV built in Blender, with a rigged character that performs combat moves.",
+      "zh": "Blender 里复刻《暗黑破坏神 IV》，角色绑定并带战斗动作。"
+    },
+    "note": null,
+    "media": "Video, 58 s",
+    "views": 320,
+    "likes": 3,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/ChengYi3629/status/2120439278450938007",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/091-diablo-iv-recreation-in-blender-with-a-rigged-fighting.md"
+  },
+  {
+    "id": 92,
+    "category": "character-action",
+    "creator": "@kevin_t_ngo",
+    "post": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Soulslike boss fight with an online version",
+      "zh": "魂系 Boss 战，附在线版"
+    },
+    "summary": {
+      "en": "A Soulslike boss fight shown across 137 seconds of footage, with an online version at evensong-phi.vercel.app.",
+      "zh": "魂系 Boss 战，137 秒；在线版 evensong-phi.vercel.app。"
+    },
+    "note": null,
+    "media": "Video, 137 s",
+    "views": 101000,
+    "likes": 1421,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/092-soulslike-boss-fight-with-an-online-version.md"
+  },
+  {
+    "id": 93,
+    "category": "character-action",
+    "creator": "@higgsfield_ai",
+    "post": "https://x.com/higgsfield_ai/status/2120006991804260444",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Iron Bamboo boss fight in 3,400 lines of three.js",
+      "zh": "“铁竹”Boss 战，3,400 行 three.js"
+    },
+    "summary": {
+      "en": "From Higgsfield: a boss fight called \"Iron Bamboo\", written in 3,400 lines of three.js.",
+      "zh": "Higgsfield：\"铁竹\" Boss 战，3,400 行 three.js。"
+    },
+    "note": null,
+    "media": "Video, 115 s",
+    "views": 14000,
+    "likes": 107,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/higgsfield_ai/status/2120006991804260444",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/093-iron-bamboo-boss-fight-in-3-400-lines-of-three-js.md"
+  },
+  {
+    "id": 94,
+    "category": "character-action",
+    "creator": "@FutureFlynn5",
+    "post": "https://x.com/FutureFlynn5/status/2120162204871958687",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Full three.js sword-fighting game from a single prompt",
+      "zh": "一条提示词做出的 three.js 剑斗游戏"
+    },
+    "summary": {
+      "en": "A complete three.js sword-fighting game built from one prompt, with custom combat, armor and lightning. It took 1 hour 45 minutes.",
+      "zh": "一条提示词做出完整的 three.js 剑斗游戏，有自定义战斗、盔甲、闪电，用时 1 小时 45 分钟。"
+    },
+    "note": null,
+    "media": "Video, 32 s",
+    "views": 40,
+    "likes": 1,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/FutureFlynn5/status/2120162204871958687",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/094-full-three-js-sword-fighting-game-from-a-single-prompt.md"
+  },
+  {
+    "id": 95,
+    "category": "character-action",
+    "creator": "@promodenstudio",
+    "post": "https://x.com/promodenstudio/status/2120085977079107788",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Courtyard Kings, a fighting game with audio from ElevenLabs MCP",
+      "zh": "格斗游戏 Courtyard Kings"
+    },
+    "summary": {
+      "en": "Courtyard Kings is a fighting game that gained commentary, music and impact sound effects once ElevenLabs MCP was hooked up.",
+      "zh": "格斗游戏 \"Courtyard Kings\"，接上 ElevenLabs MCP 后有了解说、音乐和打击音效。"
+    },
+    "note": null,
+    "media": "Video, 38 s",
+    "views": 174,
+    "likes": 3,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/promodenstudio/status/2120085977079107788",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/095-courtyard-kings-a-fighting-game-with-audio-from-elevenlabs.md"
+  },
+  {
+    "id": 96,
+    "category": "character-action",
+    "creator": "@0xKense1",
+    "post": "https://x.com/0xKense1/status/2119916096098582566",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Raw Tripo model turned into a rigged game character in Blender",
+      "zh": "36 分钟把 Tripo 模型做成绑定角色"
+    },
+    "summary": {
+      "en": "In Blender, a raw Tripo model was turned into a rigged game character in 36 minutes, with a comparison against Opus 5.5.",
+      "zh": "在 Blender 里把一个 Tripo 原始模型做成绑定好的游戏角色，36 分钟，并和 Opus 5.5 对比。"
+    },
+    "note": null,
+    "media": "Video, 28 s",
+    "views": 48000,
+    "likes": 532,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/0xKense1/status/2119916096098582566",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/096-raw-tripo-model-turned-into-a-rigged-game-character-in.md"
+  },
+  {
+    "id": 97,
+    "category": "character-action",
+    "creator": "@luccacerf",
+    "post": "https://x.com/luccacerf/status/2120305718939021566",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Armed and armored action character made with Tripo and Blender MCP",
+      "zh": "不到 3 小时做出的武装动作角色"
+    },
+    "summary": {
+      "en": "An action character with weapons and armor, made in under 3 hours using Fable 5.2, Tripo and Blender MCP.",
+      "zh": "用 Fable 5.2、Tripo 和 Blender MCP，不到 3 小时做出带武器盔甲的动作角色。"
+    },
+    "note": null,
+    "media": "Video, 25 s",
+    "views": 16000,
+    "likes": 261,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/luccacerf/status/2120305718939021566",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/097-armed-and-armored-action-character-made-with-tripo-and.md"
+  },
+  {
+    "id": 98,
+    "category": "character-action",
+    "creator": "@whaledevstudios",
+    "post": "https://x.com/whaledevstudios/status/2119893083366064392",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "New enemy designed from scratch for a cartoon FPS",
+      "zh": "为卡通 FPS 从零设计新敌人"
+    },
+    "summary": {
+      "en": "A new enemy for a cartoon FPS, designed from zero and taken all the way to game-ready.",
+      "zh": "给卡通 FPS 从零设计一个新敌人，做到游戏可用。"
+    },
+    "note": {
+      "en": "The post only gives a short summary of the brief.",
+      "zh": "帖子里只有 brief 概述。"
+    },
+    "media": "Video, 61 s",
+    "views": 1231,
+    "likes": 28,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "design a new enemy for my cartoon FPS from zero and build it game ready",
+    "promptSource": "https://x.com/whaledevstudios/status/2119893083366064392",
+    "promptCharacters": 71,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/098-new-enemy-designed-from-scratch-for-a-cartoon-fps.md"
+  },
+  {
+    "id": 99,
+    "category": "character-action",
+    "creator": "@TusharXo",
+    "post": "https://x.com/TusharXo/status/2120409025707995230",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "AR boxing game with camera hand tracking",
+      "zh": "摄像头追踪双手的 AR 拳击游戏"
+    },
+    "summary": {
+      "en": "An AR boxing game that follows the player's two hands through the camera, made from one prompt in 20 minutes.",
+      "zh": "摄像头追踪双手的 AR 拳击游戏，20 分钟、一条提示词。"
+    },
+    "note": null,
+    "media": "Video, 41 s",
+    "views": 334,
+    "likes": 7,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/TusharXo/status/2120409025707995230",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/099-ar-boxing-game-with-camera-hand-tracking.md"
+  },
+  {
+    "id": 100,
+    "category": "character-action",
+    "creator": "@ohmygameai",
+    "post": "https://x.com/ohmygameai/status/2120403542825423098",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "3D action game in the style of Shadow Blade Zero",
+      "zh": "《影之刃零》风格的 3D 动作游戏"
+    },
+    "summary": {
+      "en": "A 3D action game in the style of Shadow Blade Zero, generated from a single prompt on the OhMyGame platform.",
+      "zh": "《影之刃零》风格的 3D 动作游戏，在 OhMyGame 平台上一条提示词生成。"
+    },
+    "note": null,
+    "media": "Video, 94 s",
+    "views": 754,
+    "likes": 8,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/ohmygameai/status/2120403542825423098",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/100-3d-action-game-in-the-style-of-shadow-blade-zero.md"
+  },
+  {
+    "id": 101,
+    "category": "character-action",
+    "creator": "@KHvostikk",
+    "post": "https://x.com/KHvostikk/status/2119939061049889130",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "3D action animation generated from a reference video",
+      "zh": "从参考视频生成的 3D 动作动画"
+    },
+    "summary": {
+      "en": "A 10-second 3D action animation generated from a reference video.",
+      "zh": "从参考视频生成 3D 动作动画（10 秒）。"
+    },
+    "note": null,
+    "media": "Video, 10 s",
+    "views": 63000,
+    "likes": 1168,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/KHvostikk/status/2119939061049889130",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/101-3d-action-animation-generated-from-a-reference-video.md"
+  },
+  {
+    "id": 102,
+    "category": "character-action",
+    "creator": "@New202064737",
+    "post": "https://x.com/New202064737/status/2120429775047270454",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Kung fu cat built in code from spheres and cones",
+      "zh": "用球和圆锥拼出的“功夫喵”"
+    },
+    "summary": {
+      "en": "A \"kung fu cat\" assembled in code entirely from spheres and cones, shared as a GIF.",
+      "zh": "代码拼出来的\"功夫喵\"，全是球和圆锥（GIF）。"
+    },
+    "note": null,
+    "media": "GIF",
+    "views": 79,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/New202064737/status/2120429775047270454",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/102-kung-fu-cat-built-in-code-from-spheres-and-cones.md"
+  },
+  {
+    "id": 103,
+    "category": "character-action",
+    "creator": "@tymarsha",
+    "post": "https://x.com/tymarsha/status/2119904015454810582",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "One-prompt action piece on Fable 5.2 at High effort",
+      "zh": "High 档一条提示词做的动作作品"
+    },
+    "summary": {
+      "en": "An action piece made from a single prompt with Fable 5.2 on the High effort setting; the clip runs 44 seconds.",
+      "zh": "Fable 5.2 High 档一条提示词做的动作作品（44 秒）。"
+    },
+    "note": null,
+    "media": "Video, 44 s",
+    "views": 265,
+    "likes": 1,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/tymarsha/status/2119904015454810582",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/103-one-prompt-action-piece-on-fable-5-2-at-high-effort.md"
+  },
+  {
+    "id": 104,
+    "category": "character-action",
+    "creator": "@BertrandDiouly",
+    "post": "https://x.com/BertrandDiouly/status/2119886197648765001",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Street Fighter 2 clone generated in one go",
+      "zh": "一次生成的《街头霸王 2》克隆"
+    },
+    "summary": {
+      "en": "A Street Fighter 2 clone generated in a single pass that took 34 minutes 45 seconds.",
+      "zh": "34 分 45 秒一次生成的《街头霸王 2》克隆。"
+    },
+    "note": null,
+    "media": "Video, 30 s",
+    "views": 558,
+    "likes": 21,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/BertrandDiouly/status/2119886197648765001",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/104-street-fighter-2-clone-generated-in-one-go.md"
+  },
+  {
+    "id": 105,
+    "category": "character-action",
+    "creator": "@OneHitKillDev",
+    "post": "https://x.com/OneHitKillDev/status/2119882801222709524",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Action game generated in a single run on Spawn",
+      "zh": "用 Spawn 一次生成的动作游戏"
+    },
+    "summary": {
+      "en": "An action game generated in a single run on Spawn, shown in a 95-second clip.",
+      "zh": "在 Spawn 上一次生成的动作游戏（95 秒）。"
+    },
+    "note": null,
+    "media": "Video, 95 s",
+    "views": 1508,
+    "likes": 31,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/OneHitKillDev/status/2119882801222709524",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/105-action-game-generated-in-a-single-run-on-spawn.md"
+  },
+  {
+    "id": 106,
+    "category": "character-action",
+    "creator": "@Pumpnasterr",
+    "post": "https://x.com/Pumpnasterr/status/2119895877250609238",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Overwatch-style third-person PvPvE hero brawler",
+      "zh": "守望先锋式第三人称 PvPvE 英雄乱斗"
+    },
+    "summary": {
+      "en": "An Overwatch-style third-person PvPvE hero brawler with 12 heroes and 3v3 matches, plus boss fights.",
+      "zh": "守望先锋式第三人称 PvPvE 英雄乱斗：12 个英雄、3v3，还有 Boss 战。"
+    },
+    "note": null,
+    "media": "Video, 81 s",
+    "views": 1785,
+    "likes": 31,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/Pumpnasterr/status/2119895877250609238",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/character-action/106-overwatch-style-third-person-pvpve-hero-brawler.md"
+  },
+  {
+    "id": 107,
+    "category": "music",
+    "creator": "@imjustnewatai",
+    "post": "https://x.com/imjustnewatai/status/2119902327423258787",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Original symphony with a matching video",
+      "zh": "原创交响乐加配套视频"
+    },
+    "summary": {
+      "en": "An original symphony with a video made to go with it, 248 seconds long.",
+      "zh": "原创交响乐加配套视频，248 秒。"
+    },
+    "note": {
+      "en": "This prompt is a Chinese paraphrase by @anightmonarch, not the English original.",
+      "zh": "这是 @anightmonarch 转述的中文大意，不是英文原文。"
+    },
+    "media": "Video, 248 s",
+    "views": 142000,
+    "likes": 1050,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "给我写一首原创交响乐，做到你能做的最好，再配一个最好的视频",
+    "promptSource": "https://x.com/imjustnewatai/status/2119902327423258787",
+    "promptCharacters": 29,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/107-original-symphony-with-a-matching-video.md"
+  },
+  {
+    "id": 108,
+    "category": "music",
+    "creator": "@imjustnewatai",
+    "post": "https://x.com/imjustnewatai/status/2120383964686729410",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Inventing a new musical form",
+      "zh": "发明一种新的音乐形式"
+    },
+    "summary": {
+      "en": "The request was simply to invent a new musical form.",
+      "zh": "发明一种新的音乐形式。"
+    },
+    "note": {
+      "en": "The post only gives a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "Video, 128 s",
+    "views": 132000,
+    "likes": 2084,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "invent a new musical form",
+    "promptSource": "https://x.com/imjustnewatai/status/2120383964686729410",
+    "promptCharacters": 25,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/108-inventing-a-new-musical-form.md"
+  },
+  {
+    "id": 109,
+    "category": "music",
+    "creator": "@peach2k2",
+    "post": "https://x.com/peach2k2/status/2119885741773738033",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Original Vocaloid love song featuring Teto",
+      "zh": "Teto 的 Vocaloid 原创情歌"
+    },
+    "summary": {
+      "en": "An original love song for Teto (Vocaloid).",
+      "zh": "Teto（Vocaloid）的原创情歌。"
+    },
+    "note": {
+      "en": "The post only gives a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "Video, 24 s",
+    "views": 386000,
+    "likes": 1732,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "compose a Vocaloid love song featuring Teto",
+    "promptSource": "https://x.com/peach2k2/status/2119885741773738033",
+    "promptCharacters": 43,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/109-original-vocaloid-love-song-featuring-teto.md"
+  },
+  {
+    "id": 110,
+    "category": "music",
+    "creator": "@aug5thmusic",
+    "post": "https://x.com/aug5thmusic/status/2119879319426404780",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Bach-style 4-part chorale written in LilyPond",
+      "zh": "用 LilyPond 写巴赫风四声部众赞歌"
+    },
+    "summary": {
+      "en": "A 4-part chorale in the style of Bach, written in LilyPond at the Extra High effort level.",
+      "zh": "用 LilyPond 写巴赫风四声部众赞歌（Extra High 档）。"
+    },
+    "note": {
+      "en": "See also the Chinese repost at x.com/slashui/status/2119936681231237348.",
+      "zh": "另见中文转发 x.com/slashui/status/2119936681231237348。"
+    },
+    "media": "Video, 45 s",
+    "views": 67000,
+    "likes": 867,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Prompt: “In LilyPond (version 2.24), write a 4-part chorale in the style of Bach, 3/4 time, G minor. Use two staves -- soprano and alto on the top staff, tenor and bass on the bottom staff. Respond with only the code block.” (Extra High effort)",
+    "promptSource": "https://x.com/aug5thmusic/status/2119879973318414392",
+    "promptCharacters": 244,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/110-bach-style-4-part-chorale-written-in-lilypond.md"
+  },
+  {
+    "id": 111,
+    "category": "music",
+    "creator": "@GrayCan1392",
+    "post": "https://x.com/GrayCan1392/status/2120064453295350174",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Composition from a carefully written prompt during the trial",
+      "zh": "试用期里精心写提示词的作曲"
+    },
+    "summary": {
+      "en": "A piece of music the author made during the trial period with a carefully written prompt (in Japanese, 92 seconds).",
+      "zh": "试用期里认真写提示词做的作曲作品（日文，92 秒）。"
+    },
+    "note": {
+      "en": "The author says they put real care into the prompt but did not publish it.",
+      "zh": "作者说自己花心思写了提示词，但没公开。"
+    },
+    "media": "Video, 92 s",
+    "views": 145,
+    "likes": 3,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/GrayCan1392/status/2120064453295350174",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/111-composition-from-a-carefully-written-prompt-during-the-trial.md"
+  },
+  {
+    "id": 112,
+    "category": "music",
+    "creator": "@wquguru",
+    "post": "https://x.com/wquguru/status/2120177800288378938",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Painting and music generated together in Python",
+      "zh": "Python 同时写出画和音乐"
+    },
+    "summary": {
+      "en": "Python code that writes a painting (8,584 strokes) and its music at the same time.",
+      "zh": "用 Python 同时写出画（8,584 笔）和音乐。"
+    },
+    "note": null,
+    "media": "Video, 17 s",
+    "views": 3425,
+    "likes": 33,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/wquguru/status/2120177800288378938",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/112-painting-and-music-generated-together-in-python.md"
+  },
+  {
+    "id": 113,
+    "category": "music",
+    "creator": "@Masimo_Blue",
+    "post": "https://x.com/Masimo_Blue/status/2119943368612487285",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Acid techno track made with Fable",
+      "zh": "一首 acid techno 曲目"
+    },
+    "summary": {
+      "en": "An acid techno track.",
+      "zh": "acid techno 曲目。"
+    },
+    "note": null,
+    "media": "Video, 10 s + 3 images",
+    "views": 2407,
+    "likes": 60,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/Masimo_Blue/status/2119943368612487285",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/113-acid-techno-track-made-with-fable.md"
+  },
+  {
+    "id": 114,
+    "category": "music",
+    "creator": "@kevin_t_ngo",
+    "post": "https://x.com/kevin_t_ngo/status/2119880812254601655",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Trailer score for a small boat game from CC0 samples",
+      "zh": "用 CC0 采样编排的小船游戏预告配乐"
+    },
+    "summary": {
+      "en": "Music for the trailer of a small boat game, arranged from CC0 samples.",
+      "zh": "小船游戏的预告片配乐，用 CC0 采样编排。"
+    },
+    "note": null,
+    "media": "Text reply",
+    "views": 2776,
+    "likes": 14,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/kevin_t_ngo/status/2119880812254601655",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/114-trailer-score-for-a-small-boat-game-from-cc0-samples.md"
+  },
+  {
+    "id": 115,
+    "category": "music",
+    "creator": "@taka_claudecode",
+    "post": "https://x.com/taka_claudecode/status/2120376647350358368",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Music composed in code, with a write-up of the process",
+      "zh": "代码作曲，附创作过程记录"
+    },
+    "summary": {
+      "en": "Music composed in code; the process is written up at note.com/7bandel/n/nb3cd38b46060.",
+      "zh": "代码作曲，写作过程见 note.com/7bandel/n/nb3cd38b46060。"
+    },
+    "note": null,
+    "media": "Video, 38 s",
+    "views": 38,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/taka_claudecode/status/2120376647350358368",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/115-music-composed-in-code-with-a-write-up-of-the-process.md"
+  },
+  {
+    "id": 116,
+    "category": "music",
+    "creator": "@MojojojoHojo",
+    "post": "https://x.com/MojojojoHojo/status/2120201050477203672",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Big-studio explainer on what happens when you click a link",
+      "zh": "大制作风格解说片：点一个链接时发生了什么"
+    },
+    "summary": {
+      "en": "A \"big studio\"-style explainer on what happens when you click a link, with the animation, score and voiceover mix all done in code.",
+      "zh": "\"大制作\"风格的解说片：点击一个链接时发生了什么。动画、配乐和配音混音全部由代码完成。"
+    },
+    "note": {
+      "en": "The post only gives a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "Video, 30 s",
+    "views": 57,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "big studio",
+    "promptSource": "https://x.com/MojojojoHojo/status/2120201050477203672",
+    "promptCharacters": 10,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/116-big-studio-explainer-on-what-happens-when-you-click-a-link.md"
+  },
+  {
+    "id": 117,
+    "category": "music",
+    "creator": "@ronginooth",
+    "post": "https://x.com/ronginooth/status/2120101920748765535",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Outlandish real research paper recreated as a short video",
+      "zh": "把一篇离谱的真实论文用代码复现成短视频"
+    },
+    "summary": {
+      "en": "Pick a real and outlandish research paper, then recreate it in code as a short video with a soundtrack (prompt in Japanese).",
+      "zh": "挑一篇真实的离谱论文，用代码复现成带配乐的短视频（日文）。"
+    },
+    "note": null,
+    "media": "Video, 40 s",
+    "views": 102,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "実在するぶっ飛んだ論文を1本選んで、コードで再現してショート動画にして",
+    "promptSource": "https://x.com/ronginooth/status/2120101920748765535",
+    "promptCharacters": 35,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/117-outlandish-real-research-paper-recreated-as-a-short-video.md"
+  },
+  {
+    "id": 118,
+    "category": "music",
+    "creator": "@JuanDHernandezG",
+    "post": "https://x.com/JuanDHernandezG/status/2120336615126225363",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Web Audio turntable with visuals and sound",
+      "zh": "Web Audio 黑胶唱机"
+    },
+    "summary": {
+      "en": "A vinyl record player built on Web Audio, with both visuals and sound.",
+      "zh": "Web Audio 黑胶唱机（视觉加声音）。"
+    },
+    "note": null,
+    "media": "Video, 57 s",
+    "views": 30,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/JuanDHernandezG/status/2120336615126225363",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/118-web-audio-turntable-with-visuals-and-sound.md"
+  },
+  {
+    "id": 119,
+    "category": "music",
+    "creator": "@Maaaaaaadiii",
+    "post": "https://x.com/Maaaaaaadiii/status/2119885527243714946",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Left to choose its own tools, it built Web Audio bells",
+      "zh": "自选工具做出的 Web Audio 钟声"
+    },
+    "summary": {
+      "en": "Told to choose its own tools and build something, it made bell sounds with Web Audio.",
+      "zh": "让它自己选工具做东西，结果做了 Web Audio 钟声。"
+    },
+    "note": {
+      "en": "The post only gives a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "Video, 13 s",
+    "views": 169,
+    "likes": 2,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "choose its own tools and build something for me",
+    "promptSource": "https://x.com/Maaaaaaadiii/status/2119885527243714946",
+    "promptCharacters": 47,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/119-left-to-choose-its-own-tools-it-built-web-audio-bells.md"
+  },
+  {
+    "id": 120,
+    "category": "music",
+    "creator": "@higgsfield_ai",
+    "post": "https://x.com/higgsfield_ai/status/2119906332077957629",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Formant synthesizer from Higgsfield",
+      "zh": "Higgsfield 的共振峰合成器"
+    },
+    "summary": {
+      "en": "From Higgsfield: a formant synthesizer.",
+      "zh": "Higgsfield：共振峰合成器。"
+    },
+    "note": null,
+    "media": "Video, 14 s",
+    "views": 12000,
+    "likes": 84,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/higgsfield_ai/status/2119906332077957629",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/120-formant-synthesizer-from-higgsfield.md"
+  },
+  {
+    "id": 121,
+    "category": "music",
+    "creator": "@higgsfield_ai",
+    "post": "https://x.com/higgsfield_ai/status/2119907675265987047",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Getting Fable to sing through code",
+      "zh": "让 Fable 用代码唱歌"
+    },
+    "summary": {
+      "en": "From Higgsfield: getting Fable to \"sing\" using code.",
+      "zh": "Higgsfield：让 Fable 用代码\"唱歌\"。"
+    },
+    "note": null,
+    "media": "Video, 50 s",
+    "views": 13000,
+    "likes": 87,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/higgsfield_ai/status/2119907675265987047",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/121-getting-fable-to-sing-through-code.md"
+  },
+  {
+    "id": 122,
+    "category": "music",
+    "creator": "@AmirMushich",
+    "post": "https://x.com/AmirMushich/status/2119903338078564844",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Sound design in Blender and Reaper from iPhone recordings",
+      "zh": "Blender 加 Reaper 声音设计"
+    },
+    "summary": {
+      "en": "Blender plus Reaper: the author recorded source audio on an iPhone and handed it to Fable for the sound design.",
+      "zh": "Blender 加 Reaper：作者用 iPhone 录音素材，交给 Fable 做声音设计。"
+    },
+    "note": null,
+    "media": "Video, 10 s",
+    "views": 77000,
+    "likes": 230,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/AmirMushich/status/2119903338078564844",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/122-sound-design-in-blender-and-reaper-from-iphone-recordings.md"
+  },
+  {
+    "id": 123,
+    "category": "music",
+    "creator": "@FinanceYF5",
+    "post": "https://x.com/FinanceYF5/status/2120462098425676177",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Former film composer's ambient music workstation with a co-writing agent",
+      "zh": "前电影配乐师的氛围音乐工作站"
+    },
+    "summary": {
+      "en": "A former film composer used Fable 5.2 to build their own ambient music workstation, complete with an agent that composes alongside them. This is a Chinese retelling; the original video runs 1,335 seconds.",
+      "zh": "一位前电影配乐师用 Fable 5.2 做出自己的氛围音乐工作站，里面还有能一起作曲的 agent（中文转述，原视频 1,335 秒）。"
+    },
+    "note": null,
+    "media": "Video, 1335 s",
+    "views": 1361,
+    "likes": 5,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/FinanceYF5/status/2120462098425676177",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/123-former-film-composer-s-ambient-music-workstation-with-a-co.md"
+  },
+  {
+    "id": 124,
+    "category": "music",
+    "creator": "@WesRoth",
+    "post": "https://x.com/WesRoth/status/2119911161386934330",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Music video for a song with lyrics",
+      "zh": "带歌词的音乐 MV"
+    },
+    "summary": {
+      "en": "A music video for a song with lyrics.",
+      "zh": "带歌词的音乐 MV。"
+    },
+    "note": null,
+    "media": "Video, 37 s",
+    "views": 8415,
+    "likes": 196,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/WesRoth/status/2119911161386934330",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/music/124-music-video-for-a-song-with-lyrics.md"
+  },
+  {
+    "id": 125,
+    "category": "painting",
+    "creator": "@jkeatn",
+    "post": "https://x.com/jkeatn/status/2119874018706874601",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Photoreal oil painting in 700,000 strokes",
+      "zh": "70 万笔的写实油画"
+    },
+    "summary": {
+      "en": "A realistic oil painting built from 700,000 strokes, aiming to be \"as indistinguishable as possible from a photograph\".",
+      "zh": "70 万笔写实油画，目标是\"和照片分不出来\"。"
+    },
+    "note": {
+      "en": "The post only gives a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "1 image",
+    "views": 546000,
+    "likes": 2348,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "create a painting as indistinguishable as possible from a photograph",
+    "promptSource": "https://x.com/jkeatn/status/2119874018706874601",
+    "promptCharacters": 68,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/125-photoreal-oil-painting-in-700-000-strokes.md"
+  },
+  {
+    "id": 126,
+    "category": "painting",
+    "creator": "@jkeatn",
+    "post": "https://x.com/jkeatn/status/2119874007382299087",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Paintings made after first inventing a painter persona",
+      "zh": "先设定画家人格再作画"
+    },
+    "summary": {
+      "en": "Before painting, the model first gives itself a painter persona, and each painting runs to 1,000–2,000 lines of code.",
+      "zh": "先给自己设定画家人格再作画，每幅 1,000–2,000 行代码。"
+    },
+    "note": {
+      "en": "The post describes the method but does not include the prompt text.",
+      "zh": "帖子讲了方法，没给提示词原文。"
+    },
+    "media": "4 images",
+    "views": 436000,
+    "likes": 4159,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/jkeatn/status/2119874007382299087",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/126-paintings-made-after-first-inventing-a-painter-persona.md"
+  },
+  {
+    "id": 127,
+    "category": "painting",
+    "creator": "@jkeatn",
+    "post": "https://x.com/jkeatn/status/2119874011970797660",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Persona series: works by the painter Dermot Hale",
+      "zh": "人格系列：画家 Dermot Hale"
+    },
+    "summary": {
+      "en": "Part of the persona series: paintings made under the painter persona \"Dermot Hale\".",
+      "zh": "人格系列：画家 \"Dermot Hale\"。"
+    },
+    "note": null,
+    "media": "4 images",
+    "views": 52000,
+    "likes": 670,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/jkeatn/status/2119874011970797660",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/127-persona-series-works-by-the-painter-dermot-hale.md"
+  },
+  {
+    "id": 128,
+    "category": "painting",
+    "creator": "@jkeatn",
+    "post": "https://x.com/jkeatn/status/2119874016127410309",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Persona series: the Tidewright paintings",
+      "zh": "人格系列：Tidewright"
+    },
+    "summary": {
+      "en": "Another entry in the persona series, this one painted under the persona \"Tidewright\".",
+      "zh": "人格系列：\"Tidewright\"。"
+    },
+    "note": null,
+    "media": "3 images",
+    "views": 49000,
+    "likes": 456,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/jkeatn/status/2119874016127410309",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/128-persona-series-the-tidewright-paintings.md"
+  },
+  {
+    "id": 129,
+    "category": "painting",
+    "creator": "@hoppycat",
+    "post": "https://x.com/hoppycat/status/2119942859956933068",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Ocean wave oil painting in 710,989 strokes",
+      "zh": "710,989 笔的海浪油画"
+    },
+    "summary": {
+      "en": "An oil painting of ocean waves made with 710,989 strokes.",
+      "zh": "海浪油画，710,989 笔。"
+    },
+    "note": null,
+    "media": "1 image",
+    "views": 535,
+    "likes": 12,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/hoppycat/status/2119942859956933068",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/129-ocean-wave-oil-painting-in-710-989-strokes.md"
+  },
+  {
+    "id": 130,
+    "category": "painting",
+    "creator": "@hoppycat",
+    "post": "https://x.com/hoppycat/status/2119988324849029591",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Cheek to Cheek, a painting in 801,582 strokes",
+      "zh": "代码画作《Cheek to Cheek》"
+    },
+    "summary": {
+      "en": "\"Cheek to Cheek\", a painting made with 801,582 strokes.",
+      "zh": "\"Cheek to Cheek\"，801,582 笔。"
+    },
+    "note": null,
+    "media": "1 image",
+    "views": 376,
+    "likes": 11,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/hoppycat/status/2119988324849029591",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/130-cheek-to-cheek-a-painting-in-801-582-strokes.md"
+  },
+  {
+    "id": 131,
+    "category": "painting",
+    "creator": "@venturetwins",
+    "post": "https://x.com/venturetwins/status/2120331599283954137",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Masterpiece painted in an MS Paint clone with 11,066 strokes",
+      "zh": "MS Paint 克隆里的 11,066 笔"
+    },
+    "summary": {
+      "en": "Asked to \"make a masterpiece\", it painted 11,066 strokes inside an MS Paint clone.",
+      "zh": "在 MS Paint 克隆里画了 11,066 笔。"
+    },
+    "note": {
+      "en": "The post only gives a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "Video, 45 s",
+    "views": 17000,
+    "likes": 218,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "make a masterpiece",
+    "promptSource": "https://x.com/venturetwins/status/2120331599283954137",
+    "promptCharacters": 18,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/131-masterpiece-painted-in-an-ms-paint-clone-with-11-066-strokes.md"
+  },
+  {
+    "id": 132,
+    "category": "painting",
+    "creator": "@DeaglePc",
+    "post": "https://x.com/DeaglePc/status/2120410086791344184",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Realistic oil portrait of Elon Musk, painted stroke by stroke",
+      "zh": "一笔一笔画出的马斯克写实油画"
+    },
+    "summary": {
+      "en": "A realistic oil painting of Elon Musk, shown being built up one stroke at a time.",
+      "zh": "写实油画马斯克，带一笔一笔画上去的过程。"
+    },
+    "note": null,
+    "media": "Video, 32 s",
+    "views": 210,
+    "likes": 1,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "画一个马斯克，写实油画。然后有那种一笔一笔画上去的感觉。时长不限制",
+    "promptSource": "https://x.com/DeaglePc/status/2120410086791344184",
+    "promptCharacters": 33,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/132-realistic-oil-portrait-of-elon-musk-painted-stroke-by-stroke.md"
+  },
+  {
+    "id": 133,
+    "category": "painting",
+    "creator": "@ZryMiller",
+    "post": "https://x.com/ZryMiller/status/2120327199496835137",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Oil painting of what being the model feels like",
+      "zh": "用自制工具画出做自己的感觉"
+    },
+    "summary": {
+      "en": "It first built an oil painting tool that records a video of every stroke, then used it to paint \"what it feels like to be you\".",
+      "zh": "先自己做一个能录下每一笔的油画工具，再画\"做你自己是什么感觉\"。"
+    },
+    "note": null,
+    "media": "Video, 30 s",
+    "views": 900,
+    "likes": 17,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Prompt:\nI want you to create or find a tool you can use to generate an oil painting that allows you to take a video of you making each stroke. Then I want you to make a painting and video it of what it feels like to be you.",
+    "promptSource": "https://x.com/ZryMiller/status/2120327257193631939",
+    "promptCharacters": 223,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/133-oil-painting-of-what-being-the-model-feels-like.md"
+  },
+  {
+    "id": 134,
+    "category": "painting",
+    "creator": "@imjustnewatai",
+    "post": "https://x.com/imjustnewatai/status/2120263038293123464",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "The most complex original painting it could make",
+      "zh": "能画出的最复杂原创画作"
+    },
+    "summary": {
+      "en": "The brief asked for \"the most complex original painting you can\", invoking \"the greatness of Leonardo Davinci\".",
+      "zh": "\"能画出的最复杂原创画作\"。"
+    },
+    "note": {
+      "en": "The author confirmed in a reply that this is the full prompt.",
+      "zh": "作者在回复里确认这就是完整提示词。"
+    },
+    "media": "1 image",
+    "views": 4511,
+    "likes": 105,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "full",
+    "prompt": "Create the most complex original painting you can. Like on the greatness of Leonardo Davinci",
+    "promptSource": "https://x.com/imjustnewatai/status/2120266557708202102",
+    "promptCharacters": 92,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/134-the-most-complex-original-painting-it-could-make.md"
+  },
+  {
+    "id": 135,
+    "category": "painting",
+    "creator": "@HelaliBillel",
+    "post": "https://x.com/HelaliBillel/status/2119934896240271834",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Painting by a fictional painter, Odile, in 6,300 Python strokes",
+      "zh": "虚构画家 Odile 的 6,300 笔画作"
+    },
+    "summary": {
+      "en": "It wrote its own brush engine and invented a painter, Odile, a groundskeeper at a tennis club in 1978, then painted 6,300 strokes in Python.",
+      "zh": "自己写了笔刷引擎、虚构了画家 Odile（1978 年网球俱乐部的场地管理员），用 Python 画了 6,300 笔。"
+    },
+    "note": null,
+    "media": "Video, 56 s",
+    "views": 59,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/HelaliBillel/status/2119934896240271834",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/135-painting-by-a-fictional-painter-odile-in-6-300-python.md"
+  },
+  {
+    "id": 136,
+    "category": "painting",
+    "creator": "@anand_bongir",
+    "post": "https://x.com/anand_bongir/status/2120166327033925952",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Karma told through the life of a seed in 13 paintings",
+      "zh": "用一粒种子的一生讲业力"
+    },
+    "summary": {
+      "en": "The life of a single seed is used to tell a story about karma: 13 paintings, roughly 210,000 strokes, 74 seconds.",
+      "zh": "用一粒种子的一生讲\"业力\"：13 幅画，约 21 万笔，74 秒。"
+    },
+    "note": null,
+    "media": "Video, 73 s",
+    "views": 41,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/anand_bongir/status/2120166327033925952",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/136-karma-told-through-the-life-of-a-seed-in-13-paintings.md"
+  },
+  {
+    "id": 137,
+    "category": "painting",
+    "creator": "@MrTacticalX",
+    "post": "https://x.com/MrTacticalX/status/2120473175158849884",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Oil painting of a Swiss lake scene",
+      "zh": "用代码画的瑞士湖景油画"
+    },
+    "summary": {
+      "en": "An oil painting of a Swiss lake scene that took 1 hour 11 minutes and cost $22.62.",
+      "zh": "瑞士湖景油画，1 小时 11 分钟，$22.62。"
+    },
+    "note": null,
+    "media": "Video, 59 s",
+    "views": 1019,
+    "likes": 22,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/MrTacticalX/status/2120473175158849884",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/137-oil-painting-of-a-swiss-lake-scene.md"
+  },
+  {
+    "id": 138,
+    "category": "painting",
+    "creator": "@SweetRetry",
+    "post": "https://x.com/SweetRetry/status/2120355548935880705",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Fully autonomous painting engine in 2,101 lines of TypeScript",
+      "zh": "全自动做出的绘画引擎"
+    },
+    "summary": {
+      "en": "A painting engine built fully autonomously: 2,101 lines of TypeScript supporting oil, watercolor, pencil, charcoal and pastel, used to make the piece 《有人醒着》 (\"Someone Is Awake\"). It is open source at github.com/SweetRetry/atelier.",
+      "zh": "全自动做出的绘画引擎：2,101 行 TypeScript，支持油画、水彩、铅笔、炭笔、色粉，作品《有人醒着》；开源在 github.com/SweetRetry/atelier。"
+    },
+    "note": null,
+    "media": "Video, 12 s",
+    "views": 4,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/SweetRetry/status/2120355548935880705",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/138-fully-autonomous-painting-engine-in-2-101-lines-of.md"
+  },
+  {
+    "id": 139,
+    "category": "painting",
+    "creator": "@chetaslua",
+    "post": "https://x.com/chetaslua/status/2120464199096885739",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Mona Lisa recreated in pure JS code",
+      "zh": "纯 JS 代码画的蒙娜丽莎"
+    },
+    "summary": {
+      "en": "The Mona Lisa recreated in pure JS code (see also the 62,430-stroke version by @AnikaCodes, post 2120467261458911412).",
+      "zh": "纯 JS 代码画蒙娜丽莎（另见 @AnikaCodes 的 62,430 笔版本 2120467261458911412）。"
+    },
+    "note": null,
+    "media": "Video, 16 s",
+    "views": 10000,
+    "likes": 168,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/chetaslua/status/2120464199096885739",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/139-mona-lisa-recreated-in-pure-js-code.md"
+  },
+  {
+    "id": 140,
+    "category": "painting",
+    "creator": "@internetphysics",
+    "post": "https://x.com/internetphysics/status/2119903808935313778",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Sam Altman portrait on a canvas that mixes paint realistically",
+      "zh": "模拟油彩混色画布上的 Sam Altman"
+    },
+    "summary": {
+      "en": "A portrait of Sam Altman painted on a digital canvas that simulates how real oil paint mixes, working from a reference image and taking screenshots to check its progress as it went.",
+      "zh": "在模拟真实油彩混色的数字画布上，看着参考图边画边截图检查，画出 Sam Altman。"
+    },
+    "note": null,
+    "media": "Video, 60 s",
+    "views": 66000,
+    "likes": 390,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/internetphysics/status/2119903808935313778",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/140-sam-altman-portrait-on-a-canvas-that-mixes-paint.md"
+  },
+  {
+    "id": 141,
+    "category": "painting",
+    "creator": "@devsvn2",
+    "post": "https://x.com/devsvn2/status/2119875516216070289",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Code painting generated in a single pass",
+      "zh": "一次生成的代码绘画作品"
+    },
+    "summary": {
+      "en": "A code-driven painting generated in a single pass (35 seconds).",
+      "zh": "一次生成的代码绘画作品（35 秒）。"
+    },
+    "note": null,
+    "media": "Video, 35 s",
+    "views": 254000,
+    "likes": 635,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/devsvn2/status/2119875516216070289",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/141-code-painting-generated-in-a-single-pass.md"
+  },
+  {
+    "id": 142,
+    "category": "painting",
+    "creator": "@yuwen_lu_",
+    "post": "https://x.com/yuwen_lu_/status/2120317059011924058",
+    "posted": "2026-11-11",
+    "title": {
+      "en": "Artwork with every brushstroke made by Fable 5.2",
+      "zh": "每一笔都由 Fable 5.2 画出"
+    },
+    "summary": {
+      "en": "A piece in which every single brushstroke was made by Fable 5.2.",
+      "zh": "所有笔触都由 Fable 5.2 画出的作品。"
+    },
+    "note": null,
+    "media": "Video, 18 s + 1 image",
+    "views": 1264,
+    "likes": 10,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/yuwen_lu_/status/2120317059011924058",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/142-artwork-with-every-brushstroke-made-by-fable-5-2.md"
+  },
+  {
+    "id": 143,
+    "category": "painting",
+    "creator": "@iumarmirza",
+    "post": "https://x.com/iumarmirza/status/2120003159049572359",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Brushstroke animation of the model's own life story",
+      "zh": "用画笔动画讲自己的一生"
+    },
+    "summary": {
+      "en": "Asked to \"animate its own life, from day 0 to now\", the model told its story as a painted animation, with every frame drawn stroke by stroke in JS.",
+      "zh": "让它用画笔动画讲述自己的一生：每一帧都是 JS 一笔笔画出来的。"
+    },
+    "note": {
+      "en": "The post only gives a summary of the request.",
+      "zh": "帖子里只有需求概述。"
+    },
+    "media": "Video, 30 s",
+    "views": 278,
+    "likes": 5,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "request",
+    "prompt": "animate its own life, from day 0 to now",
+    "promptSource": "https://x.com/iumarmirza/status/2120003159049572359",
+    "promptCharacters": 39,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/143-brushstroke-animation-of-the-model-s-own-life-story.md"
+  },
+  {
+    "id": 144,
+    "category": "painting",
+    "creator": "@aimi_teno",
+    "post": "https://x.com/aimi_teno/status/2119881949540229421",
+    "posted": "2026-11-09",
+    "title": {
+      "en": "Pixel art in an Impressionist style",
+      "zh": "印象派风格的像素画"
+    },
+    "summary": {
+      "en": "Pixel art in an Impressionist style (60 seconds).",
+      "zh": "印象派风格的像素画（60 秒）。"
+    },
+    "note": null,
+    "media": "Video, 60 s",
+    "views": 63,
+    "likes": 0,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/aimi_teno/status/2119881949540229421",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/144-pixel-art-in-an-impressionist-style.md"
+  },
+  {
+    "id": 145,
+    "category": "painting",
+    "creator": "@sonuv_dev",
+    "post": "https://x.com/sonuv_dev/status/2120105654186861016",
+    "posted": "2026-11-10",
+    "title": {
+      "en": "Bora Bora photo repainted in 311,905 strokes",
+      "zh": "311,905 笔重画波拉波拉岛"
+    },
+    "summary": {
+      "en": "A photo of Bora Bora repainted with 311,905 strokes, ending up almost identical to the original. The post relays someone else's work rather than the poster's own.",
+      "zh": "照着一张波拉波拉岛照片，用 311,905 笔重画，几乎和照片一样（转述别人的作品）。"
+    },
+    "note": null,
+    "media": "Video, 22 s",
+    "views": 708,
+    "likes": 5,
+    "statsAsOf": "2026-11-11",
+    "promptStatus": "unpublished",
+    "prompt": null,
+    "promptSource": "https://x.com/sonuv_dev/status/2120105654186861016",
+    "promptCharacters": null,
+    "page": "https://github.com/apimodels/claude-fable-5-2-prompts/blob/main/cases/painting/145-bora-bora-photo-repainted-in-311-905-strokes.md"
+  }
+]

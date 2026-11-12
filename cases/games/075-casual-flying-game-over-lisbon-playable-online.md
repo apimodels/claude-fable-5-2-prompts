@@ -1,0 +1,29 @@
+# Casual flying game over Lisbon, playable online
+
+Claude Fable 5.2 case 75 of 145 · Games · [简体中文](#中文)
+
+By [@goncalo_canhoto](https://x.com/goncalo_canhoto) · [original post](https://x.com/goncalo_canhoto/status/2119932946346094690) · posted 2026-11-09
+
+- **What it is:** A casual flying game set over Lisbon, with a playable version online at cozylisbon.vercel.app.
+- **Media:** Video, 30 s. About 12K views and 158 likes as of 11 November 2026.
+- **Prompt:** not published. We do not reconstruct unpublished prompts.
+
+To make one like it: the [Three.js starter](../../starter/threejs) turns a page with renderAt(t) into an MP4 (tested), and our [Claude Fable 5.2 prompting guide](https://apimodels.app/claude-fable-5-2-prompting-guide) has six brief templates.
+
+## 中文
+
+**飞越里斯本的休闲飞行游戏**
+
+作者：[@goncalo_canhoto](https://x.com/goncalo_canhoto) · [原帖](https://x.com/goncalo_canhoto/status/2119932946346094690) · 发布于 2026-11-09
+
+- **作品：** 飞越里斯本的休闲飞行游戏，在线版 cozylisbon.vercel.app。
+- **媒体：** 视频 30 秒。截至 2026-11-11 约 1.2 万 浏览、158 赞。
+- **提示词：** 未公开。我们不替作者补写没公开的提示词。
+
+想做类似的：[Three.js 起步脚本](../../starter/threejs)把带 renderAt(t) 的网页逐帧转成 MP4（实测）；我们的 [Claude Fable 5.2 提示词指南](https://apimodels.app/zh/claude-fable-5-2-prompting-guide)里有 6 个现成模板。
+
+---
+
+← [Open-world game developed over 7 straight days](074-open-world-game-developed-over-7-straight-days.md) · [All 145 cases](../../README.md) · [Hand-painted oil-paint game with 1.5 million brush strokes](076-hand-painted-oil-paint-game-with-1-5-million-brush-strokes.md) →
+
+Collected by [apimodels.app](https://apimodels.app), the API platform that maintains this repository. The work belongs to its creator; our write-up is [CC BY 4.0](../../LICENSE). Call Claude Fable 5.2 through apimodels.app: [model page](https://apimodels.app/models/claude-fable-5-2).
