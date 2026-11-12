@@ -2,7 +2,7 @@
 
 English · [简体中文](README.zh-CN.md)
 
-145 things people made with Claude Fable 5.2 in its first week, from Blender films and Three.js scenes to games, fight animations, music and paintings, every one of them produced from code the model wrote. Each case is credited to its creator and linked to the original post on X, with the prompt word for word where the creator published it.
+145 things people made with Claude Fable 5.2 in its first week, from Blender films and Three.js scenes to games, fight animations, music and paintings, every one of them produced from code the model wrote. Each case is credited to its creator and linked to the original post on X, with the prompt where the creator published one: quoted in full, or excerpted with an outline when it runs to thousands of characters.
 
 Disclosure: this collection is curated by [apimodels.app](https://apimodels.app), the API platform I work on. apimodels.app is a multi-model API gateway: one API key and Anthropic- and OpenAI-compatible endpoints for Claude Fable 5.2 and more than 150 other image, video, audio and language models. The two starters in [starter/](starter) were written and run by us; everything under [cases/](cases) is other people's work, described by us.
 

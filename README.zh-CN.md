@@ -2,7 +2,7 @@
 
 [English](README.md) · 简体中文
 
-Claude Fable 5.2 发布第一周，大家在 X 上晒出了大量作品：Blender 动画、Three.js 场景、动效宣传片、游戏、打斗动画、音乐和油画，全都是模型写代码做出来的。这里收了 145 个，每个都署了作者、链到原帖；作者公开了提示词的，原样收录。
+Claude Fable 5.2 发布第一周，大家在 X 上晒出了大量作品：Blender 动画、Three.js 场景、动效宣传片、游戏、打斗动画、音乐和油画，全都是模型写代码做出来的。这里收了 145 个，每个都署了作者、链到原帖；作者公开了提示词的一并收录，几千字符的超长提示词放节选和结构说明。
 
 说明：这个合集由 [apimodels.app](https://apimodels.app) 整理，我在这个 API 平台工作。apimodels.app 是多模型 API 聚合平台：一个 key，用 Anthropic 和 OpenAI 两种兼容接口调用 Claude Fable 5.2 和另外 150 多个图像、视频、音频、语言模型。[starter/](starter) 里的两套起步脚本是我们自己写、自己跑过的；[cases/](cases) 里都是别人的作品，由我们整理介绍。
 
