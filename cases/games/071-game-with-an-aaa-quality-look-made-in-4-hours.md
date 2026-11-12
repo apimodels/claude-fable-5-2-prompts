@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 71 of 145 · Games · [简体中文](#中文)
 
-By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2119926932343324795) · posted 2026-11-09
+By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2119926932343324795) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** From Higgsfield: a game with an AAA-quality look, made in 4 hours.
 - **Media:** Video, 109 s. About 19K views and 179 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **4 小时做出的 3A 质感游戏**
 
-作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2119926932343324795) · 发布于 2026-11-09
+作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2119926932343324795) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** Higgsfield：4 小时做出的 3A 质感游戏。
 - **媒体：** 视频 109 秒。截至 2026-11-11 约 1.9 万 浏览、179 赞。

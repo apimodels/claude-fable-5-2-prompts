@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 66 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@Btheriot](https://x.com/Btheriot) · [original post](https://x.com/Btheriot/status/2120005843764810083) · posted 2026-11-10
+By [@Btheriot](https://x.com/Btheriot) · [original post](https://x.com/Btheriot/status/2120005843764810083) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** An animated explainer built from the AI 2027 document.
 - **Media:** Video, 642 s. About 51 views and 0 likes as of 11 November 2026.
@@ -15,7 +15,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **AI 2027 文档的动画解说**
 
-作者：[@Btheriot](https://x.com/Btheriot) · [原帖](https://x.com/Btheriot/status/2120005843764810083) · 发布于 2026-11-10
+作者：[@Btheriot](https://x.com/Btheriot) · [原帖](https://x.com/Btheriot/status/2120005843764810083) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 把 AI 2027 文档做成动画解说。
 - **媒体：** 视频 642 秒。截至 2026-11-11 约 51 浏览、0 赞。

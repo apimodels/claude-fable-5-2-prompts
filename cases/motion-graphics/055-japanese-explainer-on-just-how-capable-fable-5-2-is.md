@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 55 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@tankazunori0914](https://x.com/tankazunori0914) · [original post](https://x.com/tankazunori0914/status/2120003528366416032) · posted 2026-11-10
+By [@tankazunori0914](https://x.com/tankazunori0914) · [original post](https://x.com/tankazunori0914/status/2120003528366416032) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A high-quality explainer video, in Japanese, that sets out in earnest just how capable Fable 5.2 is.
 - **Media:** Video, 85 s. About 1,131 views and 8 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **日文解说视频：Fable 5.2 有多强**
 
-作者：[@tankazunori0914](https://x.com/tankazunori0914) · [原帖](https://x.com/tankazunori0914/status/2120003528366416032) · 发布于 2026-11-10
+作者：[@tankazunori0914](https://x.com/tankazunori0914) · [原帖](https://x.com/tankazunori0914/status/2120003528366416032) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 认真讲解 Fable 5.2 有多强的高质量解说视频（日文）。
 - **媒体：** 视频 85 秒。截至 2026-11-11 约 1,131 浏览、8 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 125 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@jkeatn](https://x.com/jkeatn) · [original post](https://x.com/jkeatn/status/2119874018706874601) · posted 2026-11-09
+By [@jkeatn](https://x.com/jkeatn) · [original post](https://x.com/jkeatn/status/2119874018706874601) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** A realistic oil painting built from 700,000 strokes, aiming to be "as indistinguishable as possible from a photograph".
 - **Media:** 1 image. About 546K views and 2,348 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **70 万笔的写实油画**
 
-作者：[@jkeatn](https://x.com/jkeatn) · [原帖](https://x.com/jkeatn/status/2119874018706874601) · 发布于 2026-11-09
+作者：[@jkeatn](https://x.com/jkeatn) · [原帖](https://x.com/jkeatn/status/2119874018706874601) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 70 万笔写实油画，目标是"和照片分不出来"。
 - **媒体：** 图片。截至 2026-11-11 约 54.6 万 浏览、2,348 赞。

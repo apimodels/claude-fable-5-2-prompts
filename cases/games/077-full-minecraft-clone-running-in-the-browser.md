@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 77 of 145 · Games · [简体中文](#中文)
 
-By [@intheworldofai](https://x.com/intheworldofai) · [original post](https://x.com/intheworldofai/status/2119975670650450426) · posted 2026-11-10
+By [@intheworldofai](https://x.com/intheworldofai) · [original post](https://x.com/intheworldofai/status/2119975670650450426) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A complete Minecraft clone that runs in the browser.
 - **Media:** Video, 183 s. About 6,829 views and 169 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **浏览器里的完整 Minecraft 克隆**
 
-作者：[@intheworldofai](https://x.com/intheworldofai) · [原帖](https://x.com/intheworldofai/status/2119975670650450426) · 发布于 2026-11-10
+作者：[@intheworldofai](https://x.com/intheworldofai) · [原帖](https://x.com/intheworldofai/status/2119975670650450426) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 浏览器里的完整 Minecraft 克隆。
 - **媒体：** 视频 183 秒。截至 2026-11-11 约 6,829 浏览、169 赞。

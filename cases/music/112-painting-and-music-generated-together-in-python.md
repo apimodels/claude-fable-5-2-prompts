@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 112 of 145 · Music in Code · [简体中文](#中文)
 
-By [@wquguru](https://x.com/wquguru) · [original post](https://x.com/wquguru/status/2120177800288378938) · posted 2026-11-10
+By [@wquguru](https://x.com/wquguru) · [original post](https://x.com/wquguru/status/2120177800288378938) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** Python code that writes a painting (8,584 strokes) and its music at the same time.
 - **Media:** Video, 17 s. About 3,425 views and 33 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Python 同时写出画和音乐**
 
-作者：[@wquguru](https://x.com/wquguru) · [原帖](https://x.com/wquguru/status/2120177800288378938) · 发布于 2026-11-10
+作者：[@wquguru](https://x.com/wquguru) · [原帖](https://x.com/wquguru/status/2120177800288378938) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 用 Python 同时写出画（8,584 笔）和音乐。
 - **媒体：** 视频 17 秒。截至 2026-11-11 约 3,425 浏览、33 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 48 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@himanshutwtxs](https://x.com/himanshutwtxs) · [original post](https://x.com/himanshutwtxs/status/2120017106804900304) · posted 2026-11-10
+By [@himanshutwtxs](https://x.com/himanshutwtxs) · [original post](https://x.com/himanshutwtxs/status/2120017106804900304) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A 15-second motion graphics showreel, made as if for a motion designer's résumé, with the instruction to "go all out".
 - **Media:** Video, 15 s. About 1,215 views and 29 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **15 秒动效 showreel**
 
-作者：[@himanshutwtxs](https://x.com/himanshutwtxs) · [原帖](https://x.com/himanshutwtxs/status/2120017106804900304) · 发布于 2026-11-10
+作者：[@himanshutwtxs](https://x.com/himanshutwtxs) · [原帖](https://x.com/himanshutwtxs/status/2120017106804900304) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 15 秒动效 showreel。
 - **媒体：** 视频 15 秒。截至 2026-11-11 约 1,215 浏览、29 赞。

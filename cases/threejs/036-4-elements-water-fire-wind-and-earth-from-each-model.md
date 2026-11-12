@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 36 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@orcdev](https://x.com/orcdev) · [original post](https://x.com/orcdev/status/2120248774861689199) · posted 2026-11-10
+By [@orcdev](https://x.com/orcdev) · [original post](https://x.com/orcdev/status/2120248774861689199) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** "4 Elements" gives each model the same set of prompts to build water, fire, wind and earth, and the results can be compared live at [4elements.dev](https://4elements.dev).
 - **Media:** Video, 29 s. About 3,592 views and 83 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **4 Elements：多模型同题做水火风土**
 
-作者：[@orcdev](https://x.com/orcdev) · [原帖](https://x.com/orcdev/status/2120248774861689199) · 发布于 2026-11-10
+作者：[@orcdev](https://x.com/orcdev) · [原帖](https://x.com/orcdev/status/2120248774861689199) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** "4 Elements"：同一套提示词让各模型做水、火、风、土四元素，在线对比 [4elements.dev](https://4elements.dev)。
 - **媒体：** 视频 29 秒。截至 2026-11-11 约 3,592 浏览、83 赞。

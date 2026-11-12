@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 107 of 145 · Music in Code · [简体中文](#中文)
 
-By [@imjustnewatai](https://x.com/imjustnewatai) · [original post](https://x.com/imjustnewatai/status/2119902327423258787) · posted 2026-11-09
+By [@imjustnewatai](https://x.com/imjustnewatai) · [original post](https://x.com/imjustnewatai/status/2119902327423258787) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** An original symphony with a video made to go with it, 248 seconds long.
 - **Media:** Video, 248 s. About 142K views and 1,050 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **原创交响乐加配套视频**
 
-作者：[@imjustnewatai](https://x.com/imjustnewatai) · [原帖](https://x.com/imjustnewatai/status/2119902327423258787) · 发布于 2026-11-09
+作者：[@imjustnewatai](https://x.com/imjustnewatai) · [原帖](https://x.com/imjustnewatai/status/2119902327423258787) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 原创交响乐加配套视频，248 秒。
 - **媒体：** 视频 248 秒。截至 2026-11-11 约 14.2 万 浏览、1,050 赞。

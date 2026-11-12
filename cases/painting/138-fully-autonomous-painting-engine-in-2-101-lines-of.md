@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 138 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@SweetRetry](https://x.com/SweetRetry) · [original post](https://x.com/SweetRetry/status/2120355548935880705) · posted 2026-11-11
+By [@SweetRetry](https://x.com/SweetRetry) · [original post](https://x.com/SweetRetry/status/2120355548935880705) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** A painting engine built fully autonomously: 2,101 lines of TypeScript supporting oil, watercolor, pencil, charcoal and pastel, used to make the piece 《有人醒着》 ("Someone Is Awake"). It is open source at [github.com/SweetRetry/atelier](https://github.com/SweetRetry/atelier).
 - **Media:** Video, 12 s. About 4 views and 0 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **全自动做出的绘画引擎**
 
-作者：[@SweetRetry](https://x.com/SweetRetry) · [原帖](https://x.com/SweetRetry/status/2120355548935880705) · 发布于 2026-11-11
+作者：[@SweetRetry](https://x.com/SweetRetry) · [原帖](https://x.com/SweetRetry/status/2120355548935880705) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 全自动做出的绘画引擎：2,101 行 TypeScript，支持油画、水彩、铅笔、炭笔、色粉，作品《有人醒着》；开源在 [github.com/SweetRetry/atelier](https://github.com/SweetRetry/atelier)。
 - **媒体：** 视频 12 秒。截至 2026-11-11 约 4 浏览、0 赞。

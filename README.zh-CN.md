@@ -4,7 +4,7 @@
 
 Claude Fable 5.2 发布第一周，大家在 X 上晒出了大量作品：Blender 动画、Three.js 场景、动效宣传片、游戏、打斗动画、音乐和油画，全都是模型写代码做出来的。这里收了 145 个，每个都署了作者、链到原帖；作者公开了提示词的一并收录，几千字符的超长提示词放节选和结构说明。
 
-说明：这个合集由 [apimodels.app](https://apimodels.app) 整理，我在这个 API 平台工作。apimodels.app 是多模型 API 聚合平台：一个 key，用 Anthropic 和 OpenAI 两种兼容接口调用 Claude Fable 5.2 和另外 150 多个图像、视频、音频、语言模型。[starter/](starter) 里的两套起步脚本是我们自己写、自己跑过的；[cases/](cases) 里都是别人的作品，由我们整理介绍。
+说明：这个合集由 [apimodels.app](https://apimodels.app) 整理，我在这个 API 平台工作。apimodels.app 是多模型 API 聚合平台：一个 key，用 Anthropic 和 OpenAI 两种兼容接口调用 Claude Fable 5.2 和另外 150 多个图像、视频、音频、语言模型。[starter/](starter) 里的两套起步脚本是我们自己写、自己跑过的；[cases/](cases) 里都是别人的作品，由我们整理介绍。能直接播放视频的版本在 [apimodels.app 的 Claude Fable 5.2 案例库](https://apimodels.app/zh/claude-fable-5-2-prompts)。
 
 ## 一段话说清楚
 
@@ -54,6 +54,8 @@ Claude Fable 5.2（模型 ID `claude-fable-5-2`，Anthropic 于 2026 年 11 月 
 
 ## Blender 3D 动画
 
+带视频浏览这一类：[https://apimodels.app/zh/claude-fable-5-2-prompts/blender](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
+
 | # | 案例 | 作者 | 提示词 | 浏览 |
 | --- | --- | --- | --- | --- |
 | 1 | [写实 3D 鹈鹕骑自行车短片](cases/blender/001-photoreal-3d-pelican-riding-a-bicycle-driven-from-claude.md#中文) | [@techfren](https://x.com/techfren) | 完整原文 | 16.3 万 |
@@ -79,6 +81,8 @@ Claude Fable 5.2（模型 ID `claude-fable-5-2`，Anthropic 于 2026 年 11 月 
 | 21 | [1,110 行代码的 Blender 短片](cases/blender/021-blender-short-from-1-110-lines-of-python-in-16-4-minutes.md#中文) | [@FreshOutofBeta](https://x.com/FreshOutofBeta) | 未公开 | 63 |
 
 ## Three.js 场景与动画
+
+带视频浏览这一类：[https://apimodels.app/zh/claude-fable-5-2-prompts/threejs](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 | # | 案例 | 作者 | 提示词 | 浏览 |
 | --- | --- | --- | --- | --- |
@@ -109,6 +113,8 @@ Claude Fable 5.2（模型 ID `claude-fable-5-2`，Anthropic 于 2026 年 11 月 
 
 ## 代码动效与宣传片
 
+带视频浏览这一类：[https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
+
 | # | 案例 | 作者 | 提示词 | 浏览 |
 | --- | --- | --- | --- | --- |
 | 46 | [ChatGPT 四周年致敬动效片](cases/motion-graphics/046-motion-graphics-tribute-to-chatgpt-s-fourth-anniversary.md#中文) | [@Khazix0918](https://x.com/Khazix0918) | 完整原文 | 9.1 万 |
@@ -135,6 +141,8 @@ Claude Fable 5.2（模型 ID `claude-fable-5-2`，Anthropic 于 2026 年 11 月 
 
 ## 模型自己做的游戏
 
+带视频浏览这一类：[https://apimodels.app/zh/claude-fable-5-2-prompts/games](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
+
 | # | 案例 | 作者 | 提示词 | 浏览 |
 | --- | --- | --- | --- | --- |
 | 67 | [8 小时做出的 3A 写实风 FPS 关卡](cases/games/067-realistic-aaa-style-fps-level-built-over-8-hours.md#中文) | [@felixrieseberg](https://x.com/felixrieseberg) | 完整原文 | 390.3 万 |
@@ -158,6 +166,8 @@ Claude Fable 5.2（模型 ID `claude-fable-5-2`，Anthropic 于 2026 年 11 月 
 | 85 | [可玩的鹈鹕骑自行车小游戏](cases/games/085-playable-pelican-on-a-bicycle-mini-game.md#中文) | [@siennatries](https://x.com/siennatries) | 未公开 | 71 |
 
 ## 角色动作与打斗
+
+带视频浏览这一类：[https://apimodels.app/zh/claude-fable-5-2-prompts/character-action](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 | # | 案例 | 作者 | 提示词 | 浏览 |
 | --- | --- | --- | --- | --- |
@@ -185,6 +195,8 @@ Claude Fable 5.2（模型 ID `claude-fable-5-2`，Anthropic 于 2026 年 11 月 
 
 ## 代码作曲
 
+带视频浏览这一类：[https://apimodels.app/zh/claude-fable-5-2-prompts/music](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
+
 | # | 案例 | 作者 | 提示词 | 浏览 |
 | --- | --- | --- | --- | --- |
 | 107 | [原创交响乐加配套视频](cases/music/107-original-symphony-with-a-matching-video.md#中文) | [@imjustnewatai](https://x.com/imjustnewatai) | 只有需求原话 | 14.2 万 |
@@ -207,6 +219,8 @@ Claude Fable 5.2（模型 ID `claude-fable-5-2`，Anthropic 于 2026 年 11 月 
 | 124 | [带歌词的音乐 MV](cases/music/124-music-video-for-a-song-with-lyrics.md#中文) | [@WesRoth](https://x.com/WesRoth) | 未公开 | 8,415 |
 
 ## 代码绘画
+
+带视频浏览这一类：[https://apimodels.app/zh/claude-fable-5-2-prompts/painting](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 | # | 案例 | 作者 | 提示词 | 浏览 |
 | --- | --- | --- | --- | --- |

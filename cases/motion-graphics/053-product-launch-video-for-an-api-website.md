@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 53 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@PeetuKupiainen](https://x.com/PeetuKupiainen) · [original post](https://x.com/PeetuKupiainen/status/2119919801674162539) · posted 2026-11-09
+By [@PeetuKupiainen](https://x.com/PeetuKupiainen) · [original post](https://x.com/PeetuKupiainen/status/2119919801674162539) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A product launch video for an API website, [companyregistryapi.com](https://companyregistryapi.com).
 - **Media:** Video, 20 s. About 242 views and 7 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **API 网站的产品发布视频**
 
-作者：[@PeetuKupiainen](https://x.com/PeetuKupiainen) · [原帖](https://x.com/PeetuKupiainen/status/2119919801674162539) · 发布于 2026-11-09
+作者：[@PeetuKupiainen](https://x.com/PeetuKupiainen) · [原帖](https://x.com/PeetuKupiainen/status/2119919801674162539) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 给一个 API 网站做产品发布视频。
 - **媒体：** 视频 20 秒。截至 2026-11-11 约 242 浏览、7 赞。

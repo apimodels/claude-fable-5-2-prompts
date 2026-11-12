@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 85 of 145 · Games · [简体中文](#中文)
 
-By [@siennatries](https://x.com/siennatries) · [original post](https://x.com/siennatries/status/2119925951761101261) · posted 2026-11-09
+By [@siennatries](https://x.com/siennatries) · [original post](https://x.com/siennatries/status/2119925951761101261) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** The "pelican riding a bicycle" idea turned into a small playable game, where you can switch between day and night, change the speed and ring the bell.
 - **Media:** Video, 29 s. About 71 views and 0 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **可玩的鹈鹕骑自行车小游戏**
 
-作者：[@siennatries](https://x.com/siennatries) · [原帖](https://x.com/siennatries/status/2119925951761101261) · 发布于 2026-11-09
+作者：[@siennatries](https://x.com/siennatries) · [原帖](https://x.com/siennatries/status/2119925951761101261) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 把"鹈鹕骑自行车"做成可玩的小游戏，可以切换日夜、调速度、按车铃。
 - **媒体：** 视频 29 秒。截至 2026-11-11 约 71 浏览、0 赞。

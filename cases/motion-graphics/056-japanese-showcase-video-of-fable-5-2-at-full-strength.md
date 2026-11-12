@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 56 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@marcy_sns](https://x.com/marcy_sns) · [original post](https://x.com/marcy_sns/status/2120449442864304288) · posted 2026-11-11
+By [@marcy_sns](https://x.com/marcy_sns) · [original post](https://x.com/marcy_sns/status/2120449442864304288) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A showcase video, in Japanese, meant to show Fable 5.2 at its very strongest and make the most of what the model can do.
 - **Media:** Video, 82 s. About 983 views and 9 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **日文 Fable 5.2 最强实力宣传片**
 
-作者：[@marcy_sns](https://x.com/marcy_sns) · [原帖](https://x.com/marcy_sns/status/2120449442864304288) · 发布于 2026-11-11
+作者：[@marcy_sns](https://x.com/marcy_sns) · [原帖](https://x.com/marcy_sns/status/2120449442864304288) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 展示"最强实力"的 Fable 5.2 能力宣传片（日文）。
 - **媒体：** 视频 82 秒。截至 2026-11-11 约 983 浏览、9 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 63 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@The_Alex](https://x.com/The_Alex) · [original post](https://x.com/The_Alex/status/2119867570669203554) · posted 2026-11-09
+By [@The_Alex](https://x.com/The_Alex) · [original post](https://x.com/The_Alex/status/2119867570669203554) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A vertical 9:16 edit, animations and mographs included, completed in a single pass in about 20 minutes.
 - **Media:** Video, 41 s. About 3,945 views and 39 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **一次完成的 9:16 竖版剪辑**
 
-作者：[@The_Alex](https://x.com/The_Alex) · [原帖](https://x.com/The_Alex/status/2119867570669203554) · 发布于 2026-11-09
+作者：[@The_Alex](https://x.com/The_Alex) · [原帖](https://x.com/The_Alex/status/2119867570669203554) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 一次完成的 9:16 竖版剪辑，含动画和 mograph，约 20 分钟。
 - **媒体：** 视频 41 秒。截至 2026-11-11 约 3,945 浏览、39 赞。

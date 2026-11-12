@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 39 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@KernelChai](https://x.com/KernelChai) · [original post](https://x.com/KernelChai/status/2120118687424504255) · posted 2026-11-10
+By [@KernelChai](https://x.com/KernelChai) · [original post](https://x.com/KernelChai/status/2120118687424504255) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** Manhattan at night, given to both Fable and Opus: Fable wrote 1,430 lines and drew fireworks over the East River, while Opus wrote 1,700 lines and drew snow falling on the Brooklyn Bridge.
 - **Media:** Video, 71 s. About 629 views and 5 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **夜晚的曼哈顿：Fable 与 Opus 同题对比**
 
-作者：[@KernelChai](https://x.com/KernelChai) · [原帖](https://x.com/KernelChai/status/2120118687424504255) · 发布于 2026-11-10
+作者：[@KernelChai](https://x.com/KernelChai) · [原帖](https://x.com/KernelChai/status/2120118687424504255) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** 夜晚的曼哈顿，和 Opus 同题对比：Fable 1,430 行，画东河烟花；Opus 1,700 行，画布鲁克林大桥飘雪。
 - **媒体：** 视频 71 秒。截至 2026-11-11 约 629 浏览、5 赞。

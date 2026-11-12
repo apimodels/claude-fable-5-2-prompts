@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 68 of 145 · Games · [简体中文](#中文)
 
-By [@JaydenDavisNC](https://x.com/JaydenDavisNC) · [original post](https://x.com/JaydenDavisNC/status/2120306434575392793) · posted 2026-11-11
+By [@JaydenDavisNC](https://x.com/JaydenDavisNC) · [original post](https://x.com/JaydenDavisNC/status/2120306434575392793) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** An FPS written in three.js, shown in a 225-second demo.
 - **Media:** Video, 225 s. About 43K views and 427 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **three.js 写的 FPS 游戏**
 
-作者：[@JaydenDavisNC](https://x.com/JaydenDavisNC) · [原帖](https://x.com/JaydenDavisNC/status/2120306434575392793) · 发布于 2026-11-11
+作者：[@JaydenDavisNC](https://x.com/JaydenDavisNC) · [原帖](https://x.com/JaydenDavisNC/status/2120306434575392793) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** three.js 写的 FPS，演示 225 秒。
 - **媒体：** 视频 225 秒。截至 2026-11-11 约 4.3 万 浏览、427 赞。

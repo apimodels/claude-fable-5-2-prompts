@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 133 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@ZryMiller](https://x.com/ZryMiller) · [original post](https://x.com/ZryMiller/status/2120327199496835137) · posted 2026-11-11
+By [@ZryMiller](https://x.com/ZryMiller) · [original post](https://x.com/ZryMiller/status/2120327199496835137) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** It first built an oil painting tool that records a video of every stroke, then used it to paint "what it feels like to be you".
 - **Media:** Video, 30 s. About 900 views and 17 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **用自制工具画出做自己的感觉**
 
-作者：[@ZryMiller](https://x.com/ZryMiller) · [原帖](https://x.com/ZryMiller/status/2120327199496835137) · 发布于 2026-11-11
+作者：[@ZryMiller](https://x.com/ZryMiller) · [原帖](https://x.com/ZryMiller/status/2120327199496835137) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 先自己做一个能录下每一笔的油画工具，再画"做你自己是什么感觉"。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 900 浏览、17 赞。

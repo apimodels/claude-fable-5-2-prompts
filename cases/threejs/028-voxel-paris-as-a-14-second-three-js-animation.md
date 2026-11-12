@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 28 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@RezAIT00](https://x.com/RezAIT00) · [original post](https://x.com/RezAIT00/status/2119894257519767656) · posted 2026-11-09
+By [@RezAIT00](https://x.com/RezAIT00) · [original post](https://x.com/RezAIT00/status/2119894257519767656) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** Paris in voxel style, animated for 14 seconds on a single three.js page.
 - **Media:** Video, 14 s. About 4,436 views and 41 likes as of 11 November 2026.
@@ -30,7 +30,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **体素风巴黎 14 秒 three.js 动画**
 
-作者：[@RezAIT00](https://x.com/RezAIT00) · [原帖](https://x.com/RezAIT00/status/2119894257519767656) · 发布于 2026-11-09
+作者：[@RezAIT00](https://x.com/RezAIT00) · [原帖](https://x.com/RezAIT00/status/2119894257519767656) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** 体素风巴黎，14 秒 three.js 单页动画。
 - **媒体：** 视频 14 秒。截至 2026-11-11 约 4,436 浏览、41 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 31 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@miki_code](https://x.com/miki_code) · [original post](https://x.com/miki_code/status/2120219010860019977) · posted 2026-11-10
+By [@miki_code](https://x.com/miki_code) · [original post](https://x.com/miki_code/status/2120219010860019977) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** A three.js visualization of how an ASML EUV lithography machine works.
 - **Media:** Video, 101 s. About 182 views and 3 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **ASML EUV 光刻机原理可视化**
 
-作者：[@miki_code](https://x.com/miki_code) · [原帖](https://x.com/miki_code/status/2120219010860019977) · 发布于 2026-11-10
+作者：[@miki_code](https://x.com/miki_code) · [原帖](https://x.com/miki_code/status/2120219010860019977) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** ASML EUV 光刻机工作原理的 three.js 可视化。
 - **媒体：** 视频 101 秒。截至 2026-11-11 约 182 浏览、3 赞。

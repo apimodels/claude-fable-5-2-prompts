@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 22 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2120124319187734646) · posted 2026-11-10
+By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2120124319187734646) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** Part 20 of camperaigg's series, titled "SUNDER": a short animated film of a mech archer firing an arrow straight through the ocean. It took about 2,000 lines of three.js, 83 minutes and $34.96.
 - **Media:** Video, 30 s. About 1,111 views and 26 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **three.js 机甲弓箭手一箭射穿大海**
 
-作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2120124319187734646) · 发布于 2026-11-10
+作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2120124319187734646) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** camperaigg Part 20 "SUNDER"：机甲弓箭手一箭射穿大海的动画短片，three.js 约 2,000 行代码，83 分钟，花费 $34.96。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 1,111 浏览、26 赞。

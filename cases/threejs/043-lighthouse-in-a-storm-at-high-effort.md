@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 43 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@rohit3a](https://x.com/rohit3a) · [original post](https://x.com/rohit3a/status/2119899684999487954) · posted 2026-11-09
+By [@rohit3a](https://x.com/rohit3a) · [original post](https://x.com/rohit3a/status/2119899684999487954) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** "Lighthouse in a Storm", made at the High effort level.
 - **Media:** Video, 30 s. About 1,857 views and 52 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **High 档的风暴灯塔场景**
 
-作者：[@rohit3a](https://x.com/rohit3a) · [原帖](https://x.com/rohit3a/status/2119899684999487954) · 发布于 2026-11-09
+作者：[@rohit3a](https://x.com/rohit3a) · [原帖](https://x.com/rohit3a/status/2119899684999487954) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** "Lighthouse in a Storm"，High 档。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 1,857 浏览、52 赞。

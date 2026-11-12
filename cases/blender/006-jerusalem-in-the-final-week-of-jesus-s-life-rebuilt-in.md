@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 6 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@kplikethebird](https://x.com/kplikethebird) · [original post](https://x.com/kplikethebird/status/2119900775727902732) · posted 2026-11-09
+By [@kplikethebird](https://x.com/kplikethebird) · [original post](https://x.com/kplikethebird/status/2119900775727902732) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A 3D fly-through video of Jerusalem as it stood during the last week of Jesus's life, rebuilt in Blender.
 - **Media:** Video, 30 s. About 10K views and 40 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **Blender 重建耶稣最后一周的耶路撒冷**
 
-作者：[@kplikethebird](https://x.com/kplikethebird) · [原帖](https://x.com/kplikethebird/status/2119900775727902732) · 发布于 2026-11-09
+作者：[@kplikethebird](https://x.com/kplikethebird) · [原帖](https://x.com/kplikethebird/status/2119900775727902732) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 用 Blender 重建耶稣最后一周时的耶路撒冷，3D 漫游视频。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 1 万 浏览、40 赞。

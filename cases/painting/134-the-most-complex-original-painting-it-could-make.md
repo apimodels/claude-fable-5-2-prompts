@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 134 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@imjustnewatai](https://x.com/imjustnewatai) · [original post](https://x.com/imjustnewatai/status/2120263038293123464) · posted 2026-11-10
+By [@imjustnewatai](https://x.com/imjustnewatai) · [original post](https://x.com/imjustnewatai/status/2120263038293123464) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** The brief asked for "the most complex original painting you can", invoking "the greatness of Leonardo Davinci".
 - **Media:** 1 image. About 4,511 views and 105 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **能画出的最复杂原创画作**
 
-作者：[@imjustnewatai](https://x.com/imjustnewatai) · [原帖](https://x.com/imjustnewatai/status/2120263038293123464) · 发布于 2026-11-10
+作者：[@imjustnewatai](https://x.com/imjustnewatai) · [原帖](https://x.com/imjustnewatai/status/2120263038293123464) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** "能画出的最复杂原创画作"。
 - **媒体：** 图片。截至 2026-11-11 约 4,511 浏览、105 赞。

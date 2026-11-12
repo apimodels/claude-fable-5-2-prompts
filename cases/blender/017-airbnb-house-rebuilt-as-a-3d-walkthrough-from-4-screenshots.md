@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 17 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@WalidBou07](https://x.com/WalidBou07) · [original post](https://x.com/WalidBou07/status/2120098817949212898) · posted 2026-11-10
+By [@WalidBou07](https://x.com/WalidBou07) · [original post](https://x.com/WalidBou07/status/2120098817949212898) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** The model was given 4 screenshots of an Airbnb listing and asked to recreate the house as a 3D walkthrough video.
 - **Media:** Video, 20 s. About 131 views and 2 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **4 张 Airbnb 截图重建的 3D 房屋漫游**
 
-作者：[@WalidBou07](https://x.com/WalidBou07) · [原帖](https://x.com/WalidBou07/status/2120098817949212898) · 发布于 2026-11-10
+作者：[@WalidBou07](https://x.com/WalidBou07) · [原帖](https://x.com/WalidBou07/status/2120098817949212898) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 给 4 张 Airbnb 房源截图，让它把房子重建成 3D 漫游视频。
 - **媒体：** 视频 20 秒。截至 2026-11-11 约 131 浏览、2 赞。

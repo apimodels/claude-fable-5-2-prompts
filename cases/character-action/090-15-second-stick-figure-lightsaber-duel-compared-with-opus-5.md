@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 90 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@jiangjiangling](https://x.com/jiangjiangling) · [original post](https://x.com/jiangjiangling/status/2120163479789437298) · posted 2026-11-10
+By [@jiangjiangling](https://x.com/jiangjiangling) · [original post](https://x.com/jiangjiangling/status/2120163479789437298) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A 15-second stick-figure lightsaber duel, set side by side with Opus 5.5. Fable's estimated cost came to 2.14 times that of Opus.
 - **Media:** Video, 15 s. About 383 views and 2 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **15 秒火柴人光剑对决，对比 Opus 5.5**
 
-作者：[@jiangjiangling](https://x.com/jiangjiangling) · [原帖](https://x.com/jiangjiangling/status/2120163479789437298) · 发布于 2026-11-10
+作者：[@jiangjiangling](https://x.com/jiangjiangling) · [原帖](https://x.com/jiangjiangling/status/2120163479789437298) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 15 秒火柴人光剑对决，和 Opus 5.5 对比（Fable 估算成本是 Opus 的 2.14 倍）。
 - **媒体：** 视频 15 秒。截至 2026-11-11 约 383 浏览、2 赞。

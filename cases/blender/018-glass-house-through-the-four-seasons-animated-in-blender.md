@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 18 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@lynzhong_growth](https://x.com/lynzhong_growth) · [original post](https://x.com/lynzhong_growth/status/2120328284294767093) · posted 2026-11-11
+By [@lynzhong_growth](https://x.com/lynzhong_growth) · [original post](https://x.com/lynzhong_growth/status/2120328284294767093) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A Blender animation of a glass house as the four seasons turn around it, made together with Clico.
 - **Media:** Video, 25 s. About 5,214 views and 30 likes as of 11 November 2026.
@@ -15,7 +15,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **四季轮换的玻璃屋 Blender 动画**
 
-作者：[@lynzhong_growth](https://x.com/lynzhong_growth) · [原帖](https://x.com/lynzhong_growth/status/2120328284294767093) · 发布于 2026-11-11
+作者：[@lynzhong_growth](https://x.com/lynzhong_growth) · [原帖](https://x.com/lynzhong_growth/status/2120328284294767093) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 四季轮换的玻璃屋 Blender 动画（结合 Clico）。
 - **媒体：** 视频 25 秒。截至 2026-11-11 约 5,214 浏览、30 赞。

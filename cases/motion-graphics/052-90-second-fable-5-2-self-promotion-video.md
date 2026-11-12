@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 52 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@yasu_919](https://x.com/yasu_919) · [original post](https://x.com/yasu_919/status/2120046796013764908) · posted 2026-11-10
+By [@yasu_919](https://x.com/yasu_919) · [original post](https://x.com/yasu_919/status/2120046796013764908) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A 90-second self-promotion video for Fable 5.2 that cuts between human subjects, motion graphics and cinematic shots.
 - **Media:** Video, 90 s. About 189 views and 1 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **90 秒 Fable 5.2 自我宣传片**
 
-作者：[@yasu_919](https://x.com/yasu_919) · [原帖](https://x.com/yasu_919/status/2120046796013764908) · 发布于 2026-11-10
+作者：[@yasu_919](https://x.com/yasu_919) · [原帖](https://x.com/yasu_919/status/2120046796013764908) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 90 秒 Fable 5.2 自我宣传片，人物、动效和电影感镜头混剪。
 - **媒体：** 视频 90 秒。截至 2026-11-11 约 189 浏览、1 赞。

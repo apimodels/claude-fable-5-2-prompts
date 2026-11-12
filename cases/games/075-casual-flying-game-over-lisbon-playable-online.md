@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 75 of 145 · Games · [简体中文](#中文)
 
-By [@goncalo_canhoto](https://x.com/goncalo_canhoto) · [original post](https://x.com/goncalo_canhoto/status/2119932946346094690) · posted 2026-11-09
+By [@goncalo_canhoto](https://x.com/goncalo_canhoto) · [original post](https://x.com/goncalo_canhoto/status/2119932946346094690) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A casual flying game set over Lisbon, with a playable version online at cozylisbon.vercel.app.
 - **Media:** Video, 30 s. About 12K views and 158 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **飞越里斯本的休闲飞行游戏**
 
-作者：[@goncalo_canhoto](https://x.com/goncalo_canhoto) · [原帖](https://x.com/goncalo_canhoto/status/2119932946346094690) · 发布于 2026-11-09
+作者：[@goncalo_canhoto](https://x.com/goncalo_canhoto) · [原帖](https://x.com/goncalo_canhoto/status/2119932946346094690) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 飞越里斯本的休闲飞行游戏，在线版 cozylisbon.vercel.app。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 1.2 万 浏览、158 赞。

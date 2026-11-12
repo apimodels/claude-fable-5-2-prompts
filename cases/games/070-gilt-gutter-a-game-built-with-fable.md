@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 70 of 145 · Games · [简体中文](#中文)
 
-By [@kevin_t_ngo](https://x.com/kevin_t_ngo) · [original post](https://x.com/kevin_t_ngo/status/2119900487688622171) · posted 2026-11-09
+By [@kevin_t_ngo](https://x.com/kevin_t_ngo) · [original post](https://x.com/kevin_t_ngo/status/2119900487688622171) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A game called "Gilt & Gutter".
 - **Media:** Video, 60 s. About 101K views and 318 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **游戏《Gilt & Gutter》**
 
-作者：[@kevin_t_ngo](https://x.com/kevin_t_ngo) · [原帖](https://x.com/kevin_t_ngo/status/2119900487688622171) · 发布于 2026-11-09
+作者：[@kevin_t_ngo](https://x.com/kevin_t_ngo) · [原帖](https://x.com/kevin_t_ngo/status/2119900487688622171) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** "Gilt & Gutter"游戏。
 - **媒体：** 视频 60 秒。截至 2026-11-11 约 10.1 万 浏览、318 赞。

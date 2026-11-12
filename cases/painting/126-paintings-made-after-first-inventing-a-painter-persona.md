@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 126 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@jkeatn](https://x.com/jkeatn) · [original post](https://x.com/jkeatn/status/2119874007382299087) · posted 2026-11-09
+By [@jkeatn](https://x.com/jkeatn) · [original post](https://x.com/jkeatn/status/2119874007382299087) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** Before painting, the model first gives itself a painter persona, and each painting runs to 1,000–2,000 lines of code.
 - **Media:** 4 images. About 436K views and 4,159 likes as of 11 November 2026.
@@ -15,7 +15,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **先设定画家人格再作画**
 
-作者：[@jkeatn](https://x.com/jkeatn) · [原帖](https://x.com/jkeatn/status/2119874007382299087) · 发布于 2026-11-09
+作者：[@jkeatn](https://x.com/jkeatn) · [原帖](https://x.com/jkeatn/status/2119874007382299087) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 先给自己设定画家人格再作画，每幅 1,000–2,000 行代码。
 - **媒体：** 图片 ×4。截至 2026-11-11 约 43.6 万 浏览、4,159 赞。

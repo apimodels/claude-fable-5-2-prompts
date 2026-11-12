@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 108 of 145 · Music in Code · [简体中文](#中文)
 
-By [@imjustnewatai](https://x.com/imjustnewatai) · [original post](https://x.com/imjustnewatai/status/2120383964686729410) · posted 2026-11-11
+By [@imjustnewatai](https://x.com/imjustnewatai) · [original post](https://x.com/imjustnewatai/status/2120383964686729410) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** The request was simply to invent a new musical form.
 - **Media:** Video, 128 s. About 132K views and 2,084 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **发明一种新的音乐形式**
 
-作者：[@imjustnewatai](https://x.com/imjustnewatai) · [原帖](https://x.com/imjustnewatai/status/2120383964686729410) · 发布于 2026-11-11
+作者：[@imjustnewatai](https://x.com/imjustnewatai) · [原帖](https://x.com/imjustnewatai/status/2120383964686729410) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 发明一种新的音乐形式。
 - **媒体：** 视频 128 秒。截至 2026-11-11 约 13.2 万 浏览、2,084 赞。

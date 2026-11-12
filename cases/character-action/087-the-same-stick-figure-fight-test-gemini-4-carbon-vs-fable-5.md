@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 87 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@DanielZambrini](https://x.com/DanielZambrini) · [original post](https://x.com/DanielZambrini/status/2120225154613801451) · posted 2026-11-10
+By [@DanielZambrini](https://x.com/DanielZambrini) · [original post](https://x.com/DanielZambrini/status/2120225154613801451) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** The same stick-figure fight test run again, this time putting Gemini 4 Carbon up against Fable 5.2.
 - **Media:** Video, 15 s. About 21K views and 123 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **火柴人打斗对比 Gemini 4 Carbon**
 
-作者：[@DanielZambrini](https://x.com/DanielZambrini) · [原帖](https://x.com/DanielZambrini/status/2120225154613801451) · 发布于 2026-11-10
+作者：[@DanielZambrini](https://x.com/DanielZambrini) · [原帖](https://x.com/DanielZambrini/status/2120225154613801451) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 同一个火柴人打斗测试，Gemini 4 Carbon 对比 Fable 5.2。
 - **媒体：** 视频 15 秒。截至 2026-11-11 约 2.1 万 浏览、123 赞。

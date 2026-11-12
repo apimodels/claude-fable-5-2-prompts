@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 102 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@New202064737](https://x.com/New202064737) · [original post](https://x.com/New202064737/status/2120429775047270454) · posted 2026-11-11
+By [@New202064737](https://x.com/New202064737) · [original post](https://x.com/New202064737/status/2120429775047270454) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A "kung fu cat" assembled in code entirely from spheres and cones, shared as a GIF.
 - **Media:** GIF. About 79 views and 2 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **用球和圆锥拼出的“功夫喵”**
 
-作者：[@New202064737](https://x.com/New202064737) · [原帖](https://x.com/New202064737/status/2120429775047270454) · 发布于 2026-11-11
+作者：[@New202064737](https://x.com/New202064737) · [原帖](https://x.com/New202064737/status/2120429775047270454) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 代码拼出来的"功夫喵"，全是球和圆锥（GIF）。
 - **媒体：** GIF。截至 2026-11-11 约 79 浏览、2 赞。

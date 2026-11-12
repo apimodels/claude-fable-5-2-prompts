@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 2 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@jeremyberman](https://x.com/jeremyberman) · [original post](https://x.com/jeremyberman/status/2119869358679712206) · posted 2026-11-09
+By [@jeremyberman](https://x.com/jeremyberman) · [original post](https://x.com/jeremyberman/status/2119869358679712206) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** "Welcome Fable 5.2, creator of worlds": a prehistoric world with dinosaurs gathered at a watering hole. In a reply, the author says it was "Built from scratch with Fable writing python to control blender" ([x.com/jeremyberman/status/2119870801730245009](https://x.com/jeremyberman/status/2119870801730245009)).
 - **Media:** Video, 18 s. About 282K views and 1,344 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **Blender 里的史前恐龙水潭**
 
-作者：[@jeremyberman](https://x.com/jeremyberman) · [原帖](https://x.com/jeremyberman/status/2119869358679712206) · 发布于 2026-11-09
+作者：[@jeremyberman](https://x.com/jeremyberman) · [原帖](https://x.com/jeremyberman/status/2119869358679712206) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** "Welcome Fable 5.2, creator of worlds"——史前世界/恐龙水潭场景。作者在回复里说是"Built from scratch with Fable writing python to control blender"（[x.com/jeremyberman/status/2119870801730245009](https://x.com/jeremyberman/status/2119870801730245009)）。
 - **媒体：** 视频 18 秒。截至 2026-11-11 约 28.2 万 浏览、1,344 赞。

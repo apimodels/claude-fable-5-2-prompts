@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 46 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@Khazix0918](https://x.com/Khazix0918) · [original post](https://x.com/Khazix0918/status/2119902325460590834) · posted 2026-11-09
+By [@Khazix0918](https://x.com/Khazix0918) · [original post](https://x.com/Khazix0918/status/2119902325460590834) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A 58-second motion graphics tribute marking ChatGPT's fourth anniversary. The author confirmed it took "just one prompt" ([x.com/Khazix0918/status/2119948573853073473](https://x.com/Khazix0918/status/2119948573853073473)).
 - **Media:** Video, 58 s. About 91K views and 604 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **ChatGPT 四周年致敬动效片**
 
-作者：[@Khazix0918](https://x.com/Khazix0918) · [原帖](https://x.com/Khazix0918/status/2119902325460590834) · 发布于 2026-11-09
+作者：[@Khazix0918](https://x.com/Khazix0918) · [原帖](https://x.com/Khazix0918/status/2119902325460590834) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** ChatGPT 四周年致敬动效片，58 秒。作者确认"就一句Prompt"（[x.com/Khazix0918/status/2119948573853073473](https://x.com/Khazix0918/status/2119948573853073473)）。
 - **媒体：** 视频 58 秒。截至 2026-11-11 约 9.1 万 浏览、604 赞。

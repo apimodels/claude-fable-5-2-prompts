@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 60 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@furkancavlakcom](https://x.com/furkancavlakcom) · [original post](https://x.com/furkancavlakcom/status/2119896886345695521) · posted 2026-11-09
+By [@furkancavlakcom](https://x.com/furkancavlakcom) · [original post](https://x.com/furkancavlakcom/status/2119896886345695521) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A launch video the model made for itself from a one-line brief: make your own launch video, using only code (in Turkish).
 - **Media:** Video, 74 s. About 36K views and 67 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **只用代码给自己做的发布视频**
 
-作者：[@furkancavlakcom](https://x.com/furkancavlakcom) · [原帖](https://x.com/furkancavlakcom/status/2119896886345695521) · 发布于 2026-11-09
+作者：[@furkancavlakcom](https://x.com/furkancavlakcom) · [原帖](https://x.com/furkancavlakcom/status/2119896886345695521) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** "只用代码，给自己做发布视频"（土耳其语）。
 - **媒体：** 视频 74 秒。截至 2026-11-11 约 3.6 万 浏览、67 赞。

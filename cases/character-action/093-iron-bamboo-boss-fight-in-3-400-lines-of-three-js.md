@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 93 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2120006991804260444) · posted 2026-11-10
+By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2120006991804260444) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** From Higgsfield: a boss fight called "Iron Bamboo", written in 3,400 lines of three.js.
 - **Media:** Video, 115 s. About 14K views and 107 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **“铁竹”Boss 战，3,400 行 three.js**
 
-作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2120006991804260444) · 发布于 2026-11-10
+作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2120006991804260444) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** Higgsfield："铁竹" Boss 战，3,400 行 three.js。
 - **媒体：** 视频 115 秒。截至 2026-11-11 约 1.4 万 浏览、107 赞。

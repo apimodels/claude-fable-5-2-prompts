@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 44 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@viewsfrom02108](https://x.com/viewsfrom02108) · [original post](https://x.com/viewsfrom02108/status/2119896345729437907) · posted 2026-11-09
+By [@viewsfrom02108](https://x.com/viewsfrom02108) · [original post](https://x.com/viewsfrom02108/status/2119896345729437907) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** A photorealistic lighthouse scene, made with the author's own lighthouse prompt.
 - **Media:** Video, 25 s. About 304 views and 2 likes as of 11 November 2026.
@@ -15,7 +15,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **作者自写提示词的写实灯塔场景**
 
-作者：[@viewsfrom02108](https://x.com/viewsfrom02108) · [原帖](https://x.com/viewsfrom02108/status/2119896345729437907) · 发布于 2026-11-09
+作者：[@viewsfrom02108](https://x.com/viewsfrom02108) · [原帖](https://x.com/viewsfrom02108/status/2119896345729437907) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** 用作者自己的灯塔提示词做的写实灯塔场景。
 - **媒体：** 视频 25 秒。截至 2026-11-11 约 304 浏览、2 赞。

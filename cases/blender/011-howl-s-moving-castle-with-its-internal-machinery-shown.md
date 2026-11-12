@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 11 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2117966825048997914) · posted 2026-11-04
+By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2117966825048997914) · posted 2026-11-04 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** Part 5 from camperaigg: Howl's Moving Castle, including a look at the machinery inside it.
 - **Media:** Video, 35 s. About 3,019 views and 51 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **哈尔的移动城堡及内部机械**
 
-作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2117966825048997914) · 发布于 2026-11-04
+作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2117966825048997914) · 发布于 2026-11-04 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** camperaigg Part 5：哈尔的移动城堡，并展示内部机械结构。
 - **媒体：** 视频 35 秒。截至 2026-11-11 约 3,019 浏览、51 赞。

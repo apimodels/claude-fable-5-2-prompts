@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 143 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@iumarmirza](https://x.com/iumarmirza) · [original post](https://x.com/iumarmirza/status/2120003159049572359) · posted 2026-11-10
+By [@iumarmirza](https://x.com/iumarmirza) · [original post](https://x.com/iumarmirza/status/2120003159049572359) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** Asked to "animate its own life, from day 0 to now", the model told its story as a painted animation, with every frame drawn stroke by stroke in JS.
 - **Media:** Video, 30 s. About 278 views and 5 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **用画笔动画讲自己的一生**
 
-作者：[@iumarmirza](https://x.com/iumarmirza) · [原帖](https://x.com/iumarmirza/status/2120003159049572359) · 发布于 2026-11-10
+作者：[@iumarmirza](https://x.com/iumarmirza) · [原帖](https://x.com/iumarmirza/status/2120003159049572359) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 让它用画笔动画讲述自己的一生：每一帧都是 JS 一笔笔画出来的。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 278 浏览、5 赞。

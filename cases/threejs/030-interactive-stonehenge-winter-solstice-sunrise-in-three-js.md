@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 30 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@MeltTheManual](https://x.com/MeltTheManual) · [original post](https://x.com/MeltTheManual/status/2119926820963532984) · posted 2026-11-09
+By [@MeltTheManual](https://x.com/MeltTheManual) · [original post](https://x.com/MeltTheManual/status/2119926820963532984) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** An interactive three.js scene of the winter solstice sunrise at Stonehenge, made for $21. A live version is at [meltthemanual.github.io/stonehenge-solstice](https://meltthemanual.github.io/stonehenge-solstice).
 - **Media:** Video, 74 s. About 153 views and 3 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **巨石阵冬至日出 three.js 交互场景**
 
-作者：[@MeltTheManual](https://x.com/MeltTheManual) · [原帖](https://x.com/MeltTheManual/status/2119926820963532984) · 发布于 2026-11-09
+作者：[@MeltTheManual](https://x.com/MeltTheManual) · [原帖](https://x.com/MeltTheManual/status/2119926820963532984) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** 巨石阵冬至日出，three.js 交互场景，花费 $21；在线版 [meltthemanual.github.io/stonehenge-solstice](https://meltthemanual.github.io/stonehenge-solstice)。
 - **媒体：** 视频 74 秒。截至 2026-11-11 约 153 浏览、3 赞。

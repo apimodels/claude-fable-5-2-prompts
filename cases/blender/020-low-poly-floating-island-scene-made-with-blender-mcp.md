@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 20 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@rewind02](https://x.com/rewind02) · [original post](https://x.com/rewind02/status/2120498751773057186) · posted 2026-11-11
+By [@rewind02](https://x.com/rewind02) · [original post](https://x.com/rewind02/status/2120498751773057186) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A low-poly floating island scene built with Blender MCP.
 - **Media:** Video, 29 s. About 923 views and 30 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **Blender MCP 做的低多边形浮岛**
 
-作者：[@rewind02](https://x.com/rewind02) · [原帖](https://x.com/rewind02/status/2120498751773057186) · 发布于 2026-11-11
+作者：[@rewind02](https://x.com/rewind02) · [原帖](https://x.com/rewind02/status/2120498751773057186) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 用 Blender MCP 做的低多边形浮岛场景。
 - **媒体：** 视频 29 秒。截至 2026-11-11 约 923 浏览、30 赞。

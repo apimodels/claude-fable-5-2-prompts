@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 122 of 145 · Music in Code · [简体中文](#中文)
 
-By [@AmirMushich](https://x.com/AmirMushich) · [original post](https://x.com/AmirMushich/status/2119903338078564844) · posted 2026-11-09
+By [@AmirMushich](https://x.com/AmirMushich) · [original post](https://x.com/AmirMushich/status/2119903338078564844) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** Blender plus Reaper: the author recorded source audio on an iPhone and handed it to Fable for the sound design.
 - **Media:** Video, 10 s. About 77K views and 230 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Blender 加 Reaper 声音设计**
 
-作者：[@AmirMushich](https://x.com/AmirMushich) · [原帖](https://x.com/AmirMushich/status/2119903338078564844) · 发布于 2026-11-09
+作者：[@AmirMushich](https://x.com/AmirMushich) · [原帖](https://x.com/AmirMushich/status/2119903338078564844) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** Blender 加 Reaper：作者用 iPhone 录音素材，交给 Fable 做声音设计。
 - **媒体：** 视频 10 秒。截至 2026-11-11 约 7.7 万 浏览、230 赞。

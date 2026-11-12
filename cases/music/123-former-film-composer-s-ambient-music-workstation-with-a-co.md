@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 123 of 145 · Music in Code · [简体中文](#中文)
 
-By [@FinanceYF5](https://x.com/FinanceYF5) · [original post](https://x.com/FinanceYF5/status/2120462098425676177) · posted 2026-11-11
+By [@FinanceYF5](https://x.com/FinanceYF5) · [original post](https://x.com/FinanceYF5/status/2120462098425676177) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** A former film composer used Fable 5.2 to build their own ambient music workstation, complete with an agent that composes alongside them. This is a Chinese retelling; the original video runs 1,335 seconds.
 - **Media:** Video, 1335 s. About 1,361 views and 5 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **前电影配乐师的氛围音乐工作站**
 
-作者：[@FinanceYF5](https://x.com/FinanceYF5) · [原帖](https://x.com/FinanceYF5/status/2120462098425676177) · 发布于 2026-11-11
+作者：[@FinanceYF5](https://x.com/FinanceYF5) · [原帖](https://x.com/FinanceYF5/status/2120462098425676177) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 一位前电影配乐师用 Fable 5.2 做出自己的氛围音乐工作站，里面还有能一起作曲的 agent（中文转述，原视频 1,335 秒）。
 - **媒体：** 视频 1335 秒。截至 2026-11-11 约 1,361 浏览、5 赞。

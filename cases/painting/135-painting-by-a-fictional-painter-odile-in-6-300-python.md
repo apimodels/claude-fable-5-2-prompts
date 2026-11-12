@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 135 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@HelaliBillel](https://x.com/HelaliBillel) · [original post](https://x.com/HelaliBillel/status/2119934896240271834) · posted 2026-11-09
+By [@HelaliBillel](https://x.com/HelaliBillel) · [original post](https://x.com/HelaliBillel/status/2119934896240271834) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** It wrote its own brush engine and invented a painter, Odile, a groundskeeper at a tennis club in 1978, then painted 6,300 strokes in Python.
 - **Media:** Video, 56 s. About 59 views and 0 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **虚构画家 Odile 的 6,300 笔画作**
 
-作者：[@HelaliBillel](https://x.com/HelaliBillel) · [原帖](https://x.com/HelaliBillel/status/2119934896240271834) · 发布于 2026-11-09
+作者：[@HelaliBillel](https://x.com/HelaliBillel) · [原帖](https://x.com/HelaliBillel/status/2119934896240271834) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 自己写了笔刷引擎、虚构了画家 Odile（1978 年网球俱乐部的场地管理员），用 Python 画了 6,300 笔。
 - **媒体：** 视频 56 秒。截至 2026-11-11 约 59 浏览、0 赞。

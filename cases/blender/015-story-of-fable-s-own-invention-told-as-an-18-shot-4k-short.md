@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 15 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@CalebJones800](https://x.com/CalebJones800) · [original post](https://x.com/CalebJones800/status/2120323685798297982) · posted 2026-11-11
+By [@CalebJones800](https://x.com/CalebJones800) · [original post](https://x.com/CalebJones800/status/2120323685798297982) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** Fable was asked to come up with a story of its own, and the result is a 4K short with 18 shots, written in 3,807 lines of code.
 - **Media:** Video, 59 s. About 113 views and 2 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **让 Fable 自编故事的 4K 短片**
 
-作者：[@CalebJones800](https://x.com/CalebJones800) · [原帖](https://x.com/CalebJones800/status/2120323685798297982) · 发布于 2026-11-11
+作者：[@CalebJones800](https://x.com/CalebJones800) · [原帖](https://x.com/CalebJones800/status/2120323685798297982) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 让 Fable 自编故事：3,807 行代码、18 个镜头的 4K 短片。
 - **媒体：** 视频 59 秒。截至 2026-11-11 约 113 浏览、2 赞。

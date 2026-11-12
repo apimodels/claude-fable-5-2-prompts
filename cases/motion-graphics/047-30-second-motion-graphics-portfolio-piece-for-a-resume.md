@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 47 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@Leviwoyun](https://x.com/Leviwoyun) · [original post](https://x.com/Leviwoyun/status/2119955625820258308) · posted 2026-11-10
+By [@Leviwoyun](https://x.com/Leviwoyun) · [original post](https://x.com/Leviwoyun/status/2119955625820258308) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A 30-second motion graphics short pitched as a "résumé portfolio", with the brief asking it to show off what it can do as a motion designer.
 - **Media:** Video, 30 s. About 24K views and 187 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **30 秒动态图形简历作品集**
 
-作者：[@Leviwoyun](https://x.com/Leviwoyun) · [原帖](https://x.com/Leviwoyun/status/2119955625820258308) · 发布于 2026-11-10
+作者：[@Leviwoyun](https://x.com/Leviwoyun) · [原帖](https://x.com/Leviwoyun/status/2119955625820258308) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 30 秒动态图形"简历作品集"。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 2.4 万 浏览、187 赞。

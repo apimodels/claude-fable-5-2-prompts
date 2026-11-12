@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 104 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@BertrandDiouly](https://x.com/BertrandDiouly) · [original post](https://x.com/BertrandDiouly/status/2119886197648765001) · posted 2026-11-09
+By [@BertrandDiouly](https://x.com/BertrandDiouly) · [original post](https://x.com/BertrandDiouly/status/2119886197648765001) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A Street Fighter 2 clone generated in a single pass that took 34 minutes 45 seconds.
 - **Media:** Video, 30 s. About 558 views and 21 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **一次生成的《街头霸王 2》克隆**
 
-作者：[@BertrandDiouly](https://x.com/BertrandDiouly) · [原帖](https://x.com/BertrandDiouly/status/2119886197648765001) · 发布于 2026-11-09
+作者：[@BertrandDiouly](https://x.com/BertrandDiouly) · [原帖](https://x.com/BertrandDiouly/status/2119886197648765001) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 34 分 45 秒一次生成的《街头霸王 2》克隆。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 558 浏览、21 赞。

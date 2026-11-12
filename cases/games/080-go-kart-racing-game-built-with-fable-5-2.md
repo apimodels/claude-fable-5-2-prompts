@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 80 of 145 · Games · [简体中文](#中文)
 
-By [@petergyang](https://x.com/petergyang) · [original post](https://x.com/petergyang/status/2119901658394358005) · posted 2026-11-09
+By [@petergyang](https://x.com/petergyang) · [original post](https://x.com/petergyang/status/2119901658394358005) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A go-kart racing game.
 - **Media:** Video, 20 s. About 32K views and 136 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **一款卡丁车竞速游戏**
 
-作者：[@petergyang](https://x.com/petergyang) · [原帖](https://x.com/petergyang/status/2119901658394358005) · 发布于 2026-11-09
+作者：[@petergyang](https://x.com/petergyang) · [原帖](https://x.com/petergyang/status/2119901658394358005) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 卡丁车竞速游戏。
 - **媒体：** 视频 20 秒。截至 2026-11-11 约 3.2 万 浏览、136 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 41 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@vib3coded](https://x.com/vib3coded) · [original post](https://x.com/vib3coded/status/2119876781700505627) · posted 2026-11-09
+By [@vib3coded](https://x.com/vib3coded) · [original post](https://x.com/vib3coded/status/2119876781700505627) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** "Daybreak Switch": an addictive volume slider that hides a cozy little room going from night to daybreak. It took 10 minutes and $8.43.
 - **Media:** Video, 12 s. About 94K views and 1,113 likes as of 11 November 2026.
@@ -30,7 +30,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Daybreak Switch：从黑夜到天亮**
 
-作者：[@vib3coded](https://x.com/vib3coded) · [原帖](https://x.com/vib3coded/status/2119876781700505627) · 发布于 2026-11-09
+作者：[@vib3coded](https://x.com/vib3coded) · [原帖](https://x.com/vib3coded/status/2119876781700505627) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** "Daybreak Switch"：一个让人上瘾的音量滑块，里面藏着从夜晚到天亮的温馨小房间，10 分钟、$8.43。
 - **媒体：** 视频 12 秒。截至 2026-11-11 约 9.4 万 浏览、1,113 赞。

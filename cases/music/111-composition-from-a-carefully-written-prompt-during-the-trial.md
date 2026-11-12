@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 111 of 145 · Music in Code · [简体中文](#中文)
 
-By [@GrayCan1392](https://x.com/GrayCan1392) · [original post](https://x.com/GrayCan1392/status/2120064453295350174) · posted 2026-11-10
+By [@GrayCan1392](https://x.com/GrayCan1392) · [original post](https://x.com/GrayCan1392/status/2120064453295350174) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** A piece of music the author made during the trial period with a carefully written prompt (in Japanese, 92 seconds).
 - **Media:** Video, 92 s. About 145 views and 3 likes as of 11 November 2026.
@@ -15,7 +15,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **试用期里精心写提示词的作曲**
 
-作者：[@GrayCan1392](https://x.com/GrayCan1392) · [原帖](https://x.com/GrayCan1392/status/2120064453295350174) · 发布于 2026-11-10
+作者：[@GrayCan1392](https://x.com/GrayCan1392) · [原帖](https://x.com/GrayCan1392/status/2120064453295350174) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 试用期里认真写提示词做的作曲作品（日文，92 秒）。
 - **媒体：** 视频 92 秒。截至 2026-11-11 约 145 浏览、3 赞。

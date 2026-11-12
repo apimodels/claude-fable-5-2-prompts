@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 8 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@adityavg13](https://x.com/adityavg13) · [original post](https://x.com/adityavg13/status/2119903463735799971) · posted 2026-11-09
+By [@adityavg13](https://x.com/adityavg13) · [original post](https://x.com/adityavg13/status/2119903463735799971) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A Star Wars "Blender Bench" piece: the First Battle of Geonosis in 30 seconds, which took 1.5 hours to make.
 - **Media:** Video, 30 s. About 44K views and 292 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **星战 Blender Bench：吉奥诺西斯战役**
 
-作者：[@adityavg13](https://x.com/adityavg13) · [原帖](https://x.com/adityavg13/status/2119903463735799971) · 发布于 2026-11-09
+作者：[@adityavg13](https://x.com/adityavg13) · [原帖](https://x.com/adityavg13/status/2119903463735799971) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** Star Wars "Blender Bench"：第一次吉奥诺西斯战役，30 秒，耗时 1.5 小时。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 4.4 万 浏览、292 赞。

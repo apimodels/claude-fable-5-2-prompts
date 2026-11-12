@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 67 of 145 · Games · [简体中文](#中文)
 
-By [@felixrieseberg](https://x.com/felixrieseberg) · [original post](https://x.com/felixrieseberg/status/2119925633564463609) · posted 2026-11-09
+By [@felixrieseberg](https://x.com/felixrieseberg) · [original post](https://x.com/felixrieseberg/status/2119925633564463609) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A small FPS level with a realistic AAA look, built in a run of 8 hours that cost about $550.
 - **Media:** Video, 72 s. About 3.9M views and 13K likes as of 11 November 2026.
@@ -22,7 +22,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **8 小时做出的 3A 写实风 FPS 关卡**
 
-作者：[@felixrieseberg](https://x.com/felixrieseberg) · [原帖](https://x.com/felixrieseberg/status/2119925633564463609) · 发布于 2026-11-09
+作者：[@felixrieseberg](https://x.com/felixrieseberg) · [原帖](https://x.com/felixrieseberg/status/2119925633564463609) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 跑了 8 小时、约 $550 的 3A 写实风 FPS 小关卡。
 - **媒体：** 视频 72 秒。截至 2026-11-11 约 390.3 万 浏览、1.3 万 赞。

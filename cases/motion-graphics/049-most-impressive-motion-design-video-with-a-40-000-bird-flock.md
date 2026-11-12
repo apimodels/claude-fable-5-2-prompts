@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 49 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@techfren](https://x.com/techfren) · [original post](https://x.com/techfren/status/2119945743507058740) · posted 2026-11-10
+By [@techfren](https://x.com/techfren) · [original post](https://x.com/techfren/status/2119945743507058740) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** Asked for the "most impressive motion design video it could make", it produced a piece that includes a simulated flock of 40,000 birds.
 - **Media:** Video, 62 s. About 1,002 views and 5 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **最惊艳动效片，含 4 万只鸟群模拟**
 
-作者：[@techfren](https://x.com/techfren) · [原帖](https://x.com/techfren/status/2119945743507058740) · 发布于 2026-11-10
+作者：[@techfren](https://x.com/techfren) · [原帖](https://x.com/techfren/status/2119945743507058740) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** "它能做出的最惊艳的动效片"，含 4 万只鸟群模拟。
 - **媒体：** 视频 62 秒。截至 2026-11-11 约 1,002 浏览、5 赞。

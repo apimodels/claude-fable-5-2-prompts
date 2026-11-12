@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 62 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@talhaXclusively](https://x.com/talhaXclusively) · [original post](https://x.com/talhaXclusively/status/2120396265510867162) · posted 2026-11-11
+By [@talhaXclusively](https://x.com/talhaXclusively) · [original post](https://x.com/talhaXclusively/status/2120396265510867162) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A 2D animation of a man walking into a lighthouse at night, staged cinematically and with sound effects.
 - **Media:** Video, 27 s. About 48 views and 0 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **走进灯塔的 2D 夜景动画**
 
-作者：[@talhaXclusively](https://x.com/talhaXclusively) · [原帖](https://x.com/talhaXclusively/status/2120396265510867162) · 发布于 2026-11-11
+作者：[@talhaXclusively](https://x.com/talhaXclusively) · [原帖](https://x.com/talhaXclusively/status/2120396265510867162) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 2D 灯塔动画：一个人走进灯塔，夜景、电影感、带音效。
 - **媒体：** 视频 27 秒。截至 2026-11-11 约 48 浏览、0 赞。

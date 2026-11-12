@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 141 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@devsvn2](https://x.com/devsvn2) · [original post](https://x.com/devsvn2/status/2119875516216070289) · posted 2026-11-09
+By [@devsvn2](https://x.com/devsvn2) · [original post](https://x.com/devsvn2/status/2119875516216070289) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** A code-driven painting generated in a single pass (35 seconds).
 - **Media:** Video, 35 s. About 254K views and 635 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **一次生成的代码绘画作品**
 
-作者：[@devsvn2](https://x.com/devsvn2) · [原帖](https://x.com/devsvn2/status/2119875516216070289) · 发布于 2026-11-09
+作者：[@devsvn2](https://x.com/devsvn2) · [原帖](https://x.com/devsvn2/status/2119875516216070289) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 一次生成的代码绘画作品（35 秒）。
 - **媒体：** 视频 35 秒。截至 2026-11-11 约 25.4 万 浏览、635 赞。

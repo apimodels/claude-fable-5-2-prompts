@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 89 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@RJasonHA](https://x.com/RJasonHA) · [original post](https://x.com/RJasonHA/status/2120041766363574444) · posted 2026-11-10
+By [@RJasonHA](https://x.com/RJasonHA) · [original post](https://x.com/RJasonHA/status/2120041766363574444) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A stick-figure fight scene with visual effects, described as "cinematic".
 - **Media:** Video, 15 s. About 635 views and 15 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **号称电影级的火柴人打斗与特效**
 
-作者：[@RJasonHA](https://x.com/RJasonHA) · [原帖](https://x.com/RJasonHA/status/2120041766363574444) · 发布于 2026-11-10
+作者：[@RJasonHA](https://x.com/RJasonHA) · [原帖](https://x.com/RJasonHA/status/2120041766363574444) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** "电影级"火柴人打斗和特效。
 - **媒体：** 视频 15 秒。截至 2026-11-11 约 635 浏览、15 赞。

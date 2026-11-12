@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 35 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@anstapnever](https://x.com/anstapnever) · [original post](https://x.com/anstapnever/status/2120500496850997258) · posted 2026-11-11
+By [@anstapnever](https://x.com/anstapnever) · [original post](https://x.com/anstapnever/status/2120500496850997258) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** A capybara-themed animation built in three.js.
 - **Media:** Video, 24 s. About 246 views and 7 likes as of 11 November 2026.
@@ -15,7 +15,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **水豚主题 three.js 动画**
 
-作者：[@anstapnever](https://x.com/anstapnever) · [原帖](https://x.com/anstapnever/status/2120500496850997258) · 发布于 2026-11-11
+作者：[@anstapnever](https://x.com/anstapnever) · [原帖](https://x.com/anstapnever/status/2120500496850997258) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** 水豚主题 three.js 动画。
 - **媒体：** 视频 24 秒。截至 2026-11-11 约 246 浏览、7 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 29 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@evaninfra](https://x.com/evaninfra) · [original post](https://x.com/evaninfra/status/2120453048476778687) · posted 2026-11-11
+By [@evaninfra](https://x.com/evaninfra) · [original post](https://x.com/evaninfra/status/2120453048476778687) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** A 73-second short film set in a robot night market, built in three.js with procedural sound effects. The run took 3 hours 13 minutes.
 - **Media:** Video, 79 s. About 53 views and 2 likes as of 11 November 2026.
@@ -34,7 +34,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **73 秒机器人夜市短片**
 
-作者：[@evaninfra](https://x.com/evaninfra) · [原帖](https://x.com/evaninfra/status/2120453048476778687) · 发布于 2026-11-11
+作者：[@evaninfra](https://x.com/evaninfra) · [原帖](https://x.com/evaninfra/status/2120453048476778687) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** 73 秒机器人夜市短片，three.js 加程序化音效，跑了 3 小时 13 分钟。
 - **媒体：** 视频 79 秒。截至 2026-11-11 约 53 浏览、2 赞。

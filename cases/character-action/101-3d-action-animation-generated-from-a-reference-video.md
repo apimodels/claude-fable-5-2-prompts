@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 101 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@KHvostikk](https://x.com/KHvostikk) · [original post](https://x.com/KHvostikk/status/2119939061049889130) · posted 2026-11-09
+By [@KHvostikk](https://x.com/KHvostikk) · [original post](https://x.com/KHvostikk/status/2119939061049889130) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A 10-second 3D action animation generated from a reference video.
 - **Media:** Video, 10 s. About 63K views and 1,168 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **从参考视频生成的 3D 动作动画**
 
-作者：[@KHvostikk](https://x.com/KHvostikk) · [原帖](https://x.com/KHvostikk/status/2119939061049889130) · 发布于 2026-11-09
+作者：[@KHvostikk](https://x.com/KHvostikk) · [原帖](https://x.com/KHvostikk/status/2119939061049889130) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 从参考视频生成 3D 动作动画（10 秒）。
 - **媒体：** 视频 10 秒。截至 2026-11-11 约 6.3 万 浏览、1,168 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 99 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@TusharXo](https://x.com/TusharXo) · [original post](https://x.com/TusharXo/status/2120409025707995230) · posted 2026-11-11
+By [@TusharXo](https://x.com/TusharXo) · [original post](https://x.com/TusharXo/status/2120409025707995230) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** An AR boxing game that follows the player's two hands through the camera, made from one prompt in 20 minutes.
 - **Media:** Video, 41 s. About 334 views and 7 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **摄像头追踪双手的 AR 拳击游戏**
 
-作者：[@TusharXo](https://x.com/TusharXo) · [原帖](https://x.com/TusharXo/status/2120409025707995230) · 发布于 2026-11-11
+作者：[@TusharXo](https://x.com/TusharXo) · [原帖](https://x.com/TusharXo/status/2120409025707995230) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 摄像头追踪双手的 AR 拳击游戏，20 分钟、一条提示词。
 - **媒体：** 视频 41 秒。截至 2026-11-11 约 334 浏览、7 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 59 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@grafikcem](https://x.com/grafikcem) · [original post](https://x.com/grafikcem/status/2119910525064937806) · posted 2026-11-09
+By [@grafikcem](https://x.com/grafikcem) · [original post](https://x.com/grafikcem/status/2119910525064937806) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A 60-second launch animation for Fable 5.2, produced by having Opus 5.5 subagents work together (in Turkish).
 - **Media:** Video, 60 s. About 185 views and 1 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **用子 agent 做的 60 秒发布动画**
 
-作者：[@grafikcem](https://x.com/grafikcem) · [原帖](https://x.com/grafikcem/status/2119910525064937806) · 发布于 2026-11-09
+作者：[@grafikcem](https://x.com/grafikcem) · [原帖](https://x.com/grafikcem/status/2119910525064937806) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 让 Opus 5.5 子 agent 协作，给 Fable 5.2 做 60 秒发布动画（土耳其语）。
 - **媒体：** 视频 60 秒。截至 2026-11-11 约 185 浏览、1 赞。

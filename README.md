@@ -4,7 +4,7 @@ English · [简体中文](README.zh-CN.md)
 
 145 things people made with Claude Fable 5.2 in its first week, from Blender films and Three.js scenes to games, fight animations, music and paintings, every one of them produced from code the model wrote. Each case is credited to its creator and linked to the original post on X, with the prompt where the creator published one: quoted in full, or excerpted with an outline when it runs to thousands of characters.
 
-Disclosure: this collection is curated by [apimodels.app](https://apimodels.app), the API platform I work on. apimodels.app is a multi-model API gateway: one API key and Anthropic- and OpenAI-compatible endpoints for Claude Fable 5.2 and more than 150 other image, video, audio and language models. The two starters in [starter/](starter) were written and run by us; everything under [cases/](cases) is other people's work, described by us.
+Disclosure: this collection is curated by [apimodels.app](https://apimodels.app), the API platform I work on. apimodels.app is a multi-model API gateway: one API key and Anthropic- and OpenAI-compatible endpoints for Claude Fable 5.2 and more than 150 other image, video, audio and language models. The two starters in [starter/](starter) were written and run by us; everything under [cases/](cases) is other people's work, described by us. A browsable version with the videos playing inline is the [Claude Fable 5.2 case library on apimodels.app](https://apimodels.app/claude-fable-5-2-prompts).
 
 ## In one paragraph
 
@@ -54,6 +54,8 @@ These patterns come from the 38 published prompts in this collection.
 
 ## Blender 3D with Python
 
+Browse this category with the videos playing: [https://apimodels.app/claude-fable-5-2-prompts/blender](https://apimodels.app/claude-fable-5-2-prompts/blender)
+
 | # | Case | Creator | Prompt | Views |
 | --- | --- | --- | --- | --- |
 | 1 | [Photoreal 3D pelican riding a bicycle, driven from Claude Code](cases/blender/001-photoreal-3d-pelican-riding-a-bicycle-driven-from-claude.md) | [@techfren](https://x.com/techfren) | Full prompt | 163K |
@@ -79,6 +81,8 @@ These patterns come from the 38 published prompts in this collection.
 | 21 | [Blender short from 1,110 lines of Python in 16.4 minutes](cases/blender/021-blender-short-from-1-110-lines-of-python-in-16-4-minutes.md) | [@FreshOutofBeta](https://x.com/FreshOutofBeta) | Not published | 63 |
 
 ## Three.js Scenes and Animation
+
+Browse this category with the videos playing: [https://apimodels.app/claude-fable-5-2-prompts/threejs](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 | # | Case | Creator | Prompt | Views |
 | --- | --- | --- | --- | --- |
@@ -109,6 +113,8 @@ These patterns come from the 38 published prompts in this collection.
 
 ## Motion Graphics and Launch Videos
 
+Browse this category with the videos playing: [https://apimodels.app/claude-fable-5-2-prompts/motion-graphics](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
+
 | # | Case | Creator | Prompt | Views |
 | --- | --- | --- | --- | --- |
 | 46 | [Motion graphics tribute to ChatGPT's fourth anniversary](cases/motion-graphics/046-motion-graphics-tribute-to-chatgpt-s-fourth-anniversary.md) | [@Khazix0918](https://x.com/Khazix0918) | Full prompt | 91K |
@@ -135,6 +141,8 @@ These patterns come from the 38 published prompts in this collection.
 
 ## Games
 
+Browse this category with the videos playing: [https://apimodels.app/claude-fable-5-2-prompts/games](https://apimodels.app/claude-fable-5-2-prompts/games)
+
 | # | Case | Creator | Prompt | Views |
 | --- | --- | --- | --- | --- |
 | 67 | [Realistic AAA-style FPS level built over 8 hours](cases/games/067-realistic-aaa-style-fps-level-built-over-8-hours.md) | [@felixrieseberg](https://x.com/felixrieseberg) | Full prompt | 3.9M |
@@ -158,6 +166,8 @@ These patterns come from the 38 published prompts in this collection.
 | 85 | [Playable pelican-on-a-bicycle mini game](cases/games/085-playable-pelican-on-a-bicycle-mini-game.md) | [@siennatries](https://x.com/siennatries) | Not published | 71 |
 
 ## Character Action and Fights
+
+Browse this category with the videos playing: [https://apimodels.app/claude-fable-5-2-prompts/character-action](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 | # | Case | Creator | Prompt | Views |
 | --- | --- | --- | --- | --- |
@@ -185,6 +195,8 @@ These patterns come from the 38 published prompts in this collection.
 
 ## Music in Code
 
+Browse this category with the videos playing: [https://apimodels.app/claude-fable-5-2-prompts/music](https://apimodels.app/claude-fable-5-2-prompts/music)
+
 | # | Case | Creator | Prompt | Views |
 | --- | --- | --- | --- | --- |
 | 107 | [Original symphony with a matching video](cases/music/107-original-symphony-with-a-matching-video.md) | [@imjustnewatai](https://x.com/imjustnewatai) | Request only | 142K |
@@ -207,6 +219,8 @@ These patterns come from the 38 published prompts in this collection.
 | 124 | [Music video for a song with lyrics](cases/music/124-music-video-for-a-song-with-lyrics.md) | [@WesRoth](https://x.com/WesRoth) | Not published | 8,415 |
 
 ## Painting in Code
+
+Browse this category with the videos playing: [https://apimodels.app/claude-fable-5-2-prompts/painting](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 | # | Case | Creator | Prompt | Views |
 | --- | --- | --- | --- | --- |

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 114 of 145 · Music in Code · [简体中文](#中文)
 
-By [@kevin_t_ngo](https://x.com/kevin_t_ngo) · [original post](https://x.com/kevin_t_ngo/status/2119880812254601655) · posted 2026-11-09
+By [@kevin_t_ngo](https://x.com/kevin_t_ngo) · [original post](https://x.com/kevin_t_ngo/status/2119880812254601655) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** Music for the trailer of a small boat game, arranged from CC0 samples.
 - **Media:** Text reply. About 2,776 views and 14 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **用 CC0 采样编排的小船游戏预告配乐**
 
-作者：[@kevin_t_ngo](https://x.com/kevin_t_ngo) · [原帖](https://x.com/kevin_t_ngo/status/2119880812254601655) · 发布于 2026-11-09
+作者：[@kevin_t_ngo](https://x.com/kevin_t_ngo) · [原帖](https://x.com/kevin_t_ngo/status/2119880812254601655) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 小船游戏的预告片配乐，用 CC0 采样编排。
 - **媒体：** 纯文字回复。截至 2026-11-11 约 2,776 浏览、14 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 21 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@FreshOutofBeta](https://x.com/FreshOutofBeta) · [original post](https://x.com/FreshOutofBeta/status/2120281495059525889) · posted 2026-11-10
+By [@FreshOutofBeta](https://x.com/FreshOutofBeta) · [original post](https://x.com/FreshOutofBeta/status/2120281495059525889) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A video made from 1,110 lines of Blender Python, finished in 16.4 minutes.
 - **Media:** Video, 34 s. About 63 views and 0 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **1,110 行代码的 Blender 短片**
 
-作者：[@FreshOutofBeta](https://x.com/FreshOutofBeta) · [原帖](https://x.com/FreshOutofBeta/status/2120281495059525889) · 发布于 2026-11-10
+作者：[@FreshOutofBeta](https://x.com/FreshOutofBeta) · [原帖](https://x.com/FreshOutofBeta/status/2120281495059525889) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 1,110 行 Blender Python，16.4 分钟出片。
 - **媒体：** 视频 34 秒。截至 2026-11-11 约 63 浏览、0 赞。

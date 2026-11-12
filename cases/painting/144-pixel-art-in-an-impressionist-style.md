@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 144 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@aimi_teno](https://x.com/aimi_teno) · [original post](https://x.com/aimi_teno/status/2119881949540229421) · posted 2026-11-09
+By [@aimi_teno](https://x.com/aimi_teno) · [original post](https://x.com/aimi_teno/status/2119881949540229421) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** Pixel art in an Impressionist style (60 seconds).
 - **Media:** Video, 60 s. About 63 views and 0 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **印象派风格的像素画**
 
-作者：[@aimi_teno](https://x.com/aimi_teno) · [原帖](https://x.com/aimi_teno/status/2119881949540229421) · 发布于 2026-11-09
+作者：[@aimi_teno](https://x.com/aimi_teno) · [原帖](https://x.com/aimi_teno/status/2119881949540229421) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 印象派风格的像素画（60 秒）。
 - **媒体：** 视频 60 秒。截至 2026-11-11 约 63 浏览、0 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 78 of 145 · Games · [简体中文](#中文)
 
-By [@joshvlc](https://x.com/joshvlc) · [original post](https://x.com/joshvlc/status/2119894656221958575) · posted 2026-11-09
+By [@joshvlc](https://x.com/joshvlc) · [original post](https://x.com/joshvlc/status/2119894656221958575) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A basketball arena game generated in a single shot.
 - **Media:** Video, 19 s. About 109 views and 1 likes as of 11 November 2026.
@@ -30,7 +30,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **一次生成的篮球馆游戏**
 
-作者：[@joshvlc](https://x.com/joshvlc) · [原帖](https://x.com/joshvlc/status/2119894656221958575) · 发布于 2026-11-09
+作者：[@joshvlc](https://x.com/joshvlc) · [原帖](https://x.com/joshvlc/status/2119894656221958575) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 一次生成的篮球馆游戏。
 - **媒体：** 视频 19 秒。截至 2026-11-11 约 109 浏览、1 赞。

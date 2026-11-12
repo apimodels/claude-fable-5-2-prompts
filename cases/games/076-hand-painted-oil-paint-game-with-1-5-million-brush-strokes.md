@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 76 of 145 · Games · [简体中文](#中文)
 
-By [@BlendiByl](https://x.com/BlendiByl) · [original post](https://x.com/BlendiByl/status/2120341251178594532) · posted 2026-11-11
+By [@BlendiByl](https://x.com/BlendiByl) · [original post](https://x.com/BlendiByl/status/2120341251178594532) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A game in a hand-painted oil-painting style made of 1.5 million brush strokes, open-sourced at [patch.gg/blendi/oil-paint](https://patch.gg/blendi/oil-paint). It could just as well count as a case of painting with code.
 - **Media:** Video, 16 s. About 162K views and 3,325 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **150 万笔刷的手绘油画风游戏**
 
-作者：[@BlendiByl](https://x.com/BlendiByl) · [原帖](https://x.com/BlendiByl/status/2120341251178594532) · 发布于 2026-11-11
+作者：[@BlendiByl](https://x.com/BlendiByl) · [原帖](https://x.com/BlendiByl/status/2120341251178594532) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 手绘油画风游戏，150 万笔刷，开源在 [patch.gg/blendi/oil-paint](https://patch.gg/blendi/oil-paint)（也可以算作"代码绘画"案例）。
 - **媒体：** 视频 16 秒。截至 2026-11-11 约 16.2 万 浏览、3,325 赞。

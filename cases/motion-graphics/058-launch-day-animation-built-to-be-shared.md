@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 58 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@ici_dab](https://x.com/ici_dab) · [original post](https://x.com/ici_dab/status/2119901910237098351) · posted 2026-11-09
+By [@ici_dab](https://x.com/ici_dab) · [original post](https://x.com/ici_dab/status/2119901910237098351) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A launch animation made in answer to a request for "the most impressive thing I can share with people when you launch".
 - **Media:** Video, 67 s. About 89 views and 2 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **发布日拿来分享的最惊艳动画**
 
-作者：[@ici_dab](https://x.com/ici_dab) · [原帖](https://x.com/ici_dab/status/2119901910237098351) · 发布于 2026-11-09
+作者：[@ici_dab](https://x.com/ici_dab) · [原帖](https://x.com/ici_dab/status/2119901910237098351) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** "发布日能拿出去分享的最惊艳作品"——发布动画。
 - **媒体：** 视频 67 秒。截至 2026-11-11 约 89 浏览、2 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 142 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@yuwen_lu_](https://x.com/yuwen_lu_) · [original post](https://x.com/yuwen_lu_/status/2120317059011924058) · posted 2026-11-11
+By [@yuwen_lu_](https://x.com/yuwen_lu_) · [original post](https://x.com/yuwen_lu_/status/2120317059011924058) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** A piece in which every single brushstroke was made by Fable 5.2.
 - **Media:** Video, 18 s + 1 image. About 1,264 views and 10 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **每一笔都由 Fable 5.2 画出**
 
-作者：[@yuwen_lu_](https://x.com/yuwen_lu_) · [原帖](https://x.com/yuwen_lu_/status/2120317059011924058) · 发布于 2026-11-11
+作者：[@yuwen_lu_](https://x.com/yuwen_lu_) · [原帖](https://x.com/yuwen_lu_/status/2120317059011924058) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 所有笔触都由 Fable 5.2 画出的作品。
 - **媒体：** 视频 18 秒 + 图片。截至 2026-11-11 约 1,264 浏览、10 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 54 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@rileybrown](https://x.com/rileybrown) · [original post](https://x.com/rileybrown/status/2119946022767980985) · posted 2026-11-10
+By [@rileybrown](https://x.com/rileybrown) · [original post](https://x.com/rileybrown/status/2119946022767980985) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** "The History of Writing" is a 96-second historical short told in a photoreal time-lapse style.
 - **Media:** Video, 96 s. About 47K views and 658 likes as of 11 November 2026.
@@ -30,7 +30,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **写实延时摄影风的写作历史短片**
 
-作者：[@rileybrown](https://x.com/rileybrown) · [原帖](https://x.com/rileybrown/status/2119946022767980985) · 发布于 2026-11-10
+作者：[@rileybrown](https://x.com/rileybrown) · [原帖](https://x.com/rileybrown/status/2119946022767980985) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** "The History of Writing"：写实延时摄影风的历史短片，96 秒。
 - **媒体：** 视频 96 秒。截至 2026-11-11 约 4.7 万 浏览、658 赞。

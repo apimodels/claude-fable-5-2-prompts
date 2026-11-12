@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 72 of 145 · Games · [简体中文](#中文)
 
-By [@MatthewBerman](https://x.com/MatthewBerman) · [original post](https://x.com/MatthewBerman/status/2119871207206158459) · posted 2026-11-09
+By [@MatthewBerman](https://x.com/MatthewBerman) · [original post](https://x.com/MatthewBerman/status/2119871207206158459) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A game in the style of Gears of War, made in Unreal.
 - **Media:** Video, 67 s. About 140K views and 2,127 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Unreal 里做的《战争机器》风格游戏**
 
-作者：[@MatthewBerman](https://x.com/MatthewBerman) · [原帖](https://x.com/MatthewBerman/status/2119871207206158459) · 发布于 2026-11-09
+作者：[@MatthewBerman](https://x.com/MatthewBerman) · [原帖](https://x.com/MatthewBerman/status/2119871207206158459) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 在 Unreal 里做的《战争机器》风格游戏。
 - **媒体：** 视频 67 秒。截至 2026-11-11 约 14 万 浏览、2,127 赞。

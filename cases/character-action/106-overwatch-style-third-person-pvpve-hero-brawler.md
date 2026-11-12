@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 106 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@Pumpnasterr](https://x.com/Pumpnasterr) · [original post](https://x.com/Pumpnasterr/status/2119895877250609238) · posted 2026-11-09
+By [@Pumpnasterr](https://x.com/Pumpnasterr) · [original post](https://x.com/Pumpnasterr/status/2119895877250609238) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** An Overwatch-style third-person PvPvE hero brawler with 12 heroes and 3v3 matches, plus boss fights.
 - **Media:** Video, 81 s. About 1,785 views and 31 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **守望先锋式第三人称 PvPvE 英雄乱斗**
 
-作者：[@Pumpnasterr](https://x.com/Pumpnasterr) · [原帖](https://x.com/Pumpnasterr/status/2119895877250609238) · 发布于 2026-11-09
+作者：[@Pumpnasterr](https://x.com/Pumpnasterr) · [原帖](https://x.com/Pumpnasterr/status/2119895877250609238) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 守望先锋式第三人称 PvPvE 英雄乱斗：12 个英雄、3v3，还有 Boss 战。
 - **媒体：** 视频 81 秒。截至 2026-11-11 约 1,785 浏览、31 赞。

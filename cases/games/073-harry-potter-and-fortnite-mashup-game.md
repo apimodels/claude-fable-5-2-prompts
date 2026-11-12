@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 73 of 145 · Games · [简体中文](#中文)
 
-By [@mattshumer_](https://x.com/mattshumer_) · [original post](https://x.com/mattshumer_/status/2119872098306810226) · posted 2026-11-09
+By [@mattshumer_](https://x.com/mattshumer_) · [original post](https://x.com/mattshumer_/status/2119872098306810226) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A game that mashes up Harry Potter and Fortnite.
 - **Media:** Video, 62 s. About 169K views and 305 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **哈利波特 × 堡垒之夜混搭游戏**
 
-作者：[@mattshumer_](https://x.com/mattshumer_) · [原帖](https://x.com/mattshumer_/status/2119872098306810226) · 发布于 2026-11-09
+作者：[@mattshumer_](https://x.com/mattshumer_) · [原帖](https://x.com/mattshumer_/status/2119872098306810226) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 哈利波特 × 堡垒之夜的混搭游戏。
 - **媒体：** 视频 62 秒。截至 2026-11-11 约 16.9 万 浏览、305 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 131 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@venturetwins](https://x.com/venturetwins) · [original post](https://x.com/venturetwins/status/2120331599283954137) · posted 2026-11-11
+By [@venturetwins](https://x.com/venturetwins) · [original post](https://x.com/venturetwins/status/2120331599283954137) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** Asked to "make a masterpiece", it painted 11,066 strokes inside an MS Paint clone.
 - **Media:** Video, 45 s. About 17K views and 218 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **MS Paint 克隆里的 11,066 笔**
 
-作者：[@venturetwins](https://x.com/venturetwins) · [原帖](https://x.com/venturetwins/status/2120331599283954137) · 发布于 2026-11-11
+作者：[@venturetwins](https://x.com/venturetwins) · [原帖](https://x.com/venturetwins/status/2120331599283954137) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 在 MS Paint 克隆里画了 11,066 笔。
 - **媒体：** 视频 45 秒。截至 2026-11-11 约 1.7 万 浏览、218 赞。

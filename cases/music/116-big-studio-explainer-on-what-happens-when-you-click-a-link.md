@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 116 of 145 · Music in Code · [简体中文](#中文)
 
-By [@MojojojoHojo](https://x.com/MojojojoHojo) · [original post](https://x.com/MojojojoHojo/status/2120201050477203672) · posted 2026-11-10
+By [@MojojojoHojo](https://x.com/MojojojoHojo) · [original post](https://x.com/MojojojoHojo/status/2120201050477203672) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** A "big studio"-style explainer on what happens when you click a link, with the animation, score and voiceover mix all done in code.
 - **Media:** Video, 30 s. About 57 views and 0 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **大制作风格解说片：点一个链接时发生了什么**
 
-作者：[@MojojojoHojo](https://x.com/MojojojoHojo) · [原帖](https://x.com/MojojojoHojo/status/2120201050477203672) · 发布于 2026-11-10
+作者：[@MojojojoHojo](https://x.com/MojojojoHojo) · [原帖](https://x.com/MojojojoHojo/status/2120201050477203672) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** "大制作"风格的解说片：点击一个链接时发生了什么。动画、配乐和配音混音全部由代码完成。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 57 浏览、0 赞。

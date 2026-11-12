@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 121 of 145 · Music in Code · [简体中文](#中文)
 
-By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2119907675265987047) · posted 2026-11-09
+By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2119907675265987047) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** From Higgsfield: getting Fable to "sing" using code.
 - **Media:** Video, 50 s. About 13K views and 87 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **让 Fable 用代码唱歌**
 
-作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2119907675265987047) · 发布于 2026-11-09
+作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2119907675265987047) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** Higgsfield：让 Fable 用代码"唱歌"。
 - **媒体：** 视频 50 秒。截至 2026-11-11 约 1.3 万 浏览、87 赞。

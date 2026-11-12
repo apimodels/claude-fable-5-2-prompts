@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 129 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@hoppycat](https://x.com/hoppycat) · [original post](https://x.com/hoppycat/status/2119942859956933068) · posted 2026-11-09
+By [@hoppycat](https://x.com/hoppycat) · [original post](https://x.com/hoppycat/status/2119942859956933068) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** An oil painting of ocean waves made with 710,989 strokes.
 - **Media:** 1 image. About 535 views and 12 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **710,989 笔的海浪油画**
 
-作者：[@hoppycat](https://x.com/hoppycat) · [原帖](https://x.com/hoppycat/status/2119942859956933068) · 发布于 2026-11-09
+作者：[@hoppycat](https://x.com/hoppycat) · [原帖](https://x.com/hoppycat/status/2119942859956933068) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 海浪油画，710,989 笔。
 - **媒体：** 图片。截至 2026-11-11 约 535 浏览、12 赞。

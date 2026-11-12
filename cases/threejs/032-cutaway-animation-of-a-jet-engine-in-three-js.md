@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 32 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@renoiseai](https://x.com/renoiseai) · [original post](https://x.com/renoiseai/status/2119963726329823358) · posted 2026-11-10
+By [@renoiseai](https://x.com/renoiseai) · [original post](https://x.com/renoiseai/status/2119963726329823358) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** A cutaway animation of a jet engine, built in three.js.
 - **Media:** Video, 30 s. About 820 views and 12 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **three.js 喷气发动机剖面动画**
 
-作者：[@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2119963726329823358) · 发布于 2026-11-10
+作者：[@renoiseai](https://x.com/renoiseai) · [原帖](https://x.com/renoiseai/status/2119963726329823358) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** 喷气发动机剖面动画（three.js）。
 - **媒体：** 视频 30 秒。截至 2026-11-11 约 820 浏览、12 赞。

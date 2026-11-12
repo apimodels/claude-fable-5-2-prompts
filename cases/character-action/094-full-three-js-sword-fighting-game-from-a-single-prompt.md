@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 94 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@FutureFlynn5](https://x.com/FutureFlynn5) · [original post](https://x.com/FutureFlynn5/status/2120162204871958687) · posted 2026-11-10
+By [@FutureFlynn5](https://x.com/FutureFlynn5) · [original post](https://x.com/FutureFlynn5/status/2120162204871958687) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A complete three.js sword-fighting game built from one prompt, with custom combat, armor and lightning. It took 1 hour 45 minutes.
 - **Media:** Video, 32 s. About 40 views and 1 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **一条提示词做出的 three.js 剑斗游戏**
 
-作者：[@FutureFlynn5](https://x.com/FutureFlynn5) · [原帖](https://x.com/FutureFlynn5/status/2120162204871958687) · 发布于 2026-11-10
+作者：[@FutureFlynn5](https://x.com/FutureFlynn5) · [原帖](https://x.com/FutureFlynn5/status/2120162204871958687) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 一条提示词做出完整的 three.js 剑斗游戏，有自定义战斗、盔甲、闪电，用时 1 小时 45 分钟。
 - **媒体：** 视频 32 秒。截至 2026-11-11 约 40 浏览、1 赞。

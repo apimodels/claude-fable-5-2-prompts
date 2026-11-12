@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 69 of 145 · Games · [简体中文](#中文)
 
-By [@kevin_t_ngo](https://x.com/kevin_t_ngo) · [original post](https://x.com/kevin_t_ngo/status/2119868968307695818) · posted 2026-11-09
+By [@kevin_t_ngo](https://x.com/kevin_t_ngo) · [original post](https://x.com/kevin_t_ngo/status/2119868968307695818) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A game in which a small boat travels through 8 worlds; the music for its trailer was also made by Fable ([x.com/kevin_t_ngo/status/2119880812254601655](https://x.com/kevin_t_ngo/status/2119880812254601655)).
 - **Media:** Video, 57 s. About 462K views and 4,124 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **小船穿越 8 个世界的游戏**
 
-作者：[@kevin_t_ngo](https://x.com/kevin_t_ngo) · [原帖](https://x.com/kevin_t_ngo/status/2119868968307695818) · 发布于 2026-11-09
+作者：[@kevin_t_ngo](https://x.com/kevin_t_ngo) · [原帖](https://x.com/kevin_t_ngo/status/2119868968307695818) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** 小船穿越 8 个世界的游戏；预告片配乐也是 Fable 做的（[x.com/kevin_t_ngo/status/2119880812254601655](https://x.com/kevin_t_ngo/status/2119880812254601655)）。
 - **媒体：** 视频 57 秒。截至 2026-11-11 约 46.2 万 浏览、4,124 赞。

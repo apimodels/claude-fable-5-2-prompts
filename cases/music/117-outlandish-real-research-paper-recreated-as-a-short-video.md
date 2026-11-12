@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 117 of 145 · Music in Code · [简体中文](#中文)
 
-By [@ronginooth](https://x.com/ronginooth) · [original post](https://x.com/ronginooth/status/2120101920748765535) · posted 2026-11-10
+By [@ronginooth](https://x.com/ronginooth) · [original post](https://x.com/ronginooth/status/2120101920748765535) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** Pick a real and outlandish research paper, then recreate it in code as a short video with a soundtrack (prompt in Japanese).
 - **Media:** Video, 40 s. About 102 views and 0 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **把一篇离谱的真实论文用代码复现成短视频**
 
-作者：[@ronginooth](https://x.com/ronginooth) · [原帖](https://x.com/ronginooth/status/2120101920748765535) · 发布于 2026-11-10
+作者：[@ronginooth](https://x.com/ronginooth) · [原帖](https://x.com/ronginooth/status/2120101920748765535) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 挑一篇真实的离谱论文，用代码复现成带配乐的短视频（日文）。
 - **媒体：** 视频 40 秒。截至 2026-11-11 约 102 浏览、0 赞。

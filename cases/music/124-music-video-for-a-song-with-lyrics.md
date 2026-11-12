@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 124 of 145 · Music in Code · [简体中文](#中文)
 
-By [@WesRoth](https://x.com/WesRoth) · [original post](https://x.com/WesRoth/status/2119911161386934330) · posted 2026-11-09
+By [@WesRoth](https://x.com/WesRoth) · [original post](https://x.com/WesRoth/status/2119911161386934330) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** A music video for a song with lyrics.
 - **Media:** Video, 37 s. About 8,415 views and 196 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **带歌词的音乐 MV**
 
-作者：[@WesRoth](https://x.com/WesRoth) · [原帖](https://x.com/WesRoth/status/2119911161386934330) · 发布于 2026-11-09
+作者：[@WesRoth](https://x.com/WesRoth) · [原帖](https://x.com/WesRoth/status/2119911161386934330) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 带歌词的音乐 MV。
 - **媒体：** 视频 37 秒。截至 2026-11-11 约 8,415 浏览、196 赞。

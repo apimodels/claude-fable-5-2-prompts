@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 37 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@chetaslua](https://x.com/chetaslua) · [original post](https://x.com/chetaslua/status/2120111159726727321) · posted 2026-11-10
+By [@chetaslua](https://x.com/chetaslua) · [original post](https://x.com/chetaslua/status/2120111159726727321) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** A three.js recreation of Monica's apartment from Friends.
 - **Media:** Video, 32 s. About 13K views and 236 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **复刻《老友记》Monica 的公寓**
 
-作者：[@chetaslua](https://x.com/chetaslua) · [原帖](https://x.com/chetaslua/status/2120111159726727321) · 发布于 2026-11-10
+作者：[@chetaslua](https://x.com/chetaslua) · [原帖](https://x.com/chetaslua/status/2120111159726727321) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** three.js 复刻《老友记》里 Monica 的公寓。
 - **媒体：** 视频 32 秒。截至 2026-11-11 约 1.3 万 浏览、236 赞。

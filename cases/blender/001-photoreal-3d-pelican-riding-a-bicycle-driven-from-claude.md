@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 1 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@techfren](https://x.com/techfren) · [original post](https://x.com/techfren/status/2119924958134702276) · posted 2026-11-09
+By [@techfren](https://x.com/techfren) · [original post](https://x.com/techfren/status/2119924958134702276) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A photoreal short of a 3D pelican riding a bicycle. Fable 5.2 drove Blender 5.2.3 headlessly from Claude Code, writing about 4,800 lines of Python for a 21-bone rig, feathers and a drivetrain that actually turns, and Cycles OptiX rendered the 444 frames on an RTX 5080 in 56 minutes (technical details in the author's reply, [x.com/techfren/status/2119926681716834440](https://x.com/techfren/status/2119926681716834440)).
 - **Media:** Video, 18 s. About 163K views and 910 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **写实 3D 鹈鹕骑自行车短片**
 
-作者：[@techfren](https://x.com/techfren) · [原帖](https://x.com/techfren/status/2119924958134702276) · 发布于 2026-11-09
+作者：[@techfren](https://x.com/techfren) · [原帖](https://x.com/techfren/status/2119924958134702276) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 3D 鹈鹕骑自行车写实短片。Fable 5.2 在 Claude Code 里无界面驱动 Blender 5.2.3，写约 4,800 行 Python：21 骨骼绑定、羽毛、可转动的传动系统，Cycles OptiX 在 RTX 5080 上渲 444 帧共 56 分钟（技术细节见作者回复 [x.com/techfren/status/2119926681716834440](https://x.com/techfren/status/2119926681716834440)）。
 - **媒体：** 视频 18 秒。截至 2026-11-11 约 16.3 万 浏览、910 赞。

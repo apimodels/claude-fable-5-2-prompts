@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 33 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@mdjunaidap](https://x.com/mdjunaidap) · [original post](https://x.com/mdjunaidap/status/2119911690552943067) · posted 2026-11-09
+By [@mdjunaidap](https://x.com/mdjunaidap) · [original post](https://x.com/mdjunaidap/status/2119911690552943067) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** A three.js visual effect made of 320,000 particles.
 - **Media:** Video, 31 s. About 1,216 views and 5 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **32 万粒子的 three.js 特效**
 
-作者：[@mdjunaidap](https://x.com/mdjunaidap) · [原帖](https://x.com/mdjunaidap/status/2119911690552943067) · 发布于 2026-11-09
+作者：[@mdjunaidap](https://x.com/mdjunaidap) · [原帖](https://x.com/mdjunaidap/status/2119911690552943067) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** 32 万粒子的 three.js 特效。
 - **媒体：** 视频 31 秒。截至 2026-11-11 约 1,216 浏览、5 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 96 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@0xKense1](https://x.com/0xKense1) · [original post](https://x.com/0xKense1/status/2119916096098582566) · posted 2026-11-09
+By [@0xKense1](https://x.com/0xKense1) · [original post](https://x.com/0xKense1/status/2119916096098582566) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** In Blender, a raw Tripo model was turned into a rigged game character in 36 minutes, with a comparison against Opus 5.5.
 - **Media:** Video, 28 s. About 48K views and 532 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **36 分钟把 Tripo 模型做成绑定角色**
 
-作者：[@0xKense1](https://x.com/0xKense1) · [原帖](https://x.com/0xKense1/status/2119916096098582566) · 发布于 2026-11-09
+作者：[@0xKense1](https://x.com/0xKense1) · [原帖](https://x.com/0xKense1/status/2119916096098582566) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 在 Blender 里把一个 Tripo 原始模型做成绑定好的游戏角色，36 分钟，并和 Opus 5.5 对比。
 - **媒体：** 视频 28 秒。截至 2026-11-11 约 4.8 万 浏览、532 赞。

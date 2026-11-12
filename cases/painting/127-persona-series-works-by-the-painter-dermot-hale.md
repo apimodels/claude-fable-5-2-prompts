@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 127 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@jkeatn](https://x.com/jkeatn) · [original post](https://x.com/jkeatn/status/2119874011970797660) · posted 2026-11-09
+By [@jkeatn](https://x.com/jkeatn) · [original post](https://x.com/jkeatn/status/2119874011970797660) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** Part of the persona series: paintings made under the painter persona "Dermot Hale".
 - **Media:** 4 images. About 52K views and 670 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **人格系列：画家 Dermot Hale**
 
-作者：[@jkeatn](https://x.com/jkeatn) · [原帖](https://x.com/jkeatn/status/2119874011970797660) · 发布于 2026-11-09
+作者：[@jkeatn](https://x.com/jkeatn) · [原帖](https://x.com/jkeatn/status/2119874011970797660) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 人格系列：画家 "Dermot Hale"。
 - **媒体：** 图片 ×4。截至 2026-11-11 约 5.2 万 浏览、670 赞。

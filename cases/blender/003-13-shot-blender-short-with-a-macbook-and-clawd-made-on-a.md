@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 3 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@rileybrown](https://x.com/rileybrown) · [original post](https://x.com/rileybrown/status/2119902109709537708) · posted 2026-11-09
+By [@rileybrown](https://x.com/rileybrown) · [original post](https://x.com/rileybrown/status/2119902109709537708) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A Blender short generated in one go during a livestream: 13 shots featuring a desk, a MacBook and a little Clawd figure. Rendering it in 4K on 10 GPUs on RunPod took 52 minutes and cost $5.75.
 - **Media:** Video, 59 s. About 810K views and 6,802 likes as of 11 November 2026.
@@ -15,7 +15,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **直播里一次生成的 Blender 短片**
 
-作者：[@rileybrown](https://x.com/rileybrown) · [原帖](https://x.com/rileybrown/status/2119902109709537708) · 发布于 2026-11-09
+作者：[@rileybrown](https://x.com/rileybrown) · [原帖](https://x.com/rileybrown/status/2119902109709537708) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 直播里一次生成的 Blender 短片：桌面、MacBook、Clawd 小人共 13 个镜头，RunPod 上 10 张 GPU 渲 4K 用了 52 分钟、花费 $5.75。
 - **媒体：** 视频 59 秒。截至 2026-11-11 约 81 万 浏览、6,802 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 86 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@DanielZambrini](https://x.com/DanielZambrini) · [original post](https://x.com/DanielZambrini/status/2119893834276507954) · posted 2026-11-09
+By [@DanielZambrini](https://x.com/DanielZambrini) · [original post](https://x.com/DanielZambrini/status/2119893834276507954) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A stick-figure fight with slow-motion beats, posted with a cost comparison against Opus ($40.36 vs $18.88).
 - **Media:** Video, 15 s. About 33K views and 184 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **火柴人慢动作打斗，对比 Opus 成本**
 
-作者：[@DanielZambrini](https://x.com/DanielZambrini) · [原帖](https://x.com/DanielZambrini/status/2119893834276507954) · 发布于 2026-11-09
+作者：[@DanielZambrini](https://x.com/DanielZambrini) · [原帖](https://x.com/DanielZambrini/status/2119893834276507954) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 火柴人打斗加慢动作，并和 Opus 对比成本（$40.36 vs $18.88）。
 - **媒体：** 视频 15 秒。截至 2026-11-11 约 3.3 万 浏览、184 赞。

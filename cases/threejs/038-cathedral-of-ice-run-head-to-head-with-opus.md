@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 38 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@QQTeng](https://x.com/QQTeng) · [original post](https://x.com/QQTeng/status/2119913518015435103) · posted 2026-11-09
+By [@QQTeng](https://x.com/QQTeng) · [original post](https://x.com/QQTeng/status/2119913518015435103) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** "Cathedral of Ice", given to Fable and Opus as the same prompt for a side-by-side comparison. Cost: $81.10.
 - **Media:** Video, 24 s. About 76K views and 129 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **冰之大教堂：与 Opus 同题对比**
 
-作者：[@QQTeng](https://x.com/QQTeng) · [原帖](https://x.com/QQTeng/status/2119913518015435103) · 发布于 2026-11-09
+作者：[@QQTeng](https://x.com/QQTeng) · [原帖](https://x.com/QQTeng/status/2119913518015435103) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** "冰之大教堂"，和 Opus 同题对比，花费 $81.10。
 - **媒体：** 视频 24 秒。截至 2026-11-11 约 7.6 万 浏览、129 赞。

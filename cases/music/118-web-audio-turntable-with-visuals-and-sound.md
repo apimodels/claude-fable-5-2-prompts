@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 118 of 145 · Music in Code · [简体中文](#中文)
 
-By [@JuanDHernandezG](https://x.com/JuanDHernandezG) · [original post](https://x.com/JuanDHernandezG/status/2120336615126225363) · posted 2026-11-11
+By [@JuanDHernandezG](https://x.com/JuanDHernandezG) · [original post](https://x.com/JuanDHernandezG/status/2120336615126225363) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** A vinyl record player built on Web Audio, with both visuals and sound.
 - **Media:** Video, 57 s. About 30 views and 0 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Web Audio 黑胶唱机**
 
-作者：[@JuanDHernandezG](https://x.com/JuanDHernandezG) · [原帖](https://x.com/JuanDHernandezG/status/2120336615126225363) · 发布于 2026-11-11
+作者：[@JuanDHernandezG](https://x.com/JuanDHernandezG) · [原帖](https://x.com/JuanDHernandezG/status/2120336615126225363) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** Web Audio 黑胶唱机（视觉加声音）。
 - **媒体：** 视频 57 秒。截至 2026-11-11 约 30 浏览、0 赞。

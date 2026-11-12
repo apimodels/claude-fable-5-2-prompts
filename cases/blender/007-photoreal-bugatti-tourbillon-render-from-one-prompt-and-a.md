@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 7 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@xikhar](https://x.com/xikhar) · [original post](https://x.com/xikhar/status/2119966147328299284) · posted 2026-11-10
+By [@xikhar](https://x.com/xikhar) · [original post](https://x.com/xikhar/status/2119966147328299284) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A short, photoreal 3D render of the Bugatti Tourbillon, made from a single prompt plus a reference image in a run of about 2.5 hours.
 - **Media:** Video, 33 s. About 112K views and 1,236 likes as of 11 November 2026.
@@ -15,7 +15,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **布加迪 Tourbillon 写实 3D 渲染**
 
-作者：[@xikhar](https://x.com/xikhar) · [原帖](https://x.com/xikhar/status/2119966147328299284) · 发布于 2026-11-10
+作者：[@xikhar](https://x.com/xikhar) · [原帖](https://x.com/xikhar/status/2119966147328299284) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** Bugatti Tourbillon 写实 3D 渲染短片，一条提示词加参考图，跑了约 2.5 小时。
 - **媒体：** 视频 33 秒。截至 2026-11-11 约 11.2 万 浏览、1,236 赞。

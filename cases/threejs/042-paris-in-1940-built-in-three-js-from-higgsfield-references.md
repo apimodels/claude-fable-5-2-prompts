@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 42 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2119910344998912507) · posted 2026-11-09
+By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2119910344998912507) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** From Higgsfield: Paris in 1940, built in three.js, with reference images generated through the Higgsfield MCP.
 - **Media:** Video, 23 s. About 15K views and 204 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **three.js 还原 1940 年的巴黎**
 
-作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2119910344998912507) · 发布于 2026-11-09
+作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2119910344998912507) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** Higgsfield：1940 年的巴黎（three.js），参考图用 Higgsfield MCP 生成。
 - **媒体：** 视频 23 秒。截至 2026-11-11 约 1.5 万 浏览、204 赞。

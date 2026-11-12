@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 128 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@jkeatn](https://x.com/jkeatn) · [original post](https://x.com/jkeatn/status/2119874016127410309) · posted 2026-11-09
+By [@jkeatn](https://x.com/jkeatn) · [original post](https://x.com/jkeatn/status/2119874016127410309) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** Another entry in the persona series, this one painted under the persona "Tidewright".
 - **Media:** 3 images. About 49K views and 456 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **人格系列：Tidewright**
 
-作者：[@jkeatn](https://x.com/jkeatn) · [原帖](https://x.com/jkeatn/status/2119874016127410309) · 发布于 2026-11-09
+作者：[@jkeatn](https://x.com/jkeatn) · [原帖](https://x.com/jkeatn/status/2119874016127410309) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 人格系列："Tidewright"。
 - **媒体：** 图片 ×3。截至 2026-11-11 约 4.9 万 浏览、456 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 137 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@MrTacticalX](https://x.com/MrTacticalX) · [original post](https://x.com/MrTacticalX/status/2120473175158849884) · posted 2026-11-11
+By [@MrTacticalX](https://x.com/MrTacticalX) · [original post](https://x.com/MrTacticalX/status/2120473175158849884) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** An oil painting of a Swiss lake scene that took 1 hour 11 minutes and cost $22.62.
 - **Media:** Video, 59 s. About 1,019 views and 22 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **用代码画的瑞士湖景油画**
 
-作者：[@MrTacticalX](https://x.com/MrTacticalX) · [原帖](https://x.com/MrTacticalX/status/2120473175158849884) · 发布于 2026-11-11
+作者：[@MrTacticalX](https://x.com/MrTacticalX) · [原帖](https://x.com/MrTacticalX/status/2120473175158849884) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 瑞士湖景油画，1 小时 11 分钟，$22.62。
 - **媒体：** 视频 59 秒。截至 2026-11-11 约 1,019 浏览、22 赞。

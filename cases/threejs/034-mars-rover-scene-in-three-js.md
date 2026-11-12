@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 34 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@koss_ai](https://x.com/koss_ai) · [original post](https://x.com/koss_ai/status/2120213917167190407) · posted 2026-11-10
+By [@koss_ai](https://x.com/koss_ai) · [original post](https://x.com/koss_ai/status/2120213917167190407) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** A Mars rover scene built in three.js. The author also made a mech (post 2120497358043512942) and a drone (post 2120126781176832425).
 - **Media:** Video, 99 s. About 244 views and 3 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **three.js 火星车场景**
 
-作者：[@koss_ai](https://x.com/koss_ai) · [原帖](https://x.com/koss_ai/status/2120213917167190407) · 发布于 2026-11-10
+作者：[@koss_ai](https://x.com/koss_ai) · [原帖](https://x.com/koss_ai/status/2120213917167190407) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** 火星车 three.js 场景（作者还做了机甲 2120497358043512942 和无人机 2120126781176832425）。
 - **媒体：** 视频 99 秒。截至 2026-11-11 约 244 浏览、3 赞。

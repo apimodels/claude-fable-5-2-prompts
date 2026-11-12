@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 98 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@whaledevstudios](https://x.com/whaledevstudios) · [original post](https://x.com/whaledevstudios/status/2119893083366064392) · posted 2026-11-09
+By [@whaledevstudios](https://x.com/whaledevstudios) · [original post](https://x.com/whaledevstudios/status/2119893083366064392) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A new enemy for a cartoon FPS, designed from zero and taken all the way to game-ready.
 - **Media:** Video, 61 s. About 1,231 views and 28 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **为卡通 FPS 从零设计新敌人**
 
-作者：[@whaledevstudios](https://x.com/whaledevstudios) · [原帖](https://x.com/whaledevstudios/status/2119893083366064392) · 发布于 2026-11-09
+作者：[@whaledevstudios](https://x.com/whaledevstudios) · [原帖](https://x.com/whaledevstudios/status/2119893083366064392) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 给卡通 FPS 从零设计一个新敌人，做到游戏可用。
 - **媒体：** 视频 61 秒。截至 2026-11-11 约 1,231 浏览、28 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 57 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@kaif9998](https://x.com/kaif9998) · [original post](https://x.com/kaif9998/status/2119903824848761287) · posted 2026-11-09
+By [@kaif9998](https://x.com/kaif9998) · [original post](https://x.com/kaif9998/status/2119903824848761287) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A 15-second animation that says a final goodbye to Opus 5.5 now that Fable 5.2 is here.
 - **Media:** Video, 15 s. About 1,588 views and 18 likes as of 11 November 2026.
@@ -23,7 +23,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **告别 Opus 5.5 的 15 秒动画**
 
-作者：[@kaif9998](https://x.com/kaif9998) · [原帖](https://x.com/kaif9998/status/2119903824848761287) · 发布于 2026-11-09
+作者：[@kaif9998](https://x.com/kaif9998) · [原帖](https://x.com/kaif9998/status/2119903824848761287) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 15 秒动画：告别 Opus 5.5，迎来 Fable 5.2。
 - **媒体：** 视频 15 秒。截至 2026-11-11 约 1,588 浏览、18 赞。

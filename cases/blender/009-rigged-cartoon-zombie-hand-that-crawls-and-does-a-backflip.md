@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 9 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2119893970897490135) · posted 2026-11-09
+By [@higgsfield_ai](https://x.com/higgsfield_ai) · [original post](https://x.com/higgsfield_ai/status/2119893970897490135) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** From Higgsfield: a rigged zombie hand built with Blender Python that crawls and does a backflip, with the keyframes refined in stages.
 - **Media:** Video, 19 s. About 63K views and 950 likes as of 11 November 2026.
@@ -34,7 +34,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **会爬行和后空翻的僵尸手动画**
 
-作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2119893970897490135) · 发布于 2026-11-09
+作者：[@higgsfield_ai](https://x.com/higgsfield_ai) · [原帖](https://x.com/higgsfield_ai/status/2119893970897490135) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** Higgsfield：Blender Python 做出绑定好的僵尸手，会爬行、会后空翻（含关键帧分阶段打磨）。
 - **媒体：** 视频 19 秒。截至 2026-11-11 约 6.3 万 浏览、950 赞。

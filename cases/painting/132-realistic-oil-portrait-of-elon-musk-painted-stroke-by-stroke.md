@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 132 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@DeaglePc](https://x.com/DeaglePc) · [original post](https://x.com/DeaglePc/status/2120410086791344184) · posted 2026-11-11
+By [@DeaglePc](https://x.com/DeaglePc) · [original post](https://x.com/DeaglePc/status/2120410086791344184) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** A realistic oil painting of Elon Musk, shown being built up one stroke at a time.
 - **Media:** Video, 32 s. About 210 views and 1 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **一笔一笔画出的马斯克写实油画**
 
-作者：[@DeaglePc](https://x.com/DeaglePc) · [原帖](https://x.com/DeaglePc/status/2120410086791344184) · 发布于 2026-11-11
+作者：[@DeaglePc](https://x.com/DeaglePc) · [原帖](https://x.com/DeaglePc/status/2120410086791344184) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 写实油画马斯克，带一笔一笔画上去的过程。
 - **媒体：** 视频 32 秒。截至 2026-11-11 约 210 浏览、1 赞。

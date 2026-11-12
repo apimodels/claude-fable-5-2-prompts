@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 103 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@tymarsha](https://x.com/tymarsha) · [original post](https://x.com/tymarsha/status/2119904015454810582) · posted 2026-11-09
+By [@tymarsha](https://x.com/tymarsha) · [original post](https://x.com/tymarsha/status/2119904015454810582) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** An action piece made from a single prompt with Fable 5.2 on the High effort setting; the clip runs 44 seconds.
 - **Media:** Video, 44 s. About 265 views and 1 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **High 档一条提示词做的动作作品**
 
-作者：[@tymarsha](https://x.com/tymarsha) · [原帖](https://x.com/tymarsha/status/2119904015454810582) · 发布于 2026-11-09
+作者：[@tymarsha](https://x.com/tymarsha) · [原帖](https://x.com/tymarsha/status/2119904015454810582) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** Fable 5.2 High 档一条提示词做的动作作品（44 秒）。
 - **媒体：** 视频 44 秒。截至 2026-11-11 约 265 浏览、1 赞。

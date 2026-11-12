@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 95 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@promodenstudio](https://x.com/promodenstudio) · [original post](https://x.com/promodenstudio/status/2120085977079107788) · posted 2026-11-10
+By [@promodenstudio](https://x.com/promodenstudio) · [original post](https://x.com/promodenstudio/status/2120085977079107788) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** Courtyard Kings is a fighting game that gained commentary, music and impact sound effects once ElevenLabs MCP was hooked up.
 - **Media:** Video, 38 s. About 174 views and 3 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **格斗游戏 Courtyard Kings**
 
-作者：[@promodenstudio](https://x.com/promodenstudio) · [原帖](https://x.com/promodenstudio/status/2120085977079107788) · 发布于 2026-11-10
+作者：[@promodenstudio](https://x.com/promodenstudio) · [原帖](https://x.com/promodenstudio/status/2120085977079107788) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 格斗游戏 "Courtyard Kings"，接上 ElevenLabs MCP 后有了解说、音乐和打击音效。
 - **媒体：** 视频 38 秒。截至 2026-11-11 约 174 浏览、3 赞。

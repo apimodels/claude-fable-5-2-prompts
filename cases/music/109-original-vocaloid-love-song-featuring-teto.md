@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 109 of 145 · Music in Code · [简体中文](#中文)
 
-By [@peach2k2](https://x.com/peach2k2) · [original post](https://x.com/peach2k2/status/2119885741773738033) · posted 2026-11-09
+By [@peach2k2](https://x.com/peach2k2) · [original post](https://x.com/peach2k2/status/2119885741773738033) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** An original love song for Teto (Vocaloid).
 - **Media:** Video, 24 s. About 386K views and 1,732 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Teto 的 Vocaloid 原创情歌**
 
-作者：[@peach2k2](https://x.com/peach2k2) · [原帖](https://x.com/peach2k2/status/2119885741773738033) · 发布于 2026-11-09
+作者：[@peach2k2](https://x.com/peach2k2) · [原帖](https://x.com/peach2k2/status/2119885741773738033) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** Teto（Vocaloid）的原创情歌。
 - **媒体：** 视频 24 秒。截至 2026-11-11 约 38.6 万 浏览、1,732 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 61 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@midudev](https://x.com/midudev) · [original post](https://x.com/midudev/status/2119876297304203273) · posted 2026-11-09
+By [@midudev](https://x.com/midudev) · [original post](https://x.com/midudev/status/2119876297304203273) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** An animated trailer for sharing an open-source project on social media, built with hyperframes and with sound (in Spanish, with effort set to medium).
 - **Media:** Video, 32 s. About 97K views and 2,300 likes as of 11 November 2026.
@@ -22,7 +22,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **开源项目的社交媒体动画预告片**
 
-作者：[@midudev](https://x.com/midudev) · [原帖](https://x.com/midudev/status/2119876297304203273) · 发布于 2026-11-09
+作者：[@midudev](https://x.com/midudev) · [原帖](https://x.com/midudev/status/2119876297304203273) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 给开源项目做社交媒体动画预告片，用 hyperframes 并带音效（西班牙语，effort 设为中档）。
 - **媒体：** 视频 32 秒。截至 2026-11-11 约 9.7 万 浏览、2,300 赞。

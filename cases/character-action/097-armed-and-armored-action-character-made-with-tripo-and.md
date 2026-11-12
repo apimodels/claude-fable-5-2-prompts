@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 97 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@luccacerf](https://x.com/luccacerf) · [original post](https://x.com/luccacerf/status/2120305718939021566) · posted 2026-11-11
+By [@luccacerf](https://x.com/luccacerf) · [original post](https://x.com/luccacerf/status/2120305718939021566) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** An action character with weapons and armor, made in under 3 hours using Fable 5.2, Tripo and Blender MCP.
 - **Media:** Video, 25 s. About 16K views and 261 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **不到 3 小时做出的武装动作角色**
 
-作者：[@luccacerf](https://x.com/luccacerf) · [原帖](https://x.com/luccacerf/status/2120305718939021566) · 发布于 2026-11-11
+作者：[@luccacerf](https://x.com/luccacerf) · [原帖](https://x.com/luccacerf/status/2120305718939021566) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 用 Fable 5.2、Tripo 和 Blender MCP，不到 3 小时做出带武器盔甲的动作角色。
 - **媒体：** 视频 25 秒。截至 2026-11-11 约 1.6 万 浏览、261 赞。

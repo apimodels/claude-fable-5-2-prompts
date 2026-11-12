@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 51 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@other__reality](https://x.com/other__reality) · [original post](https://x.com/other__reality/status/2119885430627913784) · posted 2026-11-09
+By [@other__reality](https://x.com/other__reality) · [original post](https://x.com/other__reality/status/2119885430627913784) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** An animation in which the little Clawd character builds Claude Fable 5.2 and then releases it.
 - **Media:** Video, 26 s. About 13K views and 212 likes as of 11 November 2026.
@@ -20,7 +20,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Clawd 小人制作并发布 Fable 5.2**
 
-作者：[@other__reality](https://x.com/other__reality) · [原帖](https://x.com/other__reality/status/2119885430627913784) · 发布于 2026-11-09
+作者：[@other__reality](https://x.com/other__reality) · [原帖](https://x.com/other__reality/status/2119885430627913784) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** Clawd 小人制作并发布 Claude Fable 5.2 的动画。
 - **媒体：** 视频 26 秒。截至 2026-11-11 约 1.3 万 浏览、212 赞。

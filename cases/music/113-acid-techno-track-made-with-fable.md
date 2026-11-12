@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 113 of 145 · Music in Code · [简体中文](#中文)
 
-By [@Masimo_Blue](https://x.com/Masimo_Blue) · [original post](https://x.com/Masimo_Blue/status/2119943368612487285) · posted 2026-11-10
+By [@Masimo_Blue](https://x.com/Masimo_Blue) · [original post](https://x.com/Masimo_Blue/status/2119943368612487285) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** An acid techno track.
 - **Media:** Video, 10 s + 3 images. About 2,407 views and 60 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **一首 acid techno 曲目**
 
-作者：[@Masimo_Blue](https://x.com/Masimo_Blue) · [原帖](https://x.com/Masimo_Blue/status/2119943368612487285) · 发布于 2026-11-10
+作者：[@Masimo_Blue](https://x.com/Masimo_Blue) · [原帖](https://x.com/Masimo_Blue/status/2119943368612487285) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** acid techno 曲目。
 - **媒体：** 视频 10 秒 + 图片 ×3。截至 2026-11-11 约 2,407 浏览、60 赞。

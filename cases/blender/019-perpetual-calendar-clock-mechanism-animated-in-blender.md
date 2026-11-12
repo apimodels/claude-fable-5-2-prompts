@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 19 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@MakeAI_CEO](https://x.com/MakeAI_CEO) · [original post](https://x.com/MakeAI_CEO/status/2120357364838900108) · posted 2026-11-11
+By [@MakeAI_CEO](https://x.com/MakeAI_CEO) · [original post](https://x.com/MakeAI_CEO/status/2120357364838900108) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A mechanical animation of a perpetual calendar clock, made in Blender.
 - **Media:** Video, 10 s. About 2,486 views and 19 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **Blender 里的万年历时钟机械动画**
 
-作者：[@MakeAI_CEO](https://x.com/MakeAI_CEO) · [原帖](https://x.com/MakeAI_CEO/status/2120357364838900108) · 发布于 2026-11-11
+作者：[@MakeAI_CEO](https://x.com/MakeAI_CEO) · [原帖](https://x.com/MakeAI_CEO/status/2120357364838900108) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** Blender 里做的"万年历时钟"机械动画。
 - **媒体：** 视频 10 秒。截至 2026-11-11 约 2,486 浏览、19 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 105 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@OneHitKillDev](https://x.com/OneHitKillDev) · [original post](https://x.com/OneHitKillDev/status/2119882801222709524) · posted 2026-11-09
+By [@OneHitKillDev](https://x.com/OneHitKillDev) · [original post](https://x.com/OneHitKillDev/status/2119882801222709524) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** An action game generated in a single run on Spawn, shown in a 95-second clip.
 - **Media:** Video, 95 s. About 1,508 views and 31 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **用 Spawn 一次生成的动作游戏**
 
-作者：[@OneHitKillDev](https://x.com/OneHitKillDev) · [原帖](https://x.com/OneHitKillDev/status/2119882801222709524) · 发布于 2026-11-09
+作者：[@OneHitKillDev](https://x.com/OneHitKillDev) · [原帖](https://x.com/OneHitKillDev/status/2119882801222709524) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 在 Spawn 上一次生成的动作游戏（95 秒）。
 - **媒体：** 视频 95 秒。截至 2026-11-11 约 1,508 浏览、31 赞。

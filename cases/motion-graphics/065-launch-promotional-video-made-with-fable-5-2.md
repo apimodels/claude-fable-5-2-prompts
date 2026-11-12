@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 65 of 145 · Motion Graphics and Launch Videos · [简体中文](#中文)
 
-By [@DoctorYev](https://x.com/DoctorYev) · [original post](https://x.com/DoctorYev/status/2119895951108423801) · posted 2026-11-09
+By [@DoctorYev](https://x.com/DoctorYev) · [original post](https://x.com/DoctorYev/status/2119895951108423801) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/motion-graphics)
 
 - **What it is:** A promotional video for a launch.
 - **Media:** Video, 63 s. About 1,630 views and 18 likes as of 11 November 2026.
@@ -15,7 +15,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **用 Fable 5.2 做的发布宣传片**
 
-作者：[@DoctorYev](https://x.com/DoctorYev) · [原帖](https://x.com/DoctorYev/status/2119895951108423801) · 发布于 2026-11-09
+作者：[@DoctorYev](https://x.com/DoctorYev) · [原帖](https://x.com/DoctorYev/status/2119895951108423801) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/motion-graphics)
 
 - **作品：** 发布宣传片。
 - **媒体：** 视频 63 秒。截至 2026-11-11 约 1,630 浏览、18 赞。

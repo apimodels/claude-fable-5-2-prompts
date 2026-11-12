@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 5 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@maxt3chno](https://x.com/maxt3chno) · [original post](https://x.com/maxt3chno/status/2119896698281467952) · posted 2026-11-09
+By [@maxt3chno](https://x.com/maxt3chno) · [original post](https://x.com/maxt3chno/status/2119896698281467952) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A game-ready 3D zombie war eagle built through Blender MCP and matched to a reference image part by part.
 - **Media:** Video, 21 s. About 21K views and 304 likes as of 11 November 2026.
@@ -29,7 +29,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **Blender MCP 做的游戏级僵尸战鹰**
 
-作者：[@maxt3chno](https://x.com/maxt3chno) · [原帖](https://x.com/maxt3chno/status/2119896698281467952) · 发布于 2026-11-09
+作者：[@maxt3chno](https://x.com/maxt3chno) · [原帖](https://x.com/maxt3chno/status/2119896698281467952) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 通过 Blender MCP 做出的游戏级 3D 僵尸战鹰，对照参考图逐部位建模。
 - **媒体：** 视频 21 秒。截至 2026-11-11 约 2.1 万 浏览、304 赞。

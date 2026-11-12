@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 40 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@N1njaCodex](https://x.com/N1njaCodex) · [original post](https://x.com/N1njaCodex/status/2119883560937001387) · posted 2026-11-09
+By [@N1njaCodex](https://x.com/N1njaCodex) · [original post](https://x.com/N1njaCodex/status/2119883560937001387) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** "Deep Dive Switch": asked for a volume slider, it built a whole underwater world with sea turtles inside it, for $7.48.
 - **Media:** Video, 10 s. About 3,992 views and 108 likes as of 11 November 2026.
@@ -33,7 +33,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Deep Dive Switch 海底滑块**
 
-作者：[@N1njaCodex](https://x.com/N1njaCodex) · [原帖](https://x.com/N1njaCodex/status/2119883560937001387) · 发布于 2026-11-09
+作者：[@N1njaCodex](https://x.com/N1njaCodex) · [原帖](https://x.com/N1njaCodex/status/2119883560937001387) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** "Deep Dive Switch"：要一个音量滑块，它在里面做了一整个带海龟的水下世界，花费 $7.48。
 - **媒体：** 视频 10 秒。截至 2026-11-11 约 3,992 浏览、108 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 139 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@chetaslua](https://x.com/chetaslua) · [original post](https://x.com/chetaslua/status/2120464199096885739) · posted 2026-11-11
+By [@chetaslua](https://x.com/chetaslua) · [original post](https://x.com/chetaslua/status/2120464199096885739) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** The Mona Lisa recreated in pure JS code (see also the 62,430-stroke version by @AnikaCodes, post 2120467261458911412).
 - **Media:** Video, 16 s. About 10K views and 168 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **纯 JS 代码画的蒙娜丽莎**
 
-作者：[@chetaslua](https://x.com/chetaslua) · [原帖](https://x.com/chetaslua/status/2120464199096885739) · 发布于 2026-11-11
+作者：[@chetaslua](https://x.com/chetaslua) · [原帖](https://x.com/chetaslua/status/2120464199096885739) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 纯 JS 代码画蒙娜丽莎（另见 @AnikaCodes 的 62,430 笔版本 2120467261458911412）。
 - **媒体：** 视频 16 秒。截至 2026-11-11 约 1 万 浏览、168 赞。

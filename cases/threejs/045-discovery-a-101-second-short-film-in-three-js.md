@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 45 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@YinYangYoeshi](https://x.com/YinYangYoeshi) · [original post](https://x.com/YinYangYoeshi/status/2119897840965001317) · posted 2026-11-09
+By [@YinYangYoeshi](https://x.com/YinYangYoeshi) · [original post](https://x.com/YinYangYoeshi/status/2119897840965001317) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** "Discovery": a short film (101 seconds) made with three.js, Fable 5.2 and Prancer Codex.
 - **Media:** Video, 101 s. About 449 views and 15 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Discovery：101 秒短片**
 
-作者：[@YinYangYoeshi](https://x.com/YinYangYoeshi) · [原帖](https://x.com/YinYangYoeshi/status/2119897840965001317) · 发布于 2026-11-09
+作者：[@YinYangYoeshi](https://x.com/YinYangYoeshi) · [原帖](https://x.com/YinYangYoeshi/status/2119897840965001317) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** "Discovery"：用 three.js、Fable 5.2 和 Prancer Codex 做的短片（101 秒）。
 - **媒体：** 视频 101 秒。截至 2026-11-11 约 449 浏览、15 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 136 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@anand_bongir](https://x.com/anand_bongir) · [original post](https://x.com/anand_bongir/status/2120166327033925952) · posted 2026-11-10
+By [@anand_bongir](https://x.com/anand_bongir) · [original post](https://x.com/anand_bongir/status/2120166327033925952) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** The life of a single seed is used to tell a story about karma: 13 paintings, roughly 210,000 strokes, 74 seconds.
 - **Media:** Video, 73 s. About 41 views and 0 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **用一粒种子的一生讲业力**
 
-作者：[@anand_bongir](https://x.com/anand_bongir) · [原帖](https://x.com/anand_bongir/status/2120166327033925952) · 发布于 2026-11-10
+作者：[@anand_bongir](https://x.com/anand_bongir) · [原帖](https://x.com/anand_bongir/status/2120166327033925952) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 用一粒种子的一生讲"业力"：13 幅画，约 21 万笔，74 秒。
 - **媒体：** 视频 73 秒。截至 2026-11-11 约 41 浏览、0 赞。

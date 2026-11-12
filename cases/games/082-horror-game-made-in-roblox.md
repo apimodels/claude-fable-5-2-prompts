@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 82 of 145 · Games · [简体中文](#中文)
 
-By [@mihawkxxxxx](https://x.com/mihawkxxxxx) · [original post](https://x.com/mihawkxxxxx/status/2119909865296699749) · posted 2026-11-09
+By [@mihawkxxxxx](https://x.com/mihawkxxxxx) · [original post](https://x.com/mihawkxxxxx/status/2119909865296699749) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/games)
 
 - **What it is:** A horror game in Roblox.
 - **Media:** Video, 54 s. About 1,150 views and 11 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **Roblox 恐怖游戏**
 
-作者：[@mihawkxxxxx](https://x.com/mihawkxxxxx) · [原帖](https://x.com/mihawkxxxxx/status/2119909865296699749) · 发布于 2026-11-09
+作者：[@mihawkxxxxx](https://x.com/mihawkxxxxx) · [原帖](https://x.com/mihawkxxxxx/status/2119909865296699749) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/games)
 
 - **作品：** Roblox 恐怖游戏。
 - **媒体：** 视频 54 秒。截至 2026-11-11 约 1,150 浏览、11 赞。

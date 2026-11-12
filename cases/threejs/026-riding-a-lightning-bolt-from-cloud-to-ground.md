@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 26 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2119052253982306393) · posted 2026-11-07
+By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2119052253982306393) · posted 2026-11-07 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** Part 14 of camperaigg's series: lightning, built in three.js.
 - **Media:** Video, 27 s. About 106K views and 2,182 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **three.js 闪电：从云层劈到地面**
 
-作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2119052253982306393) · 发布于 2026-11-07
+作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2119052253982306393) · 发布于 2026-11-07 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** camperaigg Part 14：闪电（three.js）。
 - **媒体：** 视频 27 秒。截至 2026-11-11 约 10.6 万 浏览、2,182 赞。

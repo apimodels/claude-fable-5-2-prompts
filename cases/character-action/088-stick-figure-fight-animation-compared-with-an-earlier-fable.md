@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 88 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@leo114119](https://x.com/leo114119) · [original post](https://x.com/leo114119/status/2119925803828047952) · posted 2026-11-09
+By [@leo114119](https://x.com/leo114119) · [original post](https://x.com/leo114119/status/2119925803828047952) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A stick-figure fight animation that the author finds more impressive than the version from the earlier Fable 5.5 pre-release test. It cost about $40.
 - **Media:** Video, 15 s. About 1,384 views and 11 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **火柴人打斗，对比 Fable 5.5 灰度版**
 
-作者：[@leo114119](https://x.com/leo114119) · [原帖](https://x.com/leo114119/status/2119925803828047952) · 发布于 2026-11-09
+作者：[@leo114119](https://x.com/leo114119) · [原帖](https://x.com/leo114119/status/2119925803828047952) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** 火柴人打斗动画，作者说比之前 Fable 5.5 灰度测试的版本更惊艳，成本约 $40。
 - **媒体：** 视频 15 秒。截至 2026-11-11 约 1,384 浏览、11 赞。

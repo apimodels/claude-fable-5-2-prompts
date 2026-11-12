@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 10 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2117914482752299311) · posted 2026-11-04
+By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2117914482752299311) · posted 2026-11-04 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** Part 4 of camperaigg's test series: a transformer truck that can change shape, plus an animation of the transformation, made in Blender.
 - **Media:** Video, 12 s. About 3,471 views and 80 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **会变形的汽车人卡车及变形动画**
 
-作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2117914482752299311) · 发布于 2026-11-04
+作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2117914482752299311) · 发布于 2026-11-04 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** camperaigg 测试系列 Part 4：会变形的汽车人卡车及变形动画（Blender）。
 - **媒体：** 视频 12 秒。截至 2026-11-11 约 3,471 浏览、80 赞。

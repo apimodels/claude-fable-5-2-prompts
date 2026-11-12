@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 145 of 145 · Painting in Code · [简体中文](#中文)
 
-By [@sonuv_dev](https://x.com/sonuv_dev) · [original post](https://x.com/sonuv_dev/status/2120105654186861016) · posted 2026-11-10
+By [@sonuv_dev](https://x.com/sonuv_dev) · [original post](https://x.com/sonuv_dev/status/2120105654186861016) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/painting)
 
 - **What it is:** A photo of Bora Bora repainted with 311,905 strokes, ending up almost identical to the original. The post relays someone else's work rather than the poster's own.
 - **Media:** Video, 22 s. About 708 views and 5 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **311,905 笔重画波拉波拉岛**
 
-作者：[@sonuv_dev](https://x.com/sonuv_dev) · [原帖](https://x.com/sonuv_dev/status/2120105654186861016) · 发布于 2026-11-10
+作者：[@sonuv_dev](https://x.com/sonuv_dev) · [原帖](https://x.com/sonuv_dev/status/2120105654186861016) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/painting)
 
 - **作品：** 照着一张波拉波拉岛照片，用 311,905 笔重画，几乎和照片一样（转述别人的作品）。
 - **媒体：** 视频 22 秒。截至 2026-11-11 约 708 浏览、5 赞。

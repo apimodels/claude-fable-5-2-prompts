@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 115 of 145 · Music in Code · [简体中文](#中文)
 
-By [@taka_claudecode](https://x.com/taka_claudecode) · [original post](https://x.com/taka_claudecode/status/2120376647350358368) · posted 2026-11-11
+By [@taka_claudecode](https://x.com/taka_claudecode) · [original post](https://x.com/taka_claudecode/status/2120376647350358368) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** Music composed in code; the process is written up at [note.com/7bandel/n/nb3cd38b46060](https://note.com/7bandel/n/nb3cd38b46060).
 - **Media:** Video, 38 s. About 38 views and 2 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **代码作曲，附创作过程记录**
 
-作者：[@taka_claudecode](https://x.com/taka_claudecode) · [原帖](https://x.com/taka_claudecode/status/2120376647350358368) · 发布于 2026-11-11
+作者：[@taka_claudecode](https://x.com/taka_claudecode) · [原帖](https://x.com/taka_claudecode/status/2120376647350358368) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 代码作曲，写作过程见 [note.com/7bandel/n/nb3cd38b46060](https://note.com/7bandel/n/nb3cd38b46060)。
 - **媒体：** 视频 38 秒。截至 2026-11-11 约 38 浏览、2 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 91 of 145 · Character Action and Fights · [简体中文](#中文)
 
-By [@ChengYi3629](https://x.com/ChengYi3629) · [original post](https://x.com/ChengYi3629/status/2120439278450938007) · posted 2026-11-11
+By [@ChengYi3629](https://x.com/ChengYi3629) · [original post](https://x.com/ChengYi3629/status/2120439278450938007) · posted 2026-11-11 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/character-action)
 
 - **What it is:** A recreation of Diablo IV built in Blender, with a rigged character that performs combat moves.
 - **Media:** Video, 58 s. About 320 views and 3 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **Blender 里复刻《暗黑破坏神 IV》**
 
-作者：[@ChengYi3629](https://x.com/ChengYi3629) · [原帖](https://x.com/ChengYi3629/status/2120439278450938007) · 发布于 2026-11-11
+作者：[@ChengYi3629](https://x.com/ChengYi3629) · [原帖](https://x.com/ChengYi3629/status/2120439278450938007) · 发布于 2026-11-11 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/character-action)
 
 - **作品：** Blender 里复刻《暗黑破坏神 IV》，角色绑定并带战斗动作。
 - **媒体：** 视频 58 秒。截至 2026-11-11 约 320 浏览、3 赞。

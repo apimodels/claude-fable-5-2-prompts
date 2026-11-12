@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 25 of 145 · Three.js Scenes and Animation · [简体中文](#中文)
 
-By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2118317021935071339) · posted 2026-11-05
+By [@camperaigg](https://x.com/camperaigg) · [original post](https://x.com/camperaigg/status/2118317021935071339) · posted 2026-11-05 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/threejs)
 
 - **What it is:** Part 9 of camperaigg's series: a 31 m wave, built in three.js.
 - **Media:** Video, 35 s. About 19K views and 294 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **three.js 写的 31 米巨浪**
 
-作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2118317021935071339) · 发布于 2026-11-05
+作者：[@camperaigg](https://x.com/camperaigg) · [原帖](https://x.com/camperaigg/status/2118317021935071339) · 发布于 2026-11-05 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/threejs)
 
 - **作品：** camperaigg Part 9：31 米巨浪（three.js）。
 - **媒体：** 视频 35 秒。截至 2026-11-11 约 1.9 万 浏览、294 赞。

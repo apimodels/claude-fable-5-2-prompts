@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 110 of 145 · Music in Code · [简体中文](#中文)
 
-By [@aug5thmusic](https://x.com/aug5thmusic) · [original post](https://x.com/aug5thmusic/status/2119879319426404780) · posted 2026-11-09
+By [@aug5thmusic](https://x.com/aug5thmusic) · [original post](https://x.com/aug5thmusic/status/2119879319426404780) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** A 4-part chorale in the style of Bach, written in LilyPond at the Extra High effort level.
 - **Media:** Video, 45 s. About 67K views and 867 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **用 LilyPond 写巴赫风四声部众赞歌**
 
-作者：[@aug5thmusic](https://x.com/aug5thmusic) · [原帖](https://x.com/aug5thmusic/status/2119879319426404780) · 发布于 2026-11-09
+作者：[@aug5thmusic](https://x.com/aug5thmusic) · [原帖](https://x.com/aug5thmusic/status/2119879319426404780) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 用 LilyPond 写巴赫风四声部众赞歌（Extra High 档）。
 - **媒体：** 视频 45 秒。截至 2026-11-11 约 6.7 万 浏览、867 赞。

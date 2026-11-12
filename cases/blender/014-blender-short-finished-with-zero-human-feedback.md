@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 14 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@HyunSeob_](https://x.com/HyunSeob_) · [original post](https://x.com/HyunSeob_/status/2120047614360277090) · posted 2026-11-10
+By [@HyunSeob_](https://x.com/HyunSeob_) · [original post](https://x.com/HyunSeob_/status/2120047614360277090) · posted 2026-11-10 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A Blender short completed in 2 hours 50 minutes with zero human feedback, with its music synthesized in numpy.
 - **Media:** Video, 24 s. About 583 views and 6 likes as of 11 November 2026.
@@ -14,7 +14,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **零人工反馈完成的 Blender 短片**
 
-作者：[@HyunSeob_](https://x.com/HyunSeob_) · [原帖](https://x.com/HyunSeob_/status/2120047614360277090) · 发布于 2026-11-10
+作者：[@HyunSeob_](https://x.com/HyunSeob_) · [原帖](https://x.com/HyunSeob_/status/2120047614360277090) · 发布于 2026-11-10 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 2 小时 50 分钟、零人工反馈做完的 Blender 短片，音乐用 numpy 合成。
 - **媒体：** 视频 24 秒。截至 2026-11-11 约 583 浏览、6 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 4 of 145 · Blender 3D with Python · [简体中文](#中文)
 
-By [@0kncn](https://x.com/0kncn) · [original post](https://x.com/0kncn/status/2119901782482543073) · posted 2026-11-09
+By [@0kncn](https://x.com/0kncn) · [original post](https://x.com/0kncn/status/2119901782482543073) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/blender)
 
 - **What it is:** A 90-second short in the style of 2D Japanese anime, in which a steam locomotive transforms into a robot. Everything was built in Blender with Python and rendered in Eevee with line art, and even the score was written in code, synthesized with numpy oscillators (see [x.com/0kncn/status/2120060332194287853](https://x.com/0kncn/status/2120060332194287853)).
 - **Media:** Video, 90 s. About 69K views and 410 likes as of 11 November 2026.
@@ -30,7 +30,7 @@ To make one like it: the [Blender starter](../../starter/blender) renders a scen
 
 **蒸汽机车变形成机器人的 2D 动画短片**
 
-作者：[@0kncn](https://x.com/0kncn) · [原帖](https://x.com/0kncn/status/2119901782482543073) · 发布于 2026-11-09
+作者：[@0kncn](https://x.com/0kncn) · [原帖](https://x.com/0kncn/status/2119901782482543073) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/blender)
 
 - **作品：** 90 秒 2D 日式动画风短片：蒸汽机车变形成机器人。全部在 Blender 里用 Python 搭建，Eevee 渲染加描线；配乐也是代码写的（numpy 振荡器合成，见 [x.com/0kncn/status/2120060332194287853](https://x.com/0kncn/status/2120060332194287853)）。
 - **媒体：** 视频 90 秒。截至 2026-11-11 约 6.9 万 浏览、410 赞。

@@ -2,7 +2,7 @@
 
 Claude Fable 5.2 case 119 of 145 · Music in Code · [简体中文](#中文)
 
-By [@Maaaaaaadiii](https://x.com/Maaaaaaadiii) · [original post](https://x.com/Maaaaaaadiii/status/2119885527243714946) · posted 2026-11-09
+By [@Maaaaaaadiii](https://x.com/Maaaaaaadiii) · [original post](https://x.com/Maaaaaaadiii/status/2119885527243714946) · posted 2026-11-09 · [watch it in the apimodels.app gallery](https://apimodels.app/claude-fable-5-2-prompts/music)
 
 - **What it is:** Told to choose its own tools and build something, it made bell sounds with Web Audio.
 - **Media:** Video, 13 s. About 169 views and 2 likes as of 11 November 2026.
@@ -21,7 +21,7 @@ To make one like it: the [Three.js starter](../../starter/threejs) turns a page 
 
 **自选工具做出的 Web Audio 钟声**
 
-作者：[@Maaaaaaadiii](https://x.com/Maaaaaaadiii) · [原帖](https://x.com/Maaaaaaadiii/status/2119885527243714946) · 发布于 2026-11-09
+作者：[@Maaaaaaadiii](https://x.com/Maaaaaaadiii) · [原帖](https://x.com/Maaaaaaadiii/status/2119885527243714946) · 发布于 2026-11-09 · [在 apimodels.app 案例库看成片](https://apimodels.app/zh/claude-fable-5-2-prompts/music)
 
 - **作品：** 让它自己选工具做东西，结果做了 Web Audio 钟声。
 - **媒体：** 视频 13 秒。截至 2026-11-11 约 169 浏览、2 赞。
